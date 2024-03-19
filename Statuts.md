@@ -81,7 +81,7 @@ Le Bureau propose des Membres Annuels auquels attribuer le statut et soumet dans
 Les actuels Membres d'Honneurs peuvent alors voter pour accepter ou non la proposition de chaque nouveau Membre d'Honneur. La propostion est acceptée à la majorité relative avec un minimum de trois votants.
 Les propositions ainsi acceptées par les Membres d'Honneur sont votées en Assemblée Générale où la majorité relative décide de l'attribution du statut.
 
-Le nombre d'attributions au statut de Membre d’Honneur de l’association est limité à 3 étudiants par année scolaire.
+Le nombre d'attributions du statut de Membre d’Honneur de l’association est limité à 3 étudiants par année scolaire (de septembre à août).
 Les Membres d’Honneur sont des membres à vie de l’association et sont exemptés de la cotisation annuelle.
 
 ### Section 2.4 : Membres alumnis
