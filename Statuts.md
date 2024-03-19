@@ -156,14 +156,8 @@ Elle préside toutes les assemblées et exerce tous les pouvoirs de direction et
 La présidence décide de l’engagement des actions en justice et représente l’association en justice, tant en demande qu’en défense. Elle a le pouvoir de décider et d’exercer toute voie de recours ordinaire et extraordinaire et elle peut former tous appels et pouvoir.
 La présidence a le pouvoir de transiger.
 
-En cas de co-présidence (deux président(e)s):
-L’un(e) des président(e)s préside toutes les assemblées.
-En cas d’absence ou de maladie, il/elle est remplacé par l’autre co-président(e) ou à défaut par le/la Vice-président(e).
-
-Les co-président(e)s exercent tous les pouvoirs de direction et de gestion de l’association qui leurs sont délégués par le Bureau.
-Les co-président(e)s décident de l’engagement des actions en justice et représente l’association en justice, tant en demande qu’en défense. Ils/Elles ont le pouvoir de décider et d’exercer toute voie de recours ordinaire et extraordinaire. Ils/Elles peuvent former tous appels et pouvoir.
-Les co-président(e)s ont le pouvoir de transiger.
-L’un des deux co-président(e)s représente l’association en tant que président(e) pour la banque en plus du trésorier.
+La présidence peut procurer à un ou une membre du CoDir ses droits pour une durée finie ou dans un cadre précis.
+Cette procuration doit se faire par écrit ou, pour permettre de présider une Assemblée Générale uniquement, à l'oral au début de celle-ci.
 
 #### Sous-Section 4.3.2 : Vice Président(e)
 
