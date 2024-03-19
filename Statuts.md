@@ -166,10 +166,11 @@ Les co-président(e)s décident de l’engagement des actions en justice et repr
 Les co-président(e)s ont le pouvoir de transiger.
 L’un des deux co-président(e)s représente l’association en tant que président(e) pour la banque en plus du trésorier.
 
-#### Sous-Section 4.3.2 : Vice Président(e)
+#### Sous-Section 4.3.2 : Vice-Présidence
 
-Le/La vice-président(e) exerce une mission permanente de contrôle sur l’administration et la gestion courante de l’association. Il/Elle est particulièrement chargé de surveiller la tenue des registres de la correspondance et des archives de l’association.
-En cas d’absence ou de maladie le/la Vice-président(e) sera remplacé par le/la secrétaire générale, excluant les pouvoirs du/de la président(e), et disposera de l’ensemble des pouvoirs du/de la Vice-Président(e).
+Le Vice-Président, la Vice-Présidente, les Vice-Présidents ou les Vice-Présidentes, ci-après dénommé "la Vice-Présidence" joue un rôle de soutient à la Présidence.
+La Vice-Présidence exerce une mission de contrôle sur l’administration et la gestion courante de l’association.
+Elle est chargée du bon fonctionnement du Bureau et de s'assurer de la pérennité des outils et solutions mises en place durant son mandat.
 
 #### Sous-Section 4.3.3 : Trésorerie
 
