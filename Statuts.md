@@ -76,10 +76,13 @@ Les membres fondateurs sont des membres à vie de l’association.
 
 La qualité de membre d’honneur est décernée par l’assemblée générale. Le statut de membre d’honneur est proposé aux personnes physiques ou morales qui ont rendu des services éminents à l’association et qui ont activement contribué tout au long de l’année à l'amélioration de l’association. Les membres d’honneurs sont les membres ayant présenté un travail d’excellence tout au long de l’année et ayant su se démarquer par le sérieux et la rigueur de leur travail.
 
-Le bureau doit proposer des membres annuels au statut de membre d’honneur au vote des membres d’honneur déjà élus, trois membres d’honneur qui votent positivement suffisent pour rendre le vote valide. Mais un membre d’honneur qui s’oppose suffit pour invalider le vote. Les membres d’honneur actuels valident ou invalident les membres proposés par le bureau. Les membres validés par les membres d’honneur peuvent ensuite être proposés au vote en AG (assemblée générale).
+L'attribution du statut de Membre d'Honneur se fait en Assemblée Générale.
+Le Bureau propose des Membres Annuels auquels attribuer le statut et soumet dans un premier temps sa propositon aux membres ayant déjà le statut de Membre d'Honneur.
+Les actuels Membres d'Honneurs peuvent alors voter pour accepter ou non la proposition de chaque nouveau Membre d'Honneur. La propostion est acceptée à la majorité relative avec un minimum de trois votants.
+Les propositions ainsi acceptées par les Membres d'Honneur sont votées en Assemblée Générale où la majorité relative décide de l'attribution du statut.
 
-Le nombre d'attributions au statut de membre d’honneur de l’association est limité à 3 étudiants par année scolaire.
-Les membres d’honneur sont des membres à vie de l’association et sont exemptés de la cotisation annuelle.
+Le nombre d'attributions au statut de Membre d’Honneur de l’association est limité à 3 étudiants par année scolaire.
+Les Membres d’Honneur sont des membres à vie de l’association et sont exemptés de la cotisation annuelle.
 
 ### Section 2.4 : Membres alumnis
 
