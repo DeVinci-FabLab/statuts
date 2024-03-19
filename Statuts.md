@@ -147,7 +147,7 @@ En outre, le Bureau est chargé de porter à la connaissance de la préfecture, 
 
 ### Section 4.3 : Compostion
 
-Le CoDir (Comité de Direction) est constitué du/de la Président(e) et des possibles co-président(e)s, du/de la/des Vice-Président(es) et du/de la/des Secrétaire(s) Général de l’association.
+Le CoDir (Comité de Direction) est constitué du/de la Président(e) et des possibles co-président(e)s, du/de la/des Vice-Président(es), du/de la/des Secrétaire(s) Général et du/de la Trésorier(ère) de l’association.
 
 #### Sous-Section 4.3.1 : Président(e)
 
