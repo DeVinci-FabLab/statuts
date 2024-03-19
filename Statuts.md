@@ -72,7 +72,7 @@ Les droits des membres fondateurs incluent tous les droits des membres d’honne
 Gaël NAIME, par manque de temps et manque d’implication dans la construction et du futur de l’association, renonce à ses droits de membre fondateur. Son titre reste membre fondateur mais il n’est pas dans le comité de contrôle (CC).
 Les membres fondateurs sont des membres à vie de l’association.
 
-### Section 2.3 : Membres d'honneur
+### Section 2.3 : Membres d'Honneur
 
 La qualité de membre d’honneur est décernée par l’assemblée générale. Le statut de membre d’honneur est proposé aux personnes physiques ou morales qui ont rendu des services éminents à l’association et qui ont activement contribué tout au long de l’année à l'amélioration de l’association. Les membres d’honneurs sont les membres ayant présenté un travail d’excellence tout au long de l’année et ayant su se démarquer par le sérieux et la rigueur de leur travail.
 
