@@ -74,7 +74,7 @@ Les membres fondateurs sont des membres à vie de l’association.
 
 ### Section 2.3 : Membres d'Honneur
 
-La qualité de Membre d'Honneur est décernée par l’assemblée générale. Le statut de Membre d'Honneur est proposé aux personnes physiques ou morales qui ont rendu des services éminents à l’association et qui ont activement contribué tout au long de l’année à l'amélioration de l’association. Les membres d’honneurs sont les membres ayant présenté un travail d’excellence tout au long de l’année et ayant su se démarquer par le sérieux et la rigueur de leur travail.
+La qualité de Membre d'Honneur est décernée en Assemblée Générale. Le statut de Membre d'Honneur est proposé aux personnes physiques ou morales qui ont rendu des services éminents à l’association et qui ont activement contribué tout au long de l’année à l'amélioration de l’association. Les membres d’honneurs sont les membres ayant présenté un travail d’excellence tout au long de l’année et ayant su se démarquer par le sérieux et la rigueur de leur travail.
 
 L'attribution du statut de Membre d'Honneur se fait en Assemblée Générale.
 Le Bureau propose des Membres Annuels auquels attribuer le statut et soumet dans un premier temps sa propositon aux membres ayant déjà le statut de Membre d'Honneur.
