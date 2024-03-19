@@ -147,15 +147,14 @@ En outre, le Bureau est chargé de porter à la connaissance de la préfecture, 
 
 ### Section 4.3 : Compostion
 
-Le CoDir (Comité de Direction) est constitué du/de la Président(e) et des possibles co-président(e)s, du/de la/des Vice-Président(es) et du/de la/des Secrétaire(s) Général de l’association.
+Le Comité de Direction, aussi appelé CoDir, est constitué du/de la Président(e), du/de la/des Vice-Président(e)(s) et du/de la/des Secrétaire(s) Général de l’association.
 
 #### Sous-Section 4.3.1 : Président(e)
 
-Le/La président(e) préside toutes les assemblées.
-En cas d’absence ou de maladie, il/elle est remplacé par le/la Vice-président(e) ou à défaut par le/la secrétaire général.
-Le/La président(e) exerce tous les pouvoirs de direction et de gestion de l’association qui lui sont délégués par le Bureau.
-Le/La président(e) décide de l’engagement des actions en justice et représente l’association en justice, tant en demande qu’en défense. Il/Elle a le pouvoir de décider et d’exercer toute voie de recours ordinaire et extraordinaire. Il/Elle peut former tous appels et pouvoir.
-Le/La président(e) a le pouvoir de transiger.
+Le président ou la présidente, ci-après dénommé "la présidence" représente l'association du DeVinci Fablab.
+Elle préside toutes les assemblées et exerce tous les pouvoirs de direction et de gestion de l’association.
+La présidence décide de l’engagement des actions en justice et représente l’association en justice, tant en demande qu’en défense. Elle a le pouvoir de décider et d’exercer toute voie de recours ordinaire et extraordinaire et elle peut former tous appels et pouvoir.
+La présidence a le pouvoir de transiger.
 
 En cas de co-présidence (deux président(e)s):
 L’un(e) des président(e)s préside toutes les assemblées.
