@@ -78,11 +78,15 @@ La qualité de membre d’honneur est décernée par l’assemblée générale. 
 Le nombre d'attributions au statut de membre d’honneur de l’association est limité à 3 étudiants par année scolaire.
 Les membres d’honneur sont des membres à vie de l’association.
 
-### Section 2.4 : Membres alumnis
+### Section 2.4 : Membres Alumnis
 
-La qualité de membres alumni est décernée par l’assemblée générale sur proposition du bureau, aux personnes physiques ou morales qui ont rendu des services éminents à l’association. Les membres deviennent pleinement membres alumni à la fin de leur études, c’est à dire une fois la dernière année universitaire d’un cursus de l’ESILV, l’EMLV et l’IIM est terminé ou s’il part à l’étranger à partir de la 5e année. Un étudiant ayant quitté l’ESILV, l’EMLV ou l’IIM, et ayant validé au moins une année scolaire dans l’une de ces 3 écoles peut devenir membre alumni. Mais un membre étudiant d’une des 3 écoles (ESILV, EMLV, IIM) n’ayant jamais validé d’année scolaire ne peut pas être membre alumni.
-De plus, l’étudiant doit faire partie de l’association pour une durée minimum de 2 ans scolaires (de septembre à mai) pour devenir alumni. Le nombre d’attribution au statut de membre alumni est limité à 10 étudiants par année scolaire.
-Les membres alumni sont donc des membres à vie de l’association.
+La qualité de Membre Alumni est décernée en Assemblée Générale sans vote sur proposition du bureau, aux personnes physiques ou morales qui ont rendu des services éminents à l’association.
+Cette qualité ne peut être attribué qu'à un ou une membre annuel ayant validé au moins une année scolaire dans l'une des trois écoles du Pôle Léonard de Vinci (EMLV, ESILV et IIM).
+
+Les Membres Alumni sont Membres à Vie de l’association et sont exemptés de la cotisation annuelle à partir du moment où ils ne sont plus étudiant dans une des écoles du Pôle Léonard de Vinci.
+
+De plus, l’étudiant doit faire partie de l’association pour une durée minimum de 2 ans scolaires (de septembre à mai) pour devenir Membre Alumni.
+Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire (de septembre à août).
 
 ### Section 2.5 : Admissions
 
