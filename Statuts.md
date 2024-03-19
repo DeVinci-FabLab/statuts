@@ -171,9 +171,9 @@ L’un des deux co-président(e)s représente l’association en tant que prési
 Le/La vice-président(e) exerce une mission permanente de contrôle sur l’administration et la gestion courante de l’association. Il/Elle est particulièrement chargé de surveiller la tenue des registres de la correspondance et des archives de l’association.
 En cas d’absence ou de maladie le/la Vice-président(e) sera remplacé par le/la secrétaire générale, excluant les pouvoirs du/de la président(e), et disposera de l’ensemble des pouvoirs du/de la Vice-Président(e).
 
-#### Sous-Section 4.3.3 : Trésorier·ère
+#### Sous-Section 4.3.3 : Trésorerie
 
-Le·a ou les trésorier·ère(s) de l'association assurent la trésorerie de l'association.
+Le·a ou les trésorier·ère(s) de l'association, ci-après dénommé "la Trésorerie", assurent la trésorerie de l'association.
 La trésorerie vérifie la tenue de la comptabilité de toute opération de l’association et rend compte de sa mission au Bureau. Elle assure une mission permanente de contrôle des ressources de l'association et s'engage sur ses dépenses.
 
 #### Sous-Section 4.3.4 : Secrétaire Général
