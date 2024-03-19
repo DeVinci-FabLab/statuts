@@ -77,7 +77,6 @@ Les membres fondateurs sont des membres à vie de l’association.
 La qualité de membre d’honneur est décernée par l’assemblée générale. Le statut de membre d’honneur est proposé aux personnes physiques ou morales qui ont rendu des services éminents à l’association et qui ont activement contribué tout au long de l’année à l'amélioration de l’association. Les membres d’honneurs sont les membres ayant présenté un travail d’excellence tout au long de l’année et ayant su se démarquer par le sérieux et la rigueur de leur travail.
 
 Le bureau doit proposer des membres annuels au statut de membre d’honneur au vote des membres d’honneur déjà élus, trois membres d’honneur qui votent positivement suffisent pour rendre le vote valide. Mais un membre d’honneur qui s’oppose suffit pour invalider le vote. Les membres d’honneur actuels valident ou invalident les membres proposés par le bureau. Les membres validés par les membres d’honneur peuvent ensuite être proposés au vote en AG (assemblée générale).
-Les membres d’honneur verront leur nom sur la plaquette de l’association en remerciement de leur service.
 
 Le nombre d'attributions au statut de membre d’honneur de l’association est limité à 3 étudiants par année scolaire.
 Les membres d’honneur sont des membres à vie de l’association et sont exemptés de la cotisation annuelle.
