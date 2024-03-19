@@ -85,7 +85,6 @@ Cette qualité ne peut être attribué qu'à un ou une membre annuel ayant valid
 
 Les Membres Alumni sont Membres à Vie de l’association et sont exemptés de la cotisation annuelle à partir du moment où ils ne sont plus étudiant dans une des écoles du Pôle Léonard de Vinci.
 
-De plus, l’étudiant doit faire partie de l’association pour une durée minimum de 2 ans scolaires (de septembre à mai) pour devenir Membre Alumni.
 Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire (de septembre à août).
 
 ### Section 2.5 : Admissions
