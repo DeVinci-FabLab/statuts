@@ -92,13 +92,16 @@ Le Règlement Intérieur s’impose à tous les membres de qualité de membre an
 
 #### Sous-Section 2.4.2 : Admission
 
-L’admission se fait à la suite d’un entretien d’un étudiant face à un ou plusieurs membres du Bureau choisi par le/la président(e). Pour faire partie de l’association, il faut être agréé par le Bureau qui statue lors de chacune de ses réunions quant aux demandes d’admissions présentées.
+Le processus d'admission dans en tant que Membre Annuel est le suivant :
 
-Suite à leur admission, les nouveaux membres prennent part à une phase de test d’une durée d’un mois. A l’issu de cette phase, le Bureau décide de la poursuite de l’étudiant dans l’association.
-Le/La président(e) reçoit les demandes et les présente au Bureau. Il donne son avis sur les candidatures. Le/La président(e) a le droit de décision sur l’admission d’un membre, sauf dans le cas où cette personne a été attribué au statut de persona non grata.
+1. Entretien face à minimum de 2 Membres Annuels, de préférence du Bureau, choisis par le Codir.
+2. Délibération du CoDir avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
+3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans le délai précisé dans le Règlement Intérieur.
+4. Le candidat ou la candidate est admis ou admise en tant que Membre Annuel de l'association.
 
-Le Bureau délibère. Le/La président(e) peut alors décider d’accorder ou de refuser son agrément à la majorité simple. Sa décision n’a pas à être motivée. La décision est notifiée à la personne intéressée par e-mail.
-Il est possible que le Bureau fasse passer des entretiens de motivations pour certains membres qui étaient déjà membres l’année passée.
+La notice d'admission ou de refus doit se faire à minima via un e-mail.
+
+Le CoDir se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander un remboursement de sa cotisation s'il a déjà payé celle-ci.
 
 ### Section 2.5 : Perte de la qualité de membre
 
