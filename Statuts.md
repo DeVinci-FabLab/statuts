@@ -86,8 +86,6 @@ Les Membres Annuels sont les personnes physiques ou morales dont l’acte de can
 La qualité de Membre Annuel est valable pour une période d’une année scolaire, débutant en septembre et finissant en août, suite à laquelle le membre doit se réinscrire.
 Il convient que les Membres Annuels voulant se réinscrire se manifestent auprès du Bureau durant les 2 derniers mois de l'année scolaire, sinon ils perdent leur qualité de Membre Annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
 
-Le Bureau décide de l’établissement d’un Règlement Intérieur qui sera soumis pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
-Le Règlement Intérieur s’impose à tous les membres de qualité de membre annuel de l’association.
 Le Bureau se réserve le droit de conditionner la réinscription d'un Membre Annuel au processus d'admission classique avec l'entretien d'admission remplacé par un entretien de motivation.
 
 #### Sous-Section 2.4.2 : Admission
@@ -114,6 +112,9 @@ La qualité de membre peut être perdue suite :
 - au non respect du Règlement Intérieur de l'association,
 - à une atteinte négative à l’association ou son image,
 - à tout autre motif grave (ie. le non respect de la charte de l’association LDV ou le non respect du Règlement Intérieur).
+
+Le Règlement Intérieur est établit par le Bureau qui le soumet pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
+Le Règlement Intérieur s’impose à tous les membres de qualité de Membre Annuel de l’association.
 
 La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
 
