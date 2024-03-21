@@ -77,18 +77,18 @@ La qualité de Membres Alumni est décernée par l’Assemblée Générale sur p
 De plus, l’étudiant doit faire partie de l’association pour une durée minimum de 2 ans scolaires (de septembre à mai) pour devenir alumni. Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire.
 Les Membres Alumni sont donc des membres à vie de l’association.
 
-### Section 2.4 : Membres annuels
+### Section 2.4 : Membres Annuels
 
 #### Sous-Section 2.4.1 : Definition
 
-Les membres annuels sont les personnes physiques ou morales dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien et qui se sont acquittés de la cotisation annuelle. Seuls les membres annuels ont le droit de vote sur l’année en cours.
-La qualité de membre est valable pour une période d’une année scolaire.
+Les Membres Annuels sont les personnes physiques ou morales dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien, qui se sont acquittés de la cotisation annuelle et qui ont signé le Règlement Intérieur. Seuls les Membres Annuels ont le droit de vote sur l’année en cours.
 
-Chaque année, le Bureau fixe une cotisation annuelle pour tous les membres dont le montant est défini dans le Règlement Intérieur.
-Le délai de paiement de la cotisation annuelle est fixé à 1 mois après admission d’un nouveau membre. Pour tous les autres, la cotisation annuelle doit avoir été effectuée avant une date fixée par le Bureau, à défaut 1 mois.
+La qualité de Membre Annuel est valable pour une période d’une année scolaire, débutant en septembre et finissant en août, suite à laquelle le membre doit se réinscrire.
+Il convient que les Membres Annuels voulant se réinscrire se manifestent auprès du Bureau durant les 2 derniers mois de l'année scolaire, sinon ils perdent leur qualité de Membre Annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
 
 Le Bureau décide de l’établissement d’un Règlement Intérieur qui sera soumis pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
 Le Règlement Intérieur s’impose à tous les membres de qualité de membre annuel de l’association.
+Le Bureau se réserve le droit de conditionner la réinscription d'un Membre Annuel au processus d'admission classique avec l'entretien d'admission remplacé par un entretien de motivation.
 
 #### Sous-Section 2.4.2 : Admission
 
