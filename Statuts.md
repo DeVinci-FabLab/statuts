@@ -46,23 +46,12 @@ Une fois proposée en AG, une proposition n’est plus soumise au veto du CC. Le
 L’association comprend les qualités de membres suivant:
 
 - Membres fondateurs
-- Membres d’honneurs
-- Membres alumnis
+- Membres d’Honneur
+- Membres Alumnis
 - Membres annuels
-- Persona non grata
+- Persona Non Grata
 
-### Section 2.1 : Membres annuels
-
-Les membres annuels sont les personnes physiques ou morales dont l’acte de candidature a été agréé par le bureau à la suite d’un entretien et qui se sont acquittés de la cotisation annuelle. Seuls les membres annuels ont le droit de vote sur l’année en cours.
-La qualité de membre est valable pour une période d’une année scolaire.
-
-Chaque année, le Bureau fixe une cotisation annuelle pour tous les membres dont le montant est défini dans le règlement intérieur.
-Le délai de paiement de la cotisation annuelle est fixé à 1 mois après admission d’un nouveau membre. Pour tous les autres, la cotisation annuelle doit avoir été effectuée avant une date fixée par le Bureau, à défaut 1 mois.
-
-Le bureau décide de l’établissement d’un règlement intérieur qui sera soumis pour approbation à l’Assemblée Générale. Le règlement intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
-Le règlement intérieur s’impose à tous les membres de qualité de membre annuel de l’association.
-
-### Section 2.2 : Membres fondateurs
+### Section 2.1 : Membres fondateurs
 
 Les membres fondateurs sont les personnes qui ont constitué l’association en 2015, à savoir : Angéline BESLAND (Présidente), Gaël NAIME (Trésorier) et Dany NARCISSE (Secrétaire Général).
 
@@ -72,28 +61,41 @@ Les droits des membres fondateurs incluent tous les droits des membres d’honne
 Gaël NAIME, par manque de temps et manque d’implication dans la construction et du futur de l’association, renonce à ses droits de membre fondateur. Son titre reste membre fondateur mais il n’est pas dans le comité de contrôle (CC).
 Les membres fondateurs sont des membres à vie de l’association.
 
-### Section 2.3 : Membres d'honneur
+### Section 2.2 : Membres d'honneur
 
-La qualité de membre d’honneur est décernée par l’assemblée générale. Le statut de membre d’honneur est proposé aux personnes physiques ou morales qui ont rendu des services éminents à l’association. Le bureau doit proposer des membres annuels au statut de membre d’honneur au vote des membres d’honneur déjà élus, trois membres d’honneur qui votent positivement suffisent pour rendre le vote valide. Mais un membre d’honneur qui s’oppose suffit pour invalider le vote. Les membres d’honneur actuels valident ou invalident les membres proposés par le bureau. Les membres validés par les membres d’honneur peuvent ensuite être proposés au vote en AG (assemblée générale). Les membres d’honneur verront leur nom sur la plaquette de l’association en remerciement de leur service. Les membres d’honneurs sont les membres ayant présenté un travail d’excellence tout au long de l’année et ayant su se démarquer par le sérieux et la rigueur de leur travail. Les membres d’honneurs ont activement contribué tout au long de l’année à l'amélioration de l’association.
-Le nombre d'attributions au statut de membre d’honneur de l’association est limité à 3 étudiants par année scolaire.
-Les membres d’honneur sont des membres à vie de l’association.
+La qualité de Membre d’Honneur est décernée par l’assemblée générale. Le statut de Membre d’Honneur est proposé aux personnes physiques ou morales qui ont rendu des services éminents à l’association. Le Bureau doit proposer des membres annuels au statut de Membre d’Honneur au vote des Membres d’Honneur déjà élus, trois Membres d’Honneur qui votent positivement suffisent pour rendre le vote valide. Mais un Membre d’Honneur qui s’oppose suffit pour invalider le vote. Les Membres d’Honneur actuels valident ou invalident les membres proposés par le Bureau. Les membres validés par les Membres d’Honneur peuvent ensuite être proposés au vote en AG (assemblée générale). Les Membres d’Honneur verront leur nom sur la plaquette de l’association en remerciement de leur service. Les Membres d’Honneurs sont les membres ayant présenté un travail d’excellence tout au long de l’année et ayant su se démarquer par le sérieux et la rigueur de leur travail. Les Membres d’Honneurs ont activement contribué tout au long de l’année à l'amélioration de l’association.
+Le nombre d'attributions au statut de Membre d’Honneur de l’association est limité à 3 étudiants par année scolaire.
+Les Membres d’Honneur sont des membres à vie de l’association.
 
-### Section 2.4 : Membres alumnis
+### Section 2.3 : Membres alumnis
 
-La qualité de membres alumni est décernée par l’assemblée générale sur proposition du bureau, aux personnes physiques ou morales qui ont rendu des services éminents à l’association. Les membres deviennent pleinement membres alumni à la fin de leur études, c’est à dire une fois la dernière année universitaire d’un cursus de l’ESILV, l’EMLV et l’IIM est terminé ou s’il part à l’étranger à partir de la 5e année. Un étudiant ayant quitté l’ESILV, l’EMLV ou l’IIM, et ayant validé au moins une année scolaire dans l’une de ces 3 écoles peut devenir membre alumni. Mais un membre étudiant d’une des 3 écoles (ESILV, EMLV, IIM) n’ayant jamais validé d’année scolaire ne peut pas être membre alumni.
-De plus, l’étudiant doit faire partie de l’association pour une durée minimum de 2 ans scolaires (de septembre à mai) pour devenir alumni. Le nombre d’attribution au statut de membre alumni est limité à 10 étudiants par année scolaire.
-Les membres alumni sont donc des membres à vie de l’association.
+La qualité de Membres Alumni est décernée par l’assemblée générale sur proposition du Bureau, aux personnes physiques ou morales qui ont rendu des services éminents à l’association. Les membres deviennent pleinement Membres Alumni à la fin de leur études, c’est à dire une fois la dernière année universitaire d’un cursus de l’ESILV, l’EMLV et l’IIM est terminé ou s’il part à l’étranger à partir de la 5e année. Un étudiant ayant quitté l’ESILV, l’EMLV ou l’IIM, et ayant validé au moins une année scolaire dans l’une de ces 3 écoles peut devenir Membre Alumni. Mais un membre étudiant d’une des 3 écoles (ESILV, EMLV, IIM) n’ayant jamais validé d’année scolaire ne peut pas être Membre Alumni.
+De plus, l’étudiant doit faire partie de l’association pour une durée minimum de 2 ans scolaires (de septembre à mai) pour devenir alumni. Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire.
+Les Membres Alumni sont donc des membres à vie de l’association.
 
-### Section 2.5 : Admissions
+### Section 2.4 : Membres annuels
 
-L’admission se fait à la suite d’un entretien d’un étudiant face à un ou plusieurs membres du bureau choisi par le/la président(e). Pour faire partie de l’association, il faut être agréé par le Bureau qui statue lors de chacune de ses réunions quant aux demandes d’admissions présentées. Suite à leur admission, les nouveaux membres prennent part à une phase de test d’une durée d’un mois. A l’issu de cette phase, le bureau décide de la poursuite de l’étudiant dans l’association.
+#### Sous-Section 2.4.1 : Definition
+
+Les membres annuels sont les personnes physiques ou morales dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien et qui se sont acquittés de la cotisation annuelle. Seuls les membres annuels ont le droit de vote sur l’année en cours.
+La qualité de membre est valable pour une période d’une année scolaire.
+
+Chaque année, le Bureau fixe une cotisation annuelle pour tous les membres dont le montant est défini dans le règlement intérieur.
+Le délai de paiement de la cotisation annuelle est fixé à 1 mois après admission d’un nouveau membre. Pour tous les autres, la cotisation annuelle doit avoir été effectuée avant une date fixée par le Bureau, à défaut 1 mois.
+
+Le Bureau décide de l’établissement d’un règlement intérieur qui sera soumis pour approbation à l’Assemblée Générale. Le règlement intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
+Le règlement intérieur s’impose à tous les membres de qualité de membre annuel de l’association.
+
+#### Sous-Section 2.4.2 : Admission
+
+L’admission se fait à la suite d’un entretien d’un étudiant face à un ou plusieurs membres du Bureau choisi par le/la président(e). Pour faire partie de l’association, il faut être agréé par le Bureau qui statue lors de chacune de ses réunions quant aux demandes d’admissions présentées. Suite à leur admission, les nouveaux membres prennent part à une phase de test d’une durée d’un mois. A l’issu de cette phase, le Bureau décide de la poursuite de l’étudiant dans l’association.
 Le/La président(e) reçoit les demandes et les présente au Bureau. Il donne son avis sur les candidatures. Le/La président(e) a le droit de décision sur l’admission d’un membre, sauf dans le cas où cette personne a été attribué au statut de persona non grata.
 Le Bureau délibère. Le/La président(e) peut alors décider d’accorder ou de refuser son agrément à la majorité simple. Sa décision n’a pas à être motivée. La décision est notifiée à la personne intéressée par e-mail.
-Il est possible que le bureau fasse passer des entretiens de motivations pour certains membres qui étaient déjà membres l’année passée.
+Il est possible que le Bureau fasse passer des entretiens de motivations pour certains membres qui étaient déjà membres l’année passée.
 
-### Section 2.6 : Perte de la qualité de membre
+### Section 2.5 : Perte de la qualité de membre
 
-Après validation du bureau, la qualité de membre peut être perdue suite à :
+Après validation du Bureau, la qualité de membre peut être perdue suite à :
 
 - Une démission notifiée par écrit
 - Le décès physique de la personne
@@ -106,7 +108,7 @@ La perte de la qualité de membre n’entraîne aucun droit au remboursement des
 
 Un membre peut être exclu de l’association. Se référer au règlement intérieur pour les modalités d’exclusion.
 
-### Section 2.7 : Persona non grata
+### Section 2.8 : Persona non grata
 
 Un membre est de qualité persona non grata s’il a fait précédemment partie de l’association et s’est retrouvé exclu par la présidence.
 Le/La président(e) se réserve le droit d’attribuer le statut de persona non grata à un membre sans explication et sans justification.
