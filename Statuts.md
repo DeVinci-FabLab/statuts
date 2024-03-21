@@ -13,8 +13,8 @@ Le but premier de l’association est la gestion des ressources du DeVinci Fabla
 ### Section 1.3 : Siège Social
 
 Le siège social est fixé au :
-> Pôle Universitaire Léonard de Vinci
-> 2/12 avenue Leonard de Vinci
+> Pôle Universitaire Léonard de Vinci<br>
+> 2/12 avenue Leonard de Vinci<br>
 > 92400 Courbevoie
 
 ### Section 1.4 : Durée
