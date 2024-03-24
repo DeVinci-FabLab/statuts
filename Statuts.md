@@ -67,17 +67,17 @@ Les membres fondateurs sont des membres à vie de l’association.
 
 ### Section 2.2 : Membres d'Honneur
 
-La qualité de Membre d'Honneur est décernée en Assemblée Générale. Le statut de Membre d'Honneur est proposé aux personnes physiques qui ont activement contribué à l'amélioration de l’association et qui ont présenté un travail d’excellence tout au long de l’année, se démarquant par le sérieux et la rigueur de leur travail.
+La qualité de Membre d'Honneur est décernée en Assemblée Générale. Le statut de Membre d'Honneur est proposé aux personnes physiques qui ont activement contribué à l'amélioration de l’association et qui ont présenté un travail d’excellence, se démarquant par le sérieux et la rigueur de leur travail.
 
 Les conditions s'appliquant à l'attribution du statut de Membre Alumni s'appliquent aussi à l'attribution du statut de Membre d'Honneur.
 
-L'attribution du statut de Membre d'Honneur se fait en Assemblée Générale.
-L'élection des Membres d'Honneur se fait en plusieurs temps : 
+L'attribution du statut de Membre d'Honneur se fait en plusieurs temps : 
 - le Bureau propose des Membres Annuels auquels attribuer le statut et le soumet aux Membres d'Honneur.
 - Les Membres d'Honneur votent à la majorité relative la proposition de chaque nouveau Membre d'Honneur, avec un minimum de 3 votants. Un vote négatif suffit à répudier la proposition dudit nouveau Membre d'Honneur.
 -  Les propositions ainsi validées sont ensuite votées en Assemblée Générale où la majorité relative décide de l'attribution du statut.
 
 Le nombre d'attributions du statut de Membre d’Honneur de l’association est limité à 3 étudiants par année scolaire (de septembre à août).
+
 Les Membres d’Honneur sont Membres à Vie de l’association et sont exemptés de la cotisation annuelle dès l'obtention du statut.
 
 ### Section 2.3 : Membres alumnis
