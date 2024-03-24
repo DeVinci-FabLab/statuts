@@ -72,9 +72,10 @@ La qualité de Membre d'Honneur est décernée en Assemblée Générale. Le stat
 Les conditions s'appliquant à l'attribution du statut de Membre Alumni s'appliquent aussi à l'attribution du statut de Membre d'Honneur.
 
 L'attribution du statut de Membre d'Honneur se fait en Assemblée Générale.
-Le Bureau propose des Membres Annuels auquels attribuer le statut et soumet dans un premier temps sa proposition aux membres ayant déjà le statut de Membre d'Honneur.
-Les actuels Membres d'Honneurs peuvent alors voter pour accepter ou non la proposition de chaque nouveau Membre d'Honneur. La propostion est acceptée à la majorité relative avec un minimum de trois votants.
-Les propositions ainsi acceptées par les Membres d'Honneur sont votées en Assemblée Générale où la majorité relative décide de l'attribution du statut.
+L'élection des Membres d'Honneur se fait en plusieurs temps : 
+- le Bureau propose des Membres Annuels auquels attribuer le statut et le soumet aux Membres d'Honneur.
+- Les Membres d'Honneur votent à la majorité relative la proposition de chaque nouveau Membre d'Honneur, avec un minimum de 3 votants. Un vote négatif suffit à répudier la proposition dudit nouveau Membre d'Honneur.
+-  Les propositions ainsi validées sont ensuite votées en Assemblée Générale où la majorité relative décide de l'attribution du statut.
 
 Le nombre d'attributions du statut de Membre d’Honneur de l’association est limité à 3 étudiants par année scolaire (de septembre à août).
 Les Membres d’Honneur sont Membres à Vie de l’association et sont exemptés de la cotisation annuelle dès l'obtention du statut.
