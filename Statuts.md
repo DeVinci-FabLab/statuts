@@ -73,12 +73,15 @@ Les Membres d’Honneur sont des membres à vie de l’association.
 
 ### Section 2.3 : Membres Alumnis
 
-La qualité de Membre Alumni est décernée en Assemblée Générale sans vote sur proposition du bureau, aux personnes physiques ou morales qui ont rendu des services éminents à l’association.
-Cette qualité ne peut être attribué qu'à un ou une membre annuel ayant validé au moins une année scolaire dans l'une des trois écoles du Pôle Léonard de Vinci (EMLV, ESILV et IIM).
+La qualité de Membre-Alumni est décernée en Assemblée Générale, sans vote et sur proposition du Bureau.
 
-Les Membres Alumni sont Membres à Vie de l’association et sont exemptés de la cotisation annuelle à partir du moment où ils ne sont plus étudiant dans une des écoles du Pôle Léonard de Vinci.
+Elle est décernée aux personnes phyisques qui ont rendu des services éminents à l’association.
 
-Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire (de septembre à août).
+Cette qualité ne peut être attribué qu'à un membre annuel ayant validé au moins une année scolaire dans l'une des trois écoles du Pôle Léonard de Vinci (EMLV, ESILV et IIM).
+
+Les Membres-Alumni sont Membres à Vie de l’association et sont exemptés de la cotisation annuelle à partir du moment où ils ne sont plus étudiant dans une des écoles du Pôle Léonard de Vinci.
+
+Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire (de septembre à mai).
 
 ### Section 2.4 : Membres annuels
 
