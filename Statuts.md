@@ -67,13 +67,13 @@ Les membres fondateurs sont des membres à vie de l’association.
 
 ### Section 2.2 : Membres d'honneur
 
-La qualité de Membre d’Honneur est décernée par l’Assemblée Générale. Le statut de Membre d’Honneur est proposé aux personnes physiques ou morales qui ont rendu des services éminents à l’association. Le Bureau doit proposer des membres annuels au statut de Membre d’Honneur au vote des Membres d’Honneur déjà élus, trois Membres d’Honneur qui votent positivement suffisent pour rendre le vote valide. Mais un Membre d’Honneur qui s’oppose suffit pour invalider le vote. Les Membres d’Honneur actuels valident ou invalident les membres proposés par le Bureau. Les membres validés par les Membres d’Honneur peuvent ensuite être proposés au vote en AG (Assemblée Générale). Les Membres d’Honneur verront leur nom sur la plaquette de l’association en remerciement de leur service. Les Membres d’Honneurs sont les membres ayant présenté un travail d’excellence tout au long de l’année et ayant su se démarquer par le sérieux et la rigueur de leur travail. Les Membres d’Honneurs ont activement contribué tout au long de l’année à l'amélioration de l’association.
+La qualité de Membre d’Honneur est décernée par l’Assemblée Générale. Le statut de Membre d’Honneur est proposé aux personnes physiques qui ont rendu des services éminents à l’association. Le Bureau doit proposer des membres annuels au statut de Membre d’Honneur au vote des Membres d’Honneur déjà élus, trois Membres d’Honneur qui votent positivement suffisent pour rendre le vote valide. Mais un Membre d’Honneur qui s’oppose suffit pour invalider le vote. Les Membres d’Honneur actuels valident ou invalident les membres proposés par le Bureau. Les membres validés par les Membres d’Honneur peuvent ensuite être proposés au vote en AG (Assemblée Générale). Les Membres d’Honneur verront leur nom sur la plaquette de l’association en remerciement de leur service. Les Membres d’Honneurs sont les membres ayant présenté un travail d’excellence tout au long de l’année et ayant su se démarquer par le sérieux et la rigueur de leur travail. Les Membres d’Honneurs ont activement contribué tout au long de l’année à l'amélioration de l’association.
 Le nombre d'attributions au statut de Membre d’Honneur de l’association est limité à 3 étudiants par année scolaire.
 Les Membres d’Honneur sont des membres à vie de l’association.
 
 ### Section 2.3 : Membres alumnis
 
-La qualité de Membres Alumni est décernée par l’Assemblée Générale sur proposition du Bureau, aux personnes physiques ou morales qui ont rendu des services éminents à l’association. Les membres deviennent pleinement Membres Alumni à la fin de leur études, c’est à dire une fois la dernière année universitaire d’un cursus de l’ESILV, l’EMLV et l’IIM est terminé ou s’il part à l’étranger à partir de la 5e année. Un étudiant ayant quitté l’ESILV, l’EMLV ou l’IIM, et ayant validé au moins une année scolaire dans l’une de ces 3 écoles peut devenir Membre Alumni. Mais un membre étudiant d’une des 3 écoles (ESILV, EMLV, IIM) n’ayant jamais validé d’année scolaire ne peut pas être Membre Alumni.
+La qualité de Membres Alumni est décernée par l’Assemblée Générale sur proposition du Bureau, aux personnes physiques qui ont rendu des services éminents à l’association. Les membres deviennent pleinement Membres Alumni à la fin de leur études, c’est à dire une fois la dernière année universitaire d’un cursus de l’ESILV, l’EMLV et l’IIM est terminé ou s’il part à l’étranger à partir de la 5e année. Un étudiant ayant quitté l’ESILV, l’EMLV ou l’IIM, et ayant validé au moins une année scolaire dans l’une de ces 3 écoles peut devenir Membre Alumni. Mais un membre étudiant d’une des 3 écoles (ESILV, EMLV, IIM) n’ayant jamais validé d’année scolaire ne peut pas être Membre Alumni.
 De plus, l’étudiant doit faire partie de l’association pour une durée minimum de 2 ans scolaires (de septembre à mai) pour devenir alumni. Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire.
 Les Membres Alumni sont donc des membres à vie de l’association.
 
@@ -81,7 +81,7 @@ Les Membres Alumni sont donc des membres à vie de l’association.
 
 #### Sous-Section 2.4.1 : Definition
 
-Les membres annuels sont les personnes physiques ou morales dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien et qui se sont acquittés de la cotisation annuelle. Seuls les membres annuels ont le droit de vote sur l’année en cours.
+Les membres annuels sont les personnes physiques dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien et qui se sont acquittés de la cotisation annuelle. Seuls les membres annuels ont le droit de vote sur l’année en cours.
 La qualité de membre est valable pour une période d’une année scolaire.
 
 Chaque année, le Bureau fixe une cotisation annuelle pour tous les membres dont le montant est défini dans le Règlement Intérieur.
