@@ -32,18 +32,16 @@ Si un membre fondateur s’oppose, l’association n’est pas dissolue.
 
 ### Section 1.6 : Comité de Contrôle
 
-Le comité de contrôle (CC) est composé à l'origine des 2 membres fondateurs Angéline BESLAND et Dany NARCISSE.
-Quand un membre du comité de contrôle quitte volontairement le comité de contrôle ou qu’il n’est plus apte à raisonner, il ne fait plus partie du comité de contrôle.
+Le Comité de Contrôle (ou CC) est un groupe de 2 ou 3 Membres d'Honneur assurant une tâche de contrôle sur les changements opérés dans l'association.
 
-Le comité de contrôle possède 2 à 3 membres mais jamais moins de 2 ou plus de 3.
-Quand le comité se trouve à moins de 2 membres, il doit recruter un nouveau membre parmi les Membres d’Honneur et Membres Alumnis. Tout recrutement pour parvenir à 2 ou 3 membres se fait chez les Membres d’Honneur ou Membres Alumni du DeVinci Fablab.
+Les membres du CC possèdent le droit de veto sur la dissolution de l'association, la modification des statuts et toute décision prise en Assemblée Générale.
+Pour cela, les décisions et propositions allant être soumises à une Assemblée Générale doivent être d'abord soumises par le Bureau au CC minimum 2 semaines avant cette même AG. Si aucun membre du CC ne pose son veto, les propositions peuvent être soumises à l'AG.
+Une fois proposée en AG, une proposition n’est plus soumise au veto des membres du CC. Ils doivent ainsi impérativement faire connaître leur position avant l’AG.
 
-Le comité de contrôle peut décider à l'unanimité de se dissoudre, il devra en avertir le Bureau du DeVinci Fablab.
-Quand le DeVinci Fablab est dissout, le comité l’est aussi.
-Les membres du CC sont tenus dans les registres, les registres font foi des membres du CC.
+Le Comité de Contrôle possède toujours 2 ou 3 membres. Les membres du CC sont tenus dans les registres, les registres font foi des membres du CC.
+Si le CC se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Alumnis.
 
-Le CC possède le droit de veto sur la dissolution de l’association et sur le changement de statuts. Il possède le droit de veto sur les décisions en Assemblée Générale. Pour cela, les décisions et propositions doivent être soumises et approuvées par le CC avant la proposition en Assemblée Générale, elles sont envoyées par le Bureau en place au minimum 2 semaines avant l’AG. Sans réponse de la part du CC, les propositions peuvent être soumises à l’AG.
-Une fois proposée en AG, une proposition n’est plus soumise au veto du CC. Le CC doit ainsi impérativement faire connaître sa position avant l’AG.
+Le Comité de Contrôle peut décider à l'unanimité de se dissoudre. Auquel cas il revient au Comité de Direction de recruter 2 ou 3 membres parmi les Membres d'Honneur et Membres Alumnis.
 
 ## Article 2 : Membres
 
