@@ -83,7 +83,6 @@ Les Membres Alumni sont donc des membres à vie de l’association.
 
 Les Membres Annuels sont les personnes physiques dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien, qui se sont acquittés de la cotisation annuelle et qui ont signé le Règlement Intérieur. Seuls les Membres Annuels ont le droit de vote sur l’année en cours.
 
-
 La qualité de Membre Annuel est valable pour une période d’une année scolaire, débutant en septembre et finissant en août, suite à laquelle le membre doit se réinscrire.
 Il convient que les Membres Annuels voulant se réinscrire se manifestent auprès du Bureau durant les 2 derniers mois de l'année scolaire, sinon ils perdent leur qualité de Membre Annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
 
@@ -164,7 +163,7 @@ En outre, le Bureau est chargé de porter à la connaissance de la préfecture, 
 
 ### Section 4.3 : Compostion
 
-Le CoDir (Comité de Direction) est constitué du/de la Président(e) et des possibles co-président(e)s, du/de la/des Vice-Président(es), du/de la/des Secrétaire(s) Général et du/de la Trésorier(ère) de l’association.
+Le Comité de Direction, aussi appelé CoDir, est constitué de la Présidence, de la Vice-Présidences, du Secrétariat et de la Trésorerie de l’association.
 
 #### Sous-Section 4.3.1 : Président(e)
 
@@ -185,21 +184,22 @@ L’un des deux co-président(e)s représente l’association en tant que prési
 
 #### Sous-Section 4.3.2 : Vice-Présidence
 
-Le Vice-Président, la Vice-Présidente, les Vice-Présidents ou les Vice-Présidentes, ci-après dénommé "la Vice-Présidence" joue un rôle de soutient à la Présidence.
+Le Vice-Président, la Vice-Présidente, les Vice-Présidents ou les Vice-Présidentes, ci-après dénommés "la Vice-Présidence" joue un rôle de soutient à la Présidence.
 La Vice-Présidence exerce une mission de contrôle sur l’administration et la gestion courante de l’association.
 Elle est chargée du bon fonctionnement du Bureau et de s'assurer de la pérennité des outils et solutions mises en place durant son mandat.
 
 #### Sous-Section 4.3.3 : Trésorerie
 
-Le·a ou les trésorier·ère(s) de l'association, ci-après dénommé "la Trésorerie", assurent la trésorerie de l'association.
-La trésorerie vérifie la tenue de la comptabilité de toute opération de l’association et rend compte de sa mission au Bureau. Elle assure une mission permanente de contrôle des ressources de l'association et s'engage sur ses dépenses.
+Le, la ou les Trésoriers ou Trésorières de l'association, ci-après dénommés "la Trésorerie", assurent la trésorerie de l'association.
+La Trésorerie vérifie la tenue de la comptabilité de toute opération de l’association et rend compte de sa mission au Bureau. Elle assure une mission permanente de contrôle des ressources de l'association et s'engage sur ses dépenses.
 
-#### Sous-Section 4.3.4 : Secrétaire Général
+#### Sous-Section 4.3.4 : Secrétariat
 
-Le/La/Les Secrétaire(s) général de l’association assure(nt) les tâches juridiques et administratives, à savoir essentiellement les correspondances par courrier et par courriel de l’association, d’établir les convocations et les comptes-rendus des réunions, ainsi que de tenir les différents registres et les archives. Il est le responsable de l’inventaire général et assure ainsi la continuité des activités qui dépendent de celui-ci.
-Plus généralement, il veille au bon fonctionnement matériel, administratif et juridique de l’association.
+Le, la ou les Secrétaire(s) Général de l'association, ci-après dénommés "le Secrétariat", assurent les tâches juridiques et administratives de l'association.
 
-Ses actes font foi jusqu’à preuve du contraire.
+Cela comprend essentiellement les correspondances par courrier et par courriel de l’association, l'établissement les convocations et les comptes-rendus des réunions, ainsi que la tenue les différents registres et les archives. Le Secrétariat est responsable de l’inventaire général et assure ainsi la continuité des activités qui dépendent de celui-ci.
+
+Les actes du Secrétariat font foi jusqu’à preuve du contraire.
 
 #### Sous-Section 4.3.5 : Responsable Projet
 
