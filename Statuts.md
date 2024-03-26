@@ -216,10 +216,6 @@ L’objectif du/de la responsable du pôle communication est de gérer la commun
 
 Les responsabilités, objectifs et compétences requises pour le poste de responsable communication sont indiqués dans le Règlement Intérieur.
 
-#### Sous-Section 4.3.8 : Commissions
-
-Le Bureau peut créer des commissions par axes. Elles sont dotées d’un/une président(e) et d’un/une vice-président(e) nommés par le Bureau auxquels le/la président(e) et le/la vice-président(e) de l’association pourront déléguer partiellement ou totalement leurs pouvoirs.
-
 ## Article 5 : Assemblée Générale (AG)
 
 ### Section 5.1 : AG Ordinaire
