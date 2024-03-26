@@ -77,28 +77,30 @@ La qualité de Membres Alumni est décernée par l’Assemblée Générale sur p
 De plus, l’étudiant doit faire partie de l’association pour une durée minimum de 2 ans scolaires (de septembre à mai) pour devenir alumni. Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire.
 Les Membres Alumni sont donc des membres à vie de l’association.
 
-### Section 2.4 : Membres annuels
+### Section 2.4 : Membres Annuels
 
 #### Sous-Section 2.4.1 : Definition
 
-Les membres annuels sont les personnes physiques dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien et qui se sont acquittés de la cotisation annuelle. Seuls les membres annuels ont le droit de vote sur l’année en cours.
-La qualité de membre est valable pour une période d’une année scolaire.
+Les Membres Annuels sont les personnes physiques dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien, qui se sont acquittés de la cotisation annuelle et qui ont signé le Règlement Intérieur. Seuls les Membres Annuels ont le droit de vote sur l’année en cours.
 
-Chaque année, le Bureau fixe une cotisation annuelle pour tous les membres dont le montant est défini dans le Règlement Intérieur.
-Le délai de paiement de la cotisation annuelle est fixé à 1 mois après admission d’un nouveau membre. Pour tous les autres, la cotisation annuelle doit avoir été effectuée avant une date fixée par le Bureau, à défaut 1 mois.
 
-Le Bureau décide de l’établissement d’un Règlement Intérieur qui sera soumis pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
-Le Règlement Intérieur s’impose à tous les membres de qualité de membre annuel de l’association.
+La qualité de Membre Annuel est valable pour une période d’une année scolaire, débutant en septembre et finissant en août, suite à laquelle le membre doit se réinscrire.
+Il convient que les Membres Annuels voulant se réinscrire se manifestent auprès du Bureau durant les 2 derniers mois de l'année scolaire, sinon ils perdent leur qualité de Membre Annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
+
+Le Bureau se réserve le droit de conditionner la réinscription d'un Membre Annuel au processus d'admission classique avec l'entretien d'admission remplacé par un entretien de motivation.
 
 #### Sous-Section 2.4.2 : Admission
 
-L’admission se fait à la suite d’un entretien d’un étudiant face à un ou plusieurs membres du Bureau choisi par le/la président(e). Pour faire partie de l’association, il faut être agréé par le Bureau qui statue lors de chacune de ses réunions quant aux demandes d’admissions présentées.
+Le processus d'admission dans en tant que Membre Annuel est le suivant :
 
-Suite à leur admission, les nouveaux membres prennent part à une phase de test d’une durée d’un mois. A l’issu de cette phase, le Bureau décide de la poursuite de l’étudiant dans l’association.
-Le/La président(e) reçoit les demandes et les présente au Bureau. Il donne son avis sur les candidatures. Le/La président(e) a le droit de décision sur l’admission d’un membre, sauf dans le cas où cette personne a été attribué au statut de persona non grata.
+1. Entretien face à minimum de 2 Membres Annuels, de préférence du Bureau, choisis par le Codir.
+2. Délibération du CoDir avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
+3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans le délai précisé dans le Règlement Intérieur.
+4. Le candidat ou la candidate est admis ou admise en tant que Membre Annuel de l'association.
 
-Le Bureau délibère. Le/La président(e) peut alors décider d’accorder ou de refuser son agrément à la majorité simple. Sa décision n’a pas à être motivée. La décision est notifiée à la personne intéressée par e-mail.
-Il est possible que le Bureau fasse passer des entretiens de motivations pour certains membres qui étaient déjà membres l’année passée.
+La notice d'admission ou de refus doit se faire à minima via un e-mail.
+
+Le CoDir se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander un remboursement de sa cotisation s'il a déjà payé celle-ci.
 
 ### Section 2.5 : Perte de la qualité de membre
 
@@ -111,6 +113,9 @@ La qualité de membre peut être perdue suite :
 - au non respect du Règlement Intérieur de l'association,
 - à une atteinte négative à l’association ou son image,
 - à tout autre motif grave (ie. le non respect de la charte de l’association LDV ou le non respect du Règlement Intérieur).
+
+Le Règlement Intérieur est établit par le Bureau qui le soumet pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
+Le Règlement Intérieur s’impose à tous les membres de qualité de Membre Annuel de l’association.
 
 La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
 
