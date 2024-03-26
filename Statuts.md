@@ -221,43 +221,54 @@ L’objectif du/de la responsable du pôle communication est de gérer la commun
 
 Les responsabilités, objectifs et compétences requises pour le poste de responsable communication sont indiqués dans le Règlement Intérieur.
 
-## Article 5 : Assemblée Générale (AG)
+## Article 5 : Assemblée Générale
 
-### Section 5.1 : AG Ordinaire
+L’Assemblée Générale (ou AG) convoque tous les Membres Annuels à jour de leur cotisation.
+Ils sont convoqués par au moins deux de ces moyens de communication :
 
-L’Assemblée Générale convoque tous les membres annuels à jour de leur cotisation.
-Ils sont convoqués par au moins un de ces moyens de communication :
-
-- mail sur l’adresse `@edu.devinci.fr`,
-- poste sur les réseaux sociaux couramment utilisé (Teams, Facebook),
-- voie de presse,
+- courriel,
+- annonce sur les canaux internes de l'association,
 - convocation individuelle,
 - affichage dans les locaux de l’association,
 - bulletin d’information.
 
-Les délais de convocation à l’Assemblée Générale Ordinaire sont fixés dans le Règlement Intérieur.
+Le délai de convocation à l’Assemblée Générale Ordinaire est fixé à une semaine avant celle-ci.
+La convocation doit informer du lieu et de la date de l'AG ainsi que de son ordre du jour, définit préalablement par le CoDir.
 Le quorum de présence est défini par le Règlement Intérieur.
 
-L’Assemblée Générale se réunit au minimum chaque année. Les décisions sont prises à la majorité simple des membres présents ou représentés.
-
-Le/La Président(e) assisté des membres du Bureau préside l’assemblée et expose la situation morale de l’association. La trésorerie rend compte du bilan à l’approbation de l’assemblée.
-
-L’assemblée élit chaque année le/la dirigeant(e) de l’association.
-Elle délibère sur les questions inscrites à l’ordre du jour et procède s’il y a lieu à la nomination et au renouvellement des membres du nouveau Bureau.
-
-Aucun quorum de présence n’est requis pour l’ouverture de la séance.
+Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents ou représentés.
 Chaque membre présent ne peut détenir plus d’un pouvoir et ne peut pas posséder plus de 2 procuration de vote.
 
-Les procès-verbaux des délibérations des assemblées sont tenus par le/la Secrétaire Générale sur un registre et signés par le/la président(e).
-En cas de changement des statuts, ils sont notifiés à tous les membres fondateurs. Ils sont ensuite signés par le/la président(e), un membre du Bureau et un membre du CC.
+Les procès-verbaux des délibérations de l'Assemblée Générale sont tenus par le Secrétariat et signés par la Présidence.
 
-### Section 5.2 : AG Extraordinaire
+Une Assemblée Générale est compétente de :
 
-L’Assemblée Générale Extraordinaire est seule compétente au prononcement de la dissolution de l’association et de la ratification, de modifications statutaires proposées et préalablement arrêtées par le Bureau sous réserve du changement de siège social et de l’approbation des membres fondateurs.
+- l'élection entière ou partielle du Bureau,
+- l'attribution du statut de Membre d'Honneur ou Membre Alumni.
 
-L’Assemblée Générale Extraordinaire est compétente de la modification des statuts, de la décision de dissolution de l’association, de la fusion de l’association en accord avec les membres fondateurs. Elle est convoquée par le/la président(e) selon les modalités d'une AG Ordinaire.
+### Section 5.1 : Assemblée Générale Ordinaire
 
-Les décisions qui modifient les statuts doivent être approuvées à la majorité relative des voix dont disposent les membres présents ou représentés. La dissolution de l’association est votée à la majorité des deux tiers des voix des membres présents ou représentés après avoir été présentée au CC pour approbation.
+L'Assemblé Générale Ordinaire doit se réunir une fois par an pour le renouvellement des mandats du Bureau, c'est à dire l'élection nécessairement entière d'un Bureau.
+
+Le Comité de Direction ouvre l'AG Ordinaire en exposant la situation morale de l’association ainsi qu'un bilan fiancier et humain.
+
+L'Assemblée procède ensuite à l'élection du Bureau, présidée par la Présidence sortante.
+
+### Section 5.2 : Assemblée Générale Extraordinaire
+
+L'Assemblée Générale Extraordinaire est une AG convoquées par le Comité de Direction selon les modalités ordinaires.
+
+L'Assemblée Générale Extraordinaire est seule compétente de :
+
+- la dissolution de l'association,
+- la fusion de l'association,
+- la ratification,
+- la modification des statuts.
+
+La dissolution ou fusion de l’association est votée à la majorité qualifiée de deux tiers et à l'unanimité des membres du Comité de Contrôle.
+
+Une Assemblée Générale Extraordinaire proposant la modification des statuts ne peut aussi proposer l'élection entière ou partielle du Bureau.
+En cas de changement des statuts, ils sont signés par la Présidence, un membre du CoDir et un membre du CC.
 
 ---
 Signatures
