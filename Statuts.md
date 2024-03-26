@@ -114,12 +114,11 @@ La qualité de membre peut être perdue suite :
 
 La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
 
-### Section 2.8 : Persona non grata
+### Section 2.8 : Persona Non Grata
 
-Un membre est de qualité persona non grata s’il a fait précédemment partie de l’association et s’est retrouvé exclu par la présidence.
+La présidence se réserve le droit d’attribuer le statut de Persona Non Grata à un membre sans explication ni justification et sans préavis.
 
-Le/La président(e) se réserve le droit d’attribuer le statut de persona non grata à un membre sans explication et sans justification.
-La liste des membres de qualité de persona non grata est tenue sur un registre, tenue par le/la responsable des registres.
+Un membre se voyant attribué le statut de Persona Non Grata est immédiatement exclu de l'association, perd sa qualité de membre et ne peut plus participer à aucunes des activités de l'association.
 
 ## Article 3 : Ressources
 
