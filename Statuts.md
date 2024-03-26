@@ -82,32 +82,34 @@ Les Membres d’Honneur sont Membres à Vie de l’association et sont exemptés
 
 ### Section 2.3 : Membres alumnis
 
-La qualité de Membres Alumni est décernée par l’Assemblée Générale sur proposition du Bureau, aux personnes physiques ou morales qui ont rendu des services éminents à l’association. Les membres deviennent pleinement Membres Alumni à la fin de leur études, c’est à dire une fois la dernière année universitaire d’un cursus de l’ESILV, l’EMLV et l’IIM est terminé ou s’il part à l’étranger à partir de la 5e année. Un étudiant ayant quitté l’ESILV, l’EMLV ou l’IIM, et ayant validé au moins une année scolaire dans l’une de ces 3 écoles peut devenir Membre Alumni. Mais un membre étudiant d’une des 3 écoles (ESILV, EMLV, IIM) n’ayant jamais validé d’année scolaire ne peut pas être Membre Alumni.
+La qualité de Membres Alumni est décernée par l’Assemblée Générale sur proposition du Bureau, aux personnes physiques qui ont rendu des services éminents à l’association. Les membres deviennent pleinement Membres Alumni à la fin de leur études, c’est à dire une fois la dernière année universitaire d’un cursus de l’ESILV, l’EMLV et l’IIM est terminé ou s’il part à l’étranger à partir de la 5e année. Un étudiant ayant quitté l’ESILV, l’EMLV ou l’IIM, et ayant validé au moins une année scolaire dans l’une de ces 3 écoles peut devenir Membre Alumni. Mais un membre étudiant d’une des 3 écoles (ESILV, EMLV, IIM) n’ayant jamais validé d’année scolaire ne peut pas être Membre Alumni.
 De plus, l’étudiant doit faire partie de l’association pour une durée minimum de 2 ans scolaires (de septembre à mai) pour devenir alumni. Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire.
 Les Membres Alumni sont donc des membres à vie de l’association.
 
-### Section 2.4 : Membres annuels
+### Section 2.4 : Membres Annuels
 
 #### Sous-Section 2.4.1 : Definition
 
-Les membres annuels sont les personnes physiques ou morales dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien et qui se sont acquittés de la cotisation annuelle. Seuls les membres annuels ont le droit de vote sur l’année en cours.
-La qualité de membre est valable pour une période d’une année scolaire.
+Les Membres Annuels sont les personnes physiques dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien, qui se sont acquittés de la cotisation annuelle et qui ont signé le Règlement Intérieur. Seuls les Membres Annuels ont le droit de vote sur l’année en cours.
 
-Chaque année, le Bureau fixe une cotisation annuelle pour tous les membres dont le montant est défini dans le Règlement Intérieur.
-Le délai de paiement de la cotisation annuelle est fixé à 1 mois après admission d’un nouveau membre. Pour tous les autres, la cotisation annuelle doit avoir été effectuée avant une date fixée par le Bureau, à défaut 1 mois.
 
-Le Bureau décide de l’établissement d’un Règlement Intérieur qui sera soumis pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
-Le Règlement Intérieur s’impose à tous les membres de qualité de membre annuel de l’association.
+La qualité de Membre Annuel est valable pour une période d’une année scolaire, débutant en septembre et finissant en août, suite à laquelle le membre doit se réinscrire.
+Il convient que les Membres Annuels voulant se réinscrire se manifestent auprès du Bureau durant les 2 derniers mois de l'année scolaire, sinon ils perdent leur qualité de Membre Annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
+
+Le Bureau se réserve le droit de conditionner la réinscription d'un Membre Annuel au processus d'admission classique avec l'entretien d'admission remplacé par un entretien de motivation.
 
 #### Sous-Section 2.4.2 : Admission
 
-L’admission se fait à la suite d’un entretien d’un étudiant face à un ou plusieurs membres du Bureau choisi par le/la président(e). Pour faire partie de l’association, il faut être agréé par le Bureau qui statue lors de chacune de ses réunions quant aux demandes d’admissions présentées.
+Le processus d'admission dans en tant que Membre Annuel est le suivant :
 
-Suite à leur admission, les nouveaux membres prennent part à une phase de test d’une durée d’un mois. A l’issu de cette phase, le Bureau décide de la poursuite de l’étudiant dans l’association.
-Le/La président(e) reçoit les demandes et les présente au Bureau. Il donne son avis sur les candidatures. Le/La président(e) a le droit de décision sur l’admission d’un membre, sauf dans le cas où cette personne a été attribué au statut de persona non grata.
+1. Entretien face à minimum de 2 Membres Annuels, de préférence du Bureau, choisis par le Codir.
+2. Délibération du CoDir avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
+3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans le délai précisé dans le Règlement Intérieur.
+4. Le candidat ou la candidate est admis ou admise en tant que Membre Annuel de l'association.
 
-Le Bureau délibère. Le/La président(e) peut alors décider d’accorder ou de refuser son agrément à la majorité simple. Sa décision n’a pas à être motivée. La décision est notifiée à la personne intéressée par e-mail.
-Il est possible que le Bureau fasse passer des entretiens de motivations pour certains membres qui étaient déjà membres l’année passée.
+La notice d'admission ou de refus doit se faire à minima via un e-mail.
+
+Le CoDir se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander un remboursement de sa cotisation s'il a déjà payé celle-ci.
 
 ### Section 2.5 : Perte de la qualité de membre
 
@@ -121,14 +123,16 @@ La qualité de membre peut être perdue suite :
 - à une atteinte négative à l’association ou son image,
 - à tout autre motif grave (ie. le non respect de la charte de l’association LDV ou le non respect du Règlement Intérieur).
 
+Le Règlement Intérieur est établit par le Bureau qui le soumet pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
+Le Règlement Intérieur s’impose à tous les membres de qualité de Membre Annuel de l’association.
+
 La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
 
-### Section 2.8 : Persona non grata
+### Section 2.8 : Persona Non Grata
 
-Un membre est de qualité persona non grata s’il a fait précédemment partie de l’association et s’est retrouvé exclu par la présidence.
+La présidence se réserve le droit d’attribuer le statut de Persona Non Grata à un membre sans explication ni justification et sans préavis.
 
-Le/La président(e) se réserve le droit d’attribuer le statut de persona non grata à un membre sans explication et sans justification.
-La liste des membres de qualité de persona non grata est tenue sur un registre, tenue par le/la responsable des registres.
+Un membre se voyant attribué le statut de Persona Non Grata est immédiatement exclu de l'association, perd sa qualité de membre et ne peut plus participer à aucunes des activités de l'association.
 
 ## Article 3 : Ressources
 
@@ -169,7 +173,7 @@ En outre, le Bureau est chargé de porter à la connaissance de la préfecture, 
 
 ### Section 4.3 : Compostion
 
-Le CoDir (Comité de Direction) est constitué du/de la Président(e) et des possibles co-président(e)s, du/de la/des Vice-Président(es) et du/de la/des Secrétaire(s) Général de l’association.
+Le CoDir (Comité de Direction) est constitué du/de la Président(e) et des possibles co-président(e)s, du/de la/des Vice-Président(es), du/de la/des Secrétaire(s) Général et du/de la Trésorier(ère) de l’association.
 
 #### Sous-Section 4.3.1 : Président(e)
 
@@ -188,15 +192,16 @@ Les co-président(e)s décident de l’engagement des actions en justice et repr
 Les co-président(e)s ont le pouvoir de transiger.
 L’un des deux co-président(e)s représente l’association en tant que président(e) pour la banque en plus du trésorier.
 
-#### Sous-Section 4.3.2 : Vice Président(e)
+#### Sous-Section 4.3.2 : Vice-Présidence
 
-Le/La vice-président(e) exerce une mission permanente de contrôle sur l’administration et la gestion courante de l’association. Il/Elle est particulièrement chargé de surveiller la tenue des registres de la correspondance et des archives de l’association.
-En cas d’absence ou de maladie le/la Vice-président(e) sera remplacé par le/la secrétaire générale, excluant les pouvoirs du/de la président(e), et disposera de l’ensemble des pouvoirs du/de la Vice-Président(e).
+Le Vice-Président, la Vice-Présidente, les Vice-Présidents ou les Vice-Présidentes, ci-après dénommé "la Vice-Présidence" joue un rôle de soutient à la Présidence.
+La Vice-Présidence exerce une mission de contrôle sur l’administration et la gestion courante de l’association.
+Elle est chargée du bon fonctionnement du Bureau et de s'assurer de la pérennité des outils et solutions mises en place durant son mandat.
 
 #### Sous-Section 4.3.3 : Trésorerie
 
-La trésorerie est supervisée par la direction de l’association : le/la président(e), le/la vice-président(e) et le/la secrétaire général. Ils s’assurent une mission permanente de contrôle de la ressource et de l’engagement des dépenses de l’association.
-La trésorerie vérifie la tenue de la comptabilité de toute opération de l’association et rend compte de sa mission au Bureau.
+Le·a ou les trésorier·ère(s) de l'association, ci-après dénommé "la Trésorerie", assurent la trésorerie de l'association.
+La trésorerie vérifie la tenue de la comptabilité de toute opération de l’association et rend compte de sa mission au Bureau. Elle assure une mission permanente de contrôle des ressources de l'association et s'engage sur ses dépenses.
 
 #### Sous-Section 4.3.4 : Secrétaire Général
 
@@ -224,10 +229,6 @@ Les responsabilités, objectifs et compétences requises pour le poste de respon
 L’objectif du/de la responsable du pôle communication est de gérer la communication interne et externe du fablab. En interne, il/elle doit s’assurer que tous les membres du pôle communication soient au courant des diverses informations, événements ou nouvelles ayant un lien direct ou indirect avec le fablab. Le responsable communication doit être l’intermédiaire entre les fablab extérieurs et les autres membres de l’association. Il est également présent pour donner des entretiens aux potentiels nouveaux membres.
 
 Les responsabilités, objectifs et compétences requises pour le poste de responsable communication sont indiqués dans le Règlement Intérieur.
-
-#### Sous-Section 4.3.8 : Commissions
-
-Le Bureau peut créer des commissions par axes. Elles sont dotées d’un/une président(e) et d’un/une vice-président(e) nommés par le Bureau auxquels le/la président(e) et le/la vice-président(e) de l’association pourront déléguer partiellement ou totalement leurs pouvoirs.
 
 ## Article 5 : Assemblée Générale (AG)
 
@@ -266,12 +267,6 @@ L’Assemblée Générale Extraordinaire est seule compétente au prononcement d
 L’Assemblée Générale Extraordinaire est compétente de la modification des statuts, de la décision de dissolution de l’association, de la fusion de l’association en accord avec les membres fondateurs. Elle est convoquée par le/la président(e) selon les modalités d'une AG Ordinaire.
 
 Les décisions qui modifient les statuts doivent être approuvées à la majorité relative des voix dont disposent les membres présents ou représentés. La dissolution de l’association est votée à la majorité des deux tiers des voix des membres présents ou représentés après avoir été présentée au CC pour approbation.
-
-## Article 6 : Registres
-
-Les registres comportant tous les membres actuels et passés (fondateur, annuel, alumni, honneur, persona non grata, membre du CC) sont tenus par le/la responsable des registres, c’est à dire le/la secrétaire général, à défaut : le/la vice-président(e), à défaut : le/la président(e).
-
-Le responsable des registres possède une version physique des registres et une version numérique accessible à tout instant par les membres du Bureau. Le responsable s’assure de la passation des registres physiques et numériques à son successeur quand il quitte ses fonctions. Chaque responsable des registres choisit la forme dans laquelle il les rentrera. Cela dit, une cohérence avec ses prédécesseurs s’impose, elle sera donc définie par l’appréciation du Bureau. Le responsable des registres est libre d’inclure, en plus des registres de membres, tout type de registre utile au fablab, cela peut-être un livre de compte ou les codes de casiers.
 
 ---
 Signatures
