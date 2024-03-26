@@ -258,11 +258,5 @@ L’Assemblée Générale Extraordinaire est compétente de la modification des 
 
 Les décisions qui modifient les statuts doivent être approuvées à la majorité relative des voix dont disposent les membres présents ou représentés. La dissolution de l’association est votée à la majorité des deux tiers des voix des membres présents ou représentés après avoir été présentée au CC pour approbation.
 
-## Article 6 : Registres
-
-Les registres comportant tous les membres actuels et passés (fondateur, annuel, alumni, honneur, persona non grata, membre du CC) sont tenus par le/la responsable des registres, c’est à dire le/la secrétaire général, à défaut : le/la vice-président(e), à défaut : le/la président(e).
-
-Le responsable des registres possède une version physique des registres et une version numérique accessible à tout instant par les membres du Bureau. Le responsable s’assure de la passation des registres physiques et numériques à son successeur quand il quitte ses fonctions. Chaque responsable des registres choisit la forme dans laquelle il les rentrera. Cela dit, une cohérence avec ses prédécesseurs s’impose, elle sera donc définie par l’appréciation du Bureau. Le responsable des registres est libre d’inclure, en plus des registres de membres, tout type de registre utile au fablab, cela peut-être un livre de compte ou les codes de casiers.
-
 ---
 Signatures
