@@ -160,7 +160,7 @@ En outre, le Bureau est chargé de porter à la connaissance de la préfecture, 
 
 ### Section 4.3 : Compostion
 
-Le CoDir (Comité de Direction) est constitué du/de la Président(e) et des possibles co-président(e)s, du/de la/des Vice-Président(es) et du/de la/des Secrétaire(s) Général de l’association.
+Le CoDir (Comité de Direction) est constitué du/de la Président(e) et des possibles co-président(e)s, du/de la/des Vice-Président(es), du/de la/des Secrétaire(s) Général et du/de la Trésorier(ère) de l’association.
 
 #### Sous-Section 4.3.1 : Président(e)
 
@@ -186,8 +186,8 @@ En cas d’absence ou de maladie le/la Vice-président(e) sera remplacé par le/
 
 #### Sous-Section 4.3.3 : Trésorerie
 
-La trésorerie est supervisée par la direction de l’association : le/la président(e), le/la vice-président(e) et le/la secrétaire général. Ils s’assurent une mission permanente de contrôle de la ressource et de l’engagement des dépenses de l’association.
-La trésorerie vérifie la tenue de la comptabilité de toute opération de l’association et rend compte de sa mission au Bureau.
+Le·a ou les trésorier·ère(s) de l'association, ci-après dénommé "la Trésorerie", assurent la trésorerie de l'association.
+La trésorerie vérifie la tenue de la comptabilité de toute opération de l’association et rend compte de sa mission au Bureau. Elle assure une mission permanente de contrôle des ressources de l'association et s'engage sur ses dépenses.
 
 #### Sous-Section 4.3.4 : Secrétaire Général
 
