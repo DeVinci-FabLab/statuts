@@ -35,7 +35,7 @@ Si un membre fondateur s’oppose, l’Association n’est pas dissolue.
 
 ### Section 1.6 : Comité de Contrôle
 
-Le Comité de Contrôle (ou CC) est un groupe de 2 ou 3 Membres d'Honneur assurant une tâche de contrôle sur les changements opérés dans l'Association.
+Le Comité de Contrôle (ci-après nommé "CC") est un groupe de 2 ou 3 Membres d'Honneur assurant une tâche de contrôle sur les changements opérés dans l'Association.
 
 Les membres du CC possèdent le droit de veto sur la dissolution de l'Association, la modification des statuts et toute décision prise en Assemblée Générale.
 Pour cela, les décisions et propositions allant être soumises à une Assemblée Générale doivent être d'abord soumises par le Bureau au CC minimum 2 semaines avant cette même AG. Si aucun membre du CC ne pose son veto, les propositions peuvent être soumises à l'AG.
