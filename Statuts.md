@@ -78,7 +78,7 @@ Les Membres Alumni sont donc des membres à vie de l’Association.
 
 ### Section 2.4 : Membres Annuels
 
-#### Sous-Section 2.4.1 : Definition
+#### Sous-Section 2.4.1 : Définition
 
 Les Membres Annuels sont les personnes physiques dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien, qui se sont acquittés de la cotisation annuelle et ayant signé le Règlement Intérieur. Seuls les Membres Annuels ont le droit de vote sur l’année en cours.
 
