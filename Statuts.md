@@ -91,7 +91,7 @@ Le Bureau se réserve le droit de conditionner la réinscription d'un Membre Ann
 
 Le processus d'admission dans l'Association en tant que Membre Annuel est le suivant :
 
-1. Entretien face à minimum de 2 Membres Annuels, de préférence du Bureau, choisis par le Codir.
+1. Entretien face à deux Membres Annuels minimum, dont un membre du Bureau minimum.
 2. Délibération du CoDir avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
 3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans le délai précisé dans le Règlement Intérieur.
 4. Le candidat ou la candidate est admis ou admise en tant que Membre Annuel de l'Association.
