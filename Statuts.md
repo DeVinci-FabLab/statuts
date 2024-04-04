@@ -89,7 +89,7 @@ Le Bureau se réserve le droit de conditionner la réinscription d'un Membre Ann
 
 #### Sous-Section 2.4.2 : Admission
 
-Le processus d'admission dans en tant que Membre Annuel est le suivant :
+Le processus d'admission dans l'Association en tant que Membre Annuel est le suivant :
 
 1. Entretien face à minimum de 2 Membres Annuels, de préférence du Bureau, choisis par le Codir.
 2. Délibération du CoDir avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
