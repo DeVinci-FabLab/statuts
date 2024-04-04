@@ -1,4 +1,4 @@
-# Statuts du DeVinci FabLab
+# Statuts du DeVinci Fablab
 
 ## Article 1 : Définition
 
@@ -45,6 +45,17 @@ Le Comité de Contrôle possède toujours 2 ou 3 membres. Les membres du CC sont
 Si le CC se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Alumnis.
 
 Le Comité de Contrôle peut décider à l'unanimité de se dissoudre. Auquel cas il revient au Comité de Direction de recruter 2 ou 3 membres parmi les Membres d'Honneur et Membres Alumnis.
+
+### Section 1.7 : Ressources
+
+Les ressources de l’Association comprennent :
+
+- le montant des cotisations annuelles,
+- les subventions de l’état et des collectivités territoriales des établissements publics, des entreprises et de toute autre organisation publique ou privée,
+- des participations, dons et legs recueillis en conformité avec la réglementation en vigueur,
+- des produits et ressources exceptionnels,
+- des produits des rétributions perçues pour les services et les prestations rendues dans l’accomplissement de ses buts,
+- de toutes autres ressources autorisées par la loi.
 
 ## Article 2 : Membres
 
@@ -96,7 +107,7 @@ Le processus d'admission dans l'Association en tant que Membre Annuel est le sui
 3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans le délai précisé dans le Règlement Intérieur.
 4. Le candidat ou la candidate est admis ou admise en tant que Membre Annuel de l'Association.
 
-La notice d'admission ou de refus doit se faire à minima via un e-mail.
+La notice d'admission ou de refus doit se faire à minima via un courriel.
 
 Le CoDir se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander un remboursement de sa cotisation s'il a déjà payé celle-ci.
 
@@ -122,17 +133,6 @@ La perte de la qualité de membre n’entraîne aucun droit au remboursement des
 La présidence se réserve le droit d’attribuer le statut de Persona Non Grata à un membre sans explication ni justification et sans préavis.
 
 Un membre se voyant attribué le statut de Persona Non Grata est immédiatement exclu de l'Association, perd sa qualité de membre et ne peut plus participer à aucunes des activités de l'Association.
-
-## Article 3 : Ressources
-
-Les ressources de l’Association comprennent :
-
-- le montant des cotisations annuelles,
-- les subventions de l’état et des collectivités territoriales des établissements publics, des entreprises et de toute autre organisation publique ou privée,
-- des participations, dons et legs recueillis en conformité avec la réglementation en vigueur,
-- des produits et ressources exceptionnels,
-- des produits des rétributions perçues pour les services et les prestations rendues dans l’accomplissement de ses buts,
-- de toutes autres ressources autorisées par la loi.
 
 ## Article 4 : Bureau
 
