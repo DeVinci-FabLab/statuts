@@ -28,7 +28,7 @@ La durée de l’Association est illimitée.
 
 La dissolution est prononcée par l’Assemblée Générale extraordinaire qui nomme un liquidateur. L’actif sera dévolu conformément à l’article 9 de la loi 1er juillet 1901 à une association poursuivant un but identique.
 
-Pour la dissolution de l’Association, les membres fondateurs stipulés dans l’[article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préavis. A défaut, sur LinkedIn ou tout autre moyen de contact. La dissolution de l’Association doit être présentée et justifiée aux membres fondateurs.
+Pour la dissolution de l’Association, les membres fondateurs stipulés dans l’[article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préavis. À défaut, sur LinkedIn ou tout autre moyen de contact. La dissolution de l’Association doit être présentée et justifiée aux membres fondateurs.
 
 Si l’unanimité des membres fondateurs juge la dissolution de l’Association irresponsable, ils se réservent le droit d’intervenir pour assurer la passation de l’Association à un nouveau Bureau.
 Si un membre fondateur s’oppose, l’Association n’est pas dissolue.
