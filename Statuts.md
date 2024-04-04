@@ -4,7 +4,7 @@
 
 ### Section 1.1 : Forme et dénomination
 
-Il est donné entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et du décret du 16 Août 1901, ayant pour dénomination DeVinci Fablab.
+Il est donné entre les adhérents aux présents statuts une association régie par la loi du 1er juillet 1901 et du décret du 16 août 1901, ayant pour dénomination DeVinci Fablab.
 
 ### Section 1.2 : Objet
 
