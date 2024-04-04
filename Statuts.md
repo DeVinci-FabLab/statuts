@@ -16,9 +16,9 @@ Le siège social est fixé au :
 
 > Pôle Universitaire Léonard de Vinci
 >
-> 2/12 avenue Leonard de Vinci
+> 2/12, avenue Léonard de Vinci
 >
-> 92400 Courbevoie
+> 92400 Courbevoie, France
 
 ### Section 1.4 : Durée
 
