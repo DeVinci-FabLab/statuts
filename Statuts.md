@@ -39,7 +39,7 @@ Le Comité de Contrôle (ci-après nommé "CC") est un groupe de 2 ou 3 Membres 
 
 Les membres du CC possèdent le droit de veto sur la dissolution de l'Association, la modification des statuts et toute décision prise en Assemblée Générale (ci-après nommée "AG").
 Pour cela, les décisions et propositions allant être soumises à une Assemblée Générale doivent être d'abord soumises par le Bureau au CC minimum 2 semaines avant cette même AG. Si aucun membre du CC ne pose son veto, les propositions peuvent être soumises à l'AG.
-Une fois proposée en AG, une proposition n’est plus soumise au veto des membres du CC. Ils doivent ainsi impérativement faire connaître leur position avant l’AG.
+Une fois proposée en AG, une proposition n’est plus soumise au veto des membres du CC.
 
 Le Comité de Contrôle possède toujours 2 ou 3 membres. Les membres du CC sont tenus dans les registres, les registres font foi des membres du CC.
 Si le CC se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Alumnis.
