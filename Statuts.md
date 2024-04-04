@@ -48,13 +48,13 @@ Le Comité de Contrôle peut décider à l'unanimité de se dissoudre. Auquel ca
 
 ## Article 2 : Membres
 
-L’Association comprend les qualités de membres suivant:
+L’Association comprend les qualités de membres suivantes:
 
-- Membres fondateurs
-- Membres d’Honneur
-- Membres Alumnis
-- Membres annuels
-- Persona Non Grata
+- Membres fondateurs ;
+- Membres d’Honneur ;
+- Membres Alumnis ;
+- Membres annuels ;
+- Persona Non Grata.
 
 ### Section 2.1 : Membres fondateurs
 
