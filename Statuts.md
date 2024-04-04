@@ -192,25 +192,12 @@ Cela comprend essentiellement les correspondances par courrier et par courriel d
 
 Les actes du Secrétariat font foi jusqu’à preuve du contraire.
 
-#### Sous-Section 4.3.5 : Responsable Projet
+#### Sous-Section 4.3.5 : Responsables
 
-Le pôle projet a pour objectif de mener à bien des projets, qui ont été imaginés par les membres de l'association, mais également des projets/missions confiés par la DVJ, ou partenariat avec des entreprises. Le responsable a l’obligation de proposer des projets aux membres de l’association et de les encadrer. Son rôle assure la création de contenus et doit rester dynamique tout au long de ses fonctions.
+Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction à chaque Assemblées Générales.
 
-Les responsabilités, objectifs et compétences requises pour le poste de responsable projet sont indiqués dans le Règlement Intérieur.
-
-#### Sous-Section 4.3.6 : Responsable Formation
-
-Le/La responsable formation s’occupe de l’organisation des formations des étudiants du pôle, des élèves de terminales venant de l'extérieur mais également du personnel du Pôle Universitaire.
-Le/La responsable formation veille à ce que son pôle permette aux personnes concernées de découvrir et d'approfondir leurs connaissances en programmation, en impression 3D, en objets connectés, en rédactions techniques de tutoriels mais aussi en transmission de savoir-faire essentiel pour la vie en entreprise.
-Le/La responsable doit être suffisamment curieux pour se tenir au courant des nouvelles technologies dans le monde de l'IoT et de l'impression 3D.
-
-Les responsabilités, objectifs et compétences requises pour le poste de responsable formation sont indiqués dans le Règlement Intérieur.
-
-#### Sous-Section 4.3.7 : Responsable Communication
-
-L’objectif du/de la responsable du pôle communication est de gérer la communication interne et externe du fablab. En interne, il/elle doit s’assurer que tous les membres du pôle communication soient au courant des diverses informations, événements ou nouvelles ayant un lien direct ou indirect avec le fablab. Le responsable communication doit être l’intermédiaire entre les fablab extérieurs et les autres membres de l’association. Il est également présent pour donner des entretiens aux potentiels nouveaux membres.
-
-Les responsabilités, objectifs et compétences requises pour le poste de responsable communication sont indiqués dans le Règlement Intérieur.
+Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en AG.
+La mission d'un ou d'une Responsable est de mener à bien la gestion du pôle qui lui a été confié.
 
 ## Article 5 : Assemblée Générale (AG)
 
