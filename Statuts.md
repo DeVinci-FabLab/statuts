@@ -61,9 +61,7 @@ L’Association comprend les qualités de membres suivantes:
 Les membres fondateurs sont les personnes ayant constitué l’Association en 2015, à savoir : Angéline BESLAND (Présidente), Gaël NAIME (Trésorier) et Dany NARCISSE (Secrétaire Général).
 
 Leurs noms figurent ci-dessus sur ce statut et doivent figurer, dans l’éventualité que cela se produise, sur tous les prochains statuts de l’Association sous le même format.
-Les droits des membres fondateurs incluent tous les droits des Membres d’Honneur et d’alumni au minima.
-
-Gaël NAIME, par manque de temps et manque d’implication dans la construction et du futur de l’Association, renonce à ses droits de membre fondateur. Son titre reste membre fondateur mais il n’est pas dans le comité de contrôle (CC).
+Les droits des membres fondateurs incluent tous les droits des Membres d’Honneur et d’Alumni au minima.
 Les membres fondateurs sont des membres à vie de l’Association.
 
 ### Section 2.2 : Membres d'honneur
