@@ -8,7 +8,7 @@ Il est donné entre les adhérents aux présents statuts une association régie 
 
 ### Section 1.2 : Objet
 
-Le but premier de l’association est la gestion des ressources du DeVinci Fablab du Pôle Universitaire Léonard de Vinci. L’association met à disposition les infrastructures et le matériel nécessaire aux étudiants afin de réaliser leurs projets, qu’ils soient personnels ou professionnels. L’association offre des formations à l’utilisation des ressources. Elles sont ouvertes à tout lycéen et aux étudiants du Pôle Universitaire ou personnel autorisé par l’association. L’association organise des événements de type séminaires, workshops, hackathon afin de faire découvrir aux étudiants de nouvelles technologies.
+Le but premier de l’association est la gestion des ressources du DeVinci Fablab du Pôle Universitaire Léonard de Vinci (ci-après nommé "PULV"). L’association met à disposition l'infrastructure et le matériel nécessaires aux étudiants afin de réaliser leurs projets académiques, personnels ou bien professionnels. L’association offre des formations à l’utilisation de ces ressources. Elles sont ouvertes à tout lycéen et aux étudiants du Pôle Universitaire ou personnel autorisé par l’association. L’association organise des événements de type séminaires, workshops, hackathon afin de faire découvrir aux étudiants de nouvelles technologies.
 
 ### Section 1.3 : Siège Social
 
