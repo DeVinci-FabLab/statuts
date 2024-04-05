@@ -127,9 +127,9 @@ Un membre se voyant attribué le statut de Persona Non Grata est immédiatement 
 
 Le Comité de Contrôle est un groupe de 2 ou 3 Membres d'Honneur assurant une tâche de contrôle sur les changements opérés dans l'Association.
 
-Les membres du Comité de Contrôle possèdent le droit de veto sur la dissolution de l'Association, la modification des statuts et toute décision prise en Assemblée Générale (ci-après nommée "AG").
-Pour cela, les décisions et propositions allant être soumises à une Assemblée Générale doivent être d'abord soumises par le Bureau au Comité de Contrôle minimum 2 semaines avant cette même AG. Si aucun membre du Comité de Contrôle ne pose son veto, les propositions peuvent être soumises à l'AG.
-Une fois proposée en AG, une proposition n’est plus soumise au veto des membres du Comité de Contrôle.
+Les membres du Comité de Contrôle possèdent le droit de veto sur la dissolution de l'Association, la modification des statuts et toute décision prise en Assemblée Générale.
+Pour cela, les décisions et propositions allant être soumises à une Assemblée Générale doivent être d'abord soumises par le Bureau au Comité de Contrôle minimum 2 semaines avant cette même Assemblée Générale. Si aucun membre du Comité de Contrôle ne pose son veto, les propositions peuvent être soumises à l'Assemblée Générale.
+Une fois proposée en Assemblée Générale, une proposition n’est plus soumise au veto des membres du Comité de Contrôle.
 
 Le Comité de Contrôle possède toujours 2 ou 3 membres. Les membres du Comité de Contrôle sont tenus dans les registres faisant foi des membres du Comité de Contrôle.
 Si le Comité de Contrôle se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Alumnis.
@@ -175,7 +175,7 @@ Les actes du Secrétariat font foi jusqu’à preuve du contraire.
 
 Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction à chaque Assemblées Générales.
 
-Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en AG.
+Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en Assemblée Générale.
 La mission d'un ou d'une Responsable est de mener à bien la gestion du pôle qui lui a été confié.
 
 ### Section 3.4 : Comité de Soutien
@@ -220,7 +220,7 @@ Ils sont convoqués par au moins deux de ces moyens de communication :
 - bulletin d’information.
 
 Le délai de convocation à l’Assemblée Générale Ordinaire est fixé à une semaine avant celle-ci.
-La convocation doit informer du lieu et de la date de l'AG ainsi que de son ordre du jour, définit préalablement par le CoDir.
+La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le CoDir.
 Le quorum de présence est défini par le Règlement Intérieur.
 
 Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents ou représentés.
@@ -237,13 +237,13 @@ Une Assemblée Générale est compétente de :
 
 L'Assemblé Générale Ordinaire doit se réunir une fois par an pour le renouvellement des mandats du Bureau, c'est à dire l'élection nécessairement entière d'un Bureau.
 
-Le Comité de Direction ouvre l'AG Ordinaire en exposant la situation morale de l’Association ainsi qu'un bilan fiancier et humain.
+Le Comité de Direction ouvre l'Assemblée Générale Ordinaire en exposant la situation morale de l’Association ainsi qu'un bilan fiancier et humain.
 
 L'Assemblée procède ensuite à l'élection du Bureau, présidée par la Présidence sortante.
 
 ### Section 5.2 : Assemblée Générale Extraordinaire
 
-L'Assemblée Générale Extraordinaire est une AG convoquées par le Comité de Direction selon les modalités ordinaires.
+L'Assemblée Générale Extraordinaire est une Assemblée Générale convoquées par le Comité de Direction selon les modalités ordinaires.
 
 L'Assemblée Générale Extraordinaire est seule compétente de :
 
