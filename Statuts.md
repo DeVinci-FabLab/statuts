@@ -44,6 +44,8 @@ Les ressources de l’Association comprennent :
 - des produits des rétributions perçues pour les services et les prestations rendues dans l’accomplissement de ses buts,
 - de toutes autres ressources autorisées par la loi.
 
+### Section 1.7 : Règlement Intérieur
+
 ## Article 2 : Membres
 
 L’Association comprend les qualités de membres suivantes:
