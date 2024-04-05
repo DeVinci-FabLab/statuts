@@ -28,25 +28,12 @@ La durée de l’Association est illimitée.
 
 La dissolution est prononcée par l’Assemblée Générale extraordinaire qui nomme un liquidateur. L’actif sera dévolu conformément à l’article 9 de la loi 1er juillet 1901 à une association poursuivant un but identique.
 
-Pour la dissolution de l’Association, les membres fondateurs stipulés dans l’[article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préavis. À défaut, sur LinkedIn ou tout autre moyen de contact. La dissolution de l’Association doit être présentée et justifiée aux membres fondateurs.
+Pour la dissolution de l’Association, les membres fondateurs définis dans l’[article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préavis. À défaut, par courriel ou tout autre moyen de contact. La dissolution de l’Association doit être présentée et justifiée aux membres fondateurs.
 
 Si l’unanimité des membres fondateurs juge la dissolution de l’Association irresponsable, ils se réservent le droit d’intervenir pour assurer la passation de l’Association à un nouveau Bureau.
 Si un membre fondateur s’oppose, l’Association n’est pas dissolue.
 
-### Section 1.6 : Comité de Contrôle
-
-Le Comité de Contrôle (ci-après nommé "CC") est un groupe de 2 ou 3 Membres d'Honneur assurant une tâche de contrôle sur les changements opérés dans l'Association.
-
-Les membres du CC possèdent le droit de veto sur la dissolution de l'Association, la modification des statuts et toute décision prise en Assemblée Générale (ci-après nommée "AG").
-Pour cela, les décisions et propositions allant être soumises à une Assemblée Générale doivent être d'abord soumises par le Bureau au CC minimum 2 semaines avant cette même AG. Si aucun membre du CC ne pose son veto, les propositions peuvent être soumises à l'AG.
-Une fois proposée en AG, une proposition n’est plus soumise au veto des membres du CC.
-
-Le Comité de Contrôle possède toujours 2 ou 3 membres. Les membres du CC sont tenus dans les registres faisant foi des membres du CC.
-Si le CC se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Émérites.
-
-Le Comité de Contrôle peut décider à l'unanimité de se dissoudre. Auquel cas il revient au Comité de Direction de recruter 2 ou 3 membres parmi les Membres d'Honneur et Membres Émérites.
-
-### Section 1.7 : Ressources
+### Section 1.6 : Ressources
 
 Les ressources de l’Association comprennent :
 
@@ -140,9 +127,68 @@ La présidence se réserve le droit d’attribuer le statut de Persona Non Grata
 
 Un membre se voyant attribué le statut de Persona Non Grata est immédiatement exclu de l'Association, perd sa qualité de membre et ne peut plus participer à aucunes des activités de l'Association.
 
-## Article 3 : Bureau
+## Article 3 : Comités
 
-### Section 3.1 : Définition
+### Section 3.1 : Comité de Contrôle
+
+Le Comité de Contrôle (ci-après nommé "CC") est un groupe de 2 ou 3 Membres d'Honneur assurant une tâche de contrôle sur les changements opérés dans l'Association.
+
+Les membres du CC possèdent le droit de veto sur la dissolution de l'Association, la modification des statuts et toute décision prise en Assemblée Générale (ci-après nommée "AG").
+Pour cela, les décisions et propositions allant être soumises à une Assemblée Générale doivent être d'abord soumises par le Bureau au CC minimum 2 semaines avant cette même AG. Si aucun membre du CC ne pose son veto, les propositions peuvent être soumises à l'AG.
+Une fois proposée en AG, une proposition n’est plus soumise au veto des membres du CC.
+
+Le Comité de Contrôle possède toujours 2 ou 3 membres. Les membres du CC sont tenus dans les registres faisant foi des membres du CC.
+Si le CC se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Émérites.
+
+Le Comité de Contrôle peut décider à l'unanimité de se dissoudre. Auquel cas il revient au Comité de Direction de recruter 2 ou 3 membres parmi les Membres d'Honneur et Membres Émérites.
+
+### Section 3.2 : Comité de Direction
+
+Le Comité de Direction, aussi appelé CoDir, est constitué de la Présidence, de la Vice-Présidences, du Secrétariat et de la Trésorerie de l’Association.
+
+#### Sous-Section 4.3.1 : Présidence
+
+Le président ou la présidente, ci-après dénommé "la présidence" représente l'Association du DeVinci Fablab.
+Elle préside toutes les assemblées et exerce tous les pouvoirs de direction et de gestion de l’Association.
+La présidence décide de l’engagement des actions en justice et représente l’Association en justice, tant en demande qu’en défense. Elle a le pouvoir de décider et d’exercer toute voie de recours ordinaire et extraordinaire et elle peut former tous appels et pouvoir.
+La présidence a le pouvoir de transiger.
+
+La présidence peut procurer à un ou une membre du CoDir ses droits pour une durée finie ou dans un cadre précis.
+Cette procuration doit se faire par écrit ou, pour permettre de présider une Assemblée Générale uniquement, à l'oral au début de celle-ci.
+
+#### Sous-Section 4.3.2 : Vice-Présidence
+
+Le Vice-Président, la Vice-Présidente, les Vice-Présidents ou les Vice-Présidentes, ci-après dénommés "la Vice-Présidence" joue un rôle de soutient à la Présidence.
+La Vice-Présidence exerce une mission de contrôle sur l’administration et la gestion courante de l’Association.
+Elle est chargée du bon fonctionnement du Bureau et de s'assurer de la pérennité des outils et solutions mises en place durant son mandat.
+
+#### Sous-Section 4.3.3 : Trésorerie
+
+Le, la ou les Trésoriers ou Trésorières de l'Association, ci-après dénommés "la Trésorerie", assurent la trésorerie de l'Association.
+La Trésorerie vérifie la tenue de la comptabilité de toute opération de l’Association et rend compte de sa mission au Bureau. Elle assure une mission permanente de contrôle des ressources de l'Association et s'engage sur ses dépenses.
+
+#### Sous-Section 4.3.4 : Secrétariat
+
+Le, la ou les Secrétaire(s) Général de l'Association, ci-après dénommés "le Secrétariat", assurent les tâches juridiques et administratives de l'Association.
+
+Cela comprend essentiellement les correspondances par courrier et par courriel de l’Association, l'établissement les convocations et les comptes-rendus des réunions, ainsi que la tenue les différents registres et les archives. Le Secrétariat est responsable de l’inventaire général et assure ainsi la continuité des activités qui dépendent de celui-ci.
+
+Les actes du Secrétariat font foi jusqu’à preuve du contraire.
+
+### Section 3.3 : Comité de Gestion
+
+#### Sous-Section 4.3.5 : Responsables
+
+Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction à chaque Assemblées Générales.
+
+Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en AG.
+La mission d'un ou d'une Responsable est de mener à bien la gestion du pôle qui lui a été confié.
+
+### Section 3.4 : Comité de Soutien
+
+### Section 3.5 : Bureau
+
+### Sous-section 4.1 : Définition
 
 Le Bureau dirige l’Association. L’Assemblée Générale élit pour une période d’un an le nouveau Bureau. Ce dernier comprend au moins 5 membres dont le/la président(e) ou les possibles co-président(es), le/la vice-président(e) ou les vice-président(e)s, le/la secrétaire général ou les secrétaires généraux, le/la ou les responsable(s) projet, le/la ou les responsable(s) formation, le/la ou les responsable(s) communication.
 
@@ -152,7 +198,7 @@ En cas d’absence prolongée ou démission de la totalité des administrateurs,
 Les postes du Bureau sont très prenants. Chaque membre du Bureau doit être le plus disponible possible et à l’écoute de tous les membres.
 Le responsable d’un pôle est un leader permettant l’épanouissement de son équipe au sein du Fablab.
 
-### Section 3.2 : Pouvoirs du Bureau
+### Sous-section 4.2 : Pouvoirs du Bureau
 
 Le Bureau administre l’Association conformément aux objectifs définis et à son objet.
 
@@ -166,47 +212,9 @@ Parmi les pouvoirs du Bureau figurent notamment :
 
 En outre, le Bureau est chargé de porter à la connaissance de la préfecture, dans les délais réglementaires, tout changement survenu dans l’administration ou la direction de l’Association et de présenter les registres et pièces de comptabilité sur réquisition des autorités compétentes.
 
-### Section 3.3 : Compostion
+Le Bureau désigne les comités de direction et de gestion de l'Association.
 
-Le Comité de Direction, aussi appelé CoDir, est constitué de la Présidence, de la Vice-Présidences, du Secrétariat et de la Trésorerie de l’Association.
-
-#### Sous-Section 3.3.1 : Présidence
-
-Le président ou la présidente, ci-après dénommé "la présidence" représente l'Association du DeVinci Fablab.
-Elle préside toutes les assemblées et exerce tous les pouvoirs de direction et de gestion de l’Association.
-La présidence décide de l’engagement des actions en justice et représente l’Association en justice, tant en demande qu’en défense. Elle a le pouvoir de décider et d’exercer toute voie de recours ordinaire et extraordinaire et elle peut former tous appels et pouvoir.
-La présidence a le pouvoir de transiger.
-
-La présidence peut procurer à un ou une membre du CoDir ses droits pour une durée finie ou dans un cadre précis.
-Cette procuration doit se faire par écrit ou, pour permettre de présider une Assemblée Générale uniquement, à l'oral au début de celle-ci.
-
-#### Sous-Section 3.3.2 : Vice-Présidence
-
-Le Vice-Président, la Vice-Présidente, les Vice-Présidents ou les Vice-Présidentes, ci-après dénommés "la Vice-Présidence" joue un rôle de soutient à la Présidence.
-La Vice-Présidence exerce une mission de contrôle sur l’administration et la gestion courante de l’Association.
-Elle est chargée du bon fonctionnement du Bureau et de s'assurer de la pérennité des outils et solutions mises en place durant son mandat.
-
-#### Sous-Section 3.3.3 : Trésorerie
-
-Le, la ou les Trésoriers ou Trésorières de l'Association, ci-après dénommés "la Trésorerie", assurent la trésorerie de l'Association.
-La Trésorerie vérifie la tenue de la comptabilité de toute opération de l’Association et rend compte de sa mission au Bureau. Elle assure une mission permanente de contrôle des ressources de l'Association et s'engage sur ses dépenses.
-
-#### Sous-Section 3.3.4 : Secrétariat
-
-Le, la ou les Secrétaire(s) Général de l'Association, ci-après dénommés "le Secrétariat", assurent les tâches juridiques et administratives de l'Association.
-
-Cela comprend essentiellement les correspondances par courrier et par courriel de l’Association, l'établissement les convocations et les comptes-rendus des réunions, ainsi que la tenue les différents registres et les archives. Le Secrétariat est responsable de l’inventaire général et assure ainsi la continuité des activités qui dépendent de celui-ci.
-
-Les actes du Secrétariat font foi jusqu’à preuve du contraire.
-
-#### Sous-Section 3.3.5 : Responsables
-
-Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction à chaque Assemblées Générales.
-
-Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en AG.
-La mission d'un ou d'une Responsable est de mener à bien la gestion du pôle qui lui a été confié.
-
-## Article 4 : Assemblée Générale
+## Article 5 : Assemblée Générale
 
 L’Assemblée Générale (ou AG) convoque tous les Membres Annuels à jour de leur cotisation.
 Ils sont convoqués par au moins deux de ces moyens de communication :
@@ -231,7 +239,7 @@ Une Assemblée Générale est compétente de :
 - l'élection entière ou partielle du Bureau,
 - l'attribution du statut de Membre d'Honneur ou Membre Émérites.
 
-### Section 4.1 : Assemblée Générale Ordinaire
+### Section 5.1 : Assemblée Générale Ordinaire
 
 L'Assemblé Générale Ordinaire doit se réunir une fois par an pour le renouvellement des mandats du Bureau, c'est à dire l'élection nécessairement entière d'un Bureau.
 
@@ -239,7 +247,7 @@ Le Comité de Direction ouvre l'AG Ordinaire en exposant la situation morale de 
 
 L'Assemblée procède ensuite à l'élection du Bureau, présidée par la Présidence sortante.
 
-### Section 4.2 : Assemblée Générale Extraordinaire
+### Section 5.2 : Assemblée Générale Extraordinaire
 
 L'Assemblée Générale Extraordinaire est une AG convoquées par le Comité de Direction selon les modalités ordinaires.
 
