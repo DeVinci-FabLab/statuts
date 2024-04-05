@@ -114,7 +114,7 @@ La qualité de membre peut être perdue suite :
 - à une atteinte négative à l’Association ou son image,
 - à tout autre motif grave (ie. le non respect de la charte de l’Association LDV ou le non respect du Règlement Intérieur).
 
-Le Règlement Intérieur est établit par le Bureau qui le soumet pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
+Le Règlement Intérieur est établit par le Bureau qui le soumet pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du Comité de Contrôle pour toutes modifications.
 Le Règlement Intérieur s’impose à tous les membres de qualité de Membre Annuel de l’Association.
 
 La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
@@ -129,16 +129,13 @@ Un membre se voyant attribué le statut de Persona Non Grata est immédiatement 
 
 ### Section 3.1 : Comité de Contrôle
 
-Le Comité de Contrôle (ci-après nommé "CC") est un groupe de 2 ou 3 Membres d'Honneur assurant une tâche de contrôle sur les changements opérés dans l'Association.
+Le Comité de Contrôle a pour mission de surveiller et d'approuver les modifications apportées à la structure et au fonctionnement de l'Association. Ce comité est composé de 3 à 5 membres et est officiellement enregistré dans les registres de l'Association. En cas de réduction de ses effectifs sous le seuil de 3 membres, celui-ci est tenu de procéder au recrutement de nouveaux membres parmi les Membres d'Honneur et les Membres Émérites pour retrouver le nombre de membres requis.
 
-Les membres du CC possèdent le droit de veto sur la dissolution de l'Association, la modification des statuts et toute décision prise en Assemblée Générale (ci-après nommée "AG").
-Pour cela, les décisions et propositions allant être soumises à une Assemblée Générale doivent être d'abord soumises par le Bureau au CC minimum 2 semaines avant cette même AG. Si aucun membre du CC ne pose son veto, les propositions peuvent être soumises à l'AG.
-Une fois proposée en AG, une proposition n’est plus soumise au veto des membres du CC.
+Le Comité de Contrôle a le pouvoir unanime de décider de sa dissolution. En cas de dissolution, il revient au Comité de Direction d'entreprendre le recrutement de 3 à 5 nouveaux membres parmi les Membres d'Honneur et les Membres Émérites.
 
-Le Comité de Contrôle possède toujours 2 ou 3 membres. Les membres du CC sont tenus dans les registres faisant foi des membres du CC.
-Si le CC se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Émérites.
+Les membres du Comité de Contrôle possèdent le droit de veto sur les décisions relatives à la dissolution de l'Association, à la modification de ses statuts et à toute résolution soumise lors des Assemblées Générales. Ainsi, toute proposition devant être soumise à une Assemblée Générale doit être préalablement présentée au Comité de Contrôle par le Bureau, au moins 2 semaines avant ladite Assemblée Générale. En l'absence de veto de la part des membres du Comité de Contrôle, les propositions peuvent être soumises à l'Assemblée Générale. Une fois présentée en Assemblée Générale, une proposition échappe au pouvoir de veto du Comité de Contrôle.
 
-Le Comité de Contrôle peut décider à l'unanimité de se dissoudre. Auquel cas il revient au Comité de Direction de recruter 2 ou 3 membres parmi les Membres d'Honneur et Membres Émérites.
+Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, avec la possibilité d'effectuer deux mandats consécutifs. Ce délai assure une rotation régulière des membres et garantit une stabilité dans la supervision des activités de l'Association.
 
 ### Section 3.2 : Comité de Direction
 
@@ -179,7 +176,7 @@ Les actes du Secrétariat font foi jusqu’à preuve du contraire.
 
 Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction à chaque Assemblées Générales.
 
-Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en AG.
+Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en Assemblée Générale.
 La mission d'un ou d'une Responsable est de mener à bien la gestion du pôle qui lui a été confié.
 
 ### Section 3.4 : Comité de Soutien
@@ -232,7 +229,7 @@ Ils sont convoqués par au moins deux de ces moyens de communication :
 - bulletin d’information.
 
 Le délai de convocation à l’Assemblée Générale Ordinaire est fixé à une semaine avant celle-ci.
-La convocation doit informer du lieu et de la date de l'AG ainsi que de son ordre du jour, définit préalablement par le CoDir.
+La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le CoDir.
 Le quorum de présence est défini par le Règlement Intérieur.
 
 Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents ou représentés.
@@ -249,13 +246,13 @@ Une Assemblée Générale est compétente de :
 
 L'Assemblé Générale Ordinaire doit se réunir une fois par an pour le renouvellement des mandats du Bureau, c'est à dire l'élection nécessairement entière d'un Bureau.
 
-Le Comité de Direction ouvre l'AG Ordinaire en exposant la situation morale de l’Association ainsi qu'un bilan fiancier et humain.
+Le Comité de Direction ouvre l'Assemblée Générale Ordinaire en exposant la situation morale de l’Association ainsi qu'un bilan fiancier et humain.
 
 L'Assemblée procède ensuite à l'élection du Bureau, présidée par la Présidence sortante.
 
 ### Section 5.2 : Assemblée Générale Extraordinaire
 
-L'Assemblée Générale Extraordinaire est une AG convoquées par le Comité de Direction selon les modalités ordinaires.
+L'Assemblée Générale Extraordinaire est une Assemblée Générale convoquées par le Comité de Direction selon les modalités ordinaires.
 
 L'Assemblée Générale Extraordinaire est seule compétente de :
 
@@ -267,7 +264,7 @@ L'Assemblée Générale Extraordinaire est seule compétente de :
 La dissolution ou fusion de l’Association est votée à la majorité qualifiée de deux tiers et à l'unanimité des membres du Comité de Contrôle.
 
 Une Assemblée Générale Extraordinaire proposant la modification des statuts ne peut aussi proposer l'élection entière ou partielle du Bureau.
-En cas de changement des statuts, ils sont signés par la Présidence, un membre du CoDir et un membre du CC.
+En cas de changement des statuts, ils sont signés par la Présidence, un membre du CoDir et un membre du Comité de Contrôle.
 
 ---
 
