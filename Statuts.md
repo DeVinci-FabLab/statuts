@@ -42,9 +42,9 @@ Pour cela, les décisions et propositions allant être soumises à une Assemblé
 Une fois proposée en AG, une proposition n’est plus soumise au veto des membres du CC.
 
 Le Comité de Contrôle possède toujours 2 ou 3 membres. Les membres du CC sont tenus dans les registres faisant foi des membres du CC.
-Si le CC se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Alumnis.
+Si le CC se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Émérites.
 
-Le Comité de Contrôle peut décider à l'unanimité de se dissoudre. Auquel cas il revient au Comité de Direction de recruter 2 ou 3 membres parmi les Membres d'Honneur et Membres Alumnis.
+Le Comité de Contrôle peut décider à l'unanimité de se dissoudre. Auquel cas il revient au Comité de Direction de recruter 2 ou 3 membres parmi les Membres d'Honneur et Membres Émérites.
 
 ### Section 1.7 : Ressources
 
@@ -63,7 +63,7 @@ L’Association comprend les qualités de membres suivantes:
 
 - Membres fondateurs ;
 - Membres d’Honneur ;
-- Membres Alumnis ;
+- Membres Émérites ;
 - Membres annuels ;
 - Persona Non Grata.
 
@@ -72,7 +72,7 @@ L’Association comprend les qualités de membres suivantes:
 Les membres fondateurs sont les personnes ayant constitué l’Association en 2015, à savoir : Angéline BESLAND (Présidente), Gaël NAIME (Trésorier) et Dany NARCISSE (Secrétaire Général).
 
 Leurs noms figurent ci-dessus sur ce statut et doivent figurer, dans l’éventualité que cela se produise, sur tous les prochains statuts de l’Association sous le même format.
-Les droits des membres fondateurs incluent tous les droits des Membres d’Honneur et d’Alumni au minima.
+Les droits des membres fondateurs incluent tous les droits des Membres d’Honneur et des Membres Émérites au minima.
 Les membres fondateurs sont des membres à vie de l’Association.
 
 ### Section 2.2 : Membres d'honneur
@@ -81,17 +81,17 @@ La qualité de Membre d’Honneur est décernée par l’Assemblée Générale. 
 Le nombre d'attributions au statut de Membre d’Honneur de l’Association est limité à 3 étudiants par année scolaire.
 Les Membres d’Honneur sont des membres à vie de l’Association.
 
-### Section 2.3 : Membres Alumnis
+### Section 2.3 : Membres Émérites
 
-La qualité de Membre-Alumni est décernée en Assemblée Générale, sans vote et sur proposition du Bureau.
+La qualité de Membre Émérite est décernée en Assemblée Générale, sans vote et sur proposition du Bureau.
 
 Elle est décernée aux personnes physiques qui ont rendu des services éminents à l’association.
 
 Cette qualité ne peut être attribué qu'à un Membre Annuel ayant validé au moins une année scolaire dans l'une des trois écoles du Pôle Léonard de Vinci (EMLV, ESILV et IIM).
 
-Les Membres-Alumni sont Membres à Vie de l’association et ne prennent pleinement leur statut qu'à partir du moment où ils ne sont plus Membre Annuel.
+Les Membres Émérites sont Membres à Vie de l’association et ne prennent pleinement leur statut qu'à partir du moment où ils ne sont plus Membre Annuel.
 
-Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire (de septembre à mai).
+Le nombre d’attribution au statut de Membres Émérites est limité à 10 étudiants par année scolaire (de septembre à mai).
 
 ### Section 2.4 : Membres Annuels
 
@@ -229,7 +229,7 @@ Les procès-verbaux des délibérations de l'Assemblée Générale sont tenus pa
 Une Assemblée Générale est compétente de :
 
 - l'élection entière ou partielle du Bureau,
-- l'attribution du statut de Membre d'Honneur ou Membre Alumni.
+- l'attribution du statut de Membre d'Honneur ou Membre Émérites.
 
 ### Section 4.1 : Assemblée Générale Ordinaire
 
