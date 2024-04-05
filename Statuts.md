@@ -125,13 +125,13 @@ Un membre se voyant attribué le statut de Persona Non Grata est immédiatement 
 
 ### Section 3.1 : Comité de Contrôle
 
-Le Comité de Contrôle a pour mission de surveiller et d'approuver les modifications apportées à la structure et au fonctionnement de l'Association. Ce comité est composé de 2 ou 3 membres et est officiellement enregistré dans les registres de l'Association. En cas de réduction de ses effectifs à un seul membre, celui-ci est tenu de procéder au recrutement de un ou deux nouveaux membres parmi les Membres d'Honneur et les Membres Alumnis.
+Le Comité de Contrôle a pour mission de surveiller et d'approuver les modifications apportées à la structure et au fonctionnement de l'Association. Ce comité est composé de 2 ou 3 membres et est officiellement enregistré dans les registres de l'Association. En cas de réduction de ses effectifs à un seul membre, celui-ci est tenu de procéder au recrutement d'un ou deux nouveaux membres parmi les Membres d'Honneur et les Membres Alumnis.
 
 Le Comité de Contrôle a le pouvoir unanime de décider de sa dissolution. En cas de dissolution, il revient au Comité de Direction d'entreprendre le recrutement de 2 ou 3 nouveaux membres parmi les Membres d'Honneur et les Membres Alumnis.
 
 Les membres du Comité de Contrôle possèdent le droit de veto sur les décisions relatives à la dissolution de l'Association, à la modification de ses statuts et à toute résolution soumise lors des Assemblées Générales. Ainsi, toute proposition devant être soumise à une Assemblée Générale doit être préalablement présentée au Comité de Contrôle par le Bureau, au moins 2 semaines avant ladite Assemblée Générale. En l'absence de veto de la part des membres du Comité de Contrôle, les propositions peuvent être soumises à l'Assemblée Générale. Une fois présentée en Assemblée Générale, une proposition échappe au pouvoir de veto du Comité de Contrôle.
 
-Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, conformément aux dispositions statutaires. Ce délai assure une rotation régulière des membres et garantit une stabilité dans la supervision des activités de l'Association.
+Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, avec la possibilité d'effectuer deux mandats consécutifs. Ce délai assure une rotation régulière des membres et garantit une stabilité dans la supervision des activités de l'Association.
 
 ### Section 3.2 : Comité de Direction
 
