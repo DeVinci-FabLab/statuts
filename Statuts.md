@@ -180,9 +180,11 @@ La mission d'un ou d'une Responsable est de mener à bien la gestion du pôle qu
 
 ### Section 3.4 : Comité de Soutien
 
-Le Comité de Soutien, constitué des membres de l'Association, qu'ils soient ou non membres du Bureau, vise à apporter un soutien à la gestion de l'Association. Cette structure complémentaire au Bureau est chargée de soutenir ses activités et de répondre à des besoins spécifiques. Les membres du Comité de Soutien peuvent être sollicités par le Bureau pour des missions ponctuelles ou régulières.
+Le Comité de Soutien, constitué de membres de l'Association, qu'ils soient ou non membres du Bureau, vise à apporter un soutien à la gestion de l'Association. Cette structure complémentaire au Bureau est chargée de soutenir ses activités et de répondre à des besoins spécifiques. Les membres du Comité de Soutien peuvent être sollicités par le Bureau pour des missions ponctuelles ou régulières.
 
-Il est à noter que les membres du Comité de Soutien n'ont pas de pouvoir de décision formel au sein de l'Association par rapport au Bureau.
+Les membres du Comité de Soutien sont désignés initialement par le Bureau lors d'une Assemblée Générale, sans nécessiter de vote. Par la suite, tout changement de membre au sein du Comité de Soutien n'exige pas de validation lors d'une Assemblée Générale.
+
+Les membres du Comité de Soutien n'ont pas de pouvoir de décision formel au sein de l'Association par rapport au Bureau.
 
 Les rôles spécifiques au sein du Comité de Soutien ne sont pas énumérés dans les statuts, étant susceptibles d'évoluer d'une année à l'autre.
 
