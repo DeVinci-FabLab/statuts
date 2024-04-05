@@ -110,7 +110,7 @@ La qualité de membre peut être perdue suite :
 - à une atteinte négative à l’Association ou son image,
 - à tout autre motif grave (ie. le non respect de la charte de l’Association LDV ou le non respect du Règlement Intérieur).
 
-Le Règlement Intérieur est établit par le Bureau qui le soumet pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
+Le Règlement Intérieur est établit par le Bureau qui le soumet pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du Comité de Contrôle pour toutes modifications.
 Le Règlement Intérieur s’impose à tous les membres de qualité de Membre Annuel de l’Association.
 
 La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
@@ -125,14 +125,14 @@ Un membre se voyant attribué le statut de Persona Non Grata est immédiatement 
 
 ### Section 3.1 : Comité de Contrôle
 
-Le Comité de Contrôle (ci-après nommé "CC") est un groupe de 2 ou 3 Membres d'Honneur assurant une tâche de contrôle sur les changements opérés dans l'Association.
+Le Comité de Contrôle est un groupe de 2 ou 3 Membres d'Honneur assurant une tâche de contrôle sur les changements opérés dans l'Association.
 
-Les membres du CC possèdent le droit de veto sur la dissolution de l'Association, la modification des statuts et toute décision prise en Assemblée Générale (ci-après nommée "AG").
-Pour cela, les décisions et propositions allant être soumises à une Assemblée Générale doivent être d'abord soumises par le Bureau au CC minimum 2 semaines avant cette même AG. Si aucun membre du CC ne pose son veto, les propositions peuvent être soumises à l'AG.
-Une fois proposée en AG, une proposition n’est plus soumise au veto des membres du CC.
+Les membres du Comité de Contrôle possèdent le droit de veto sur la dissolution de l'Association, la modification des statuts et toute décision prise en Assemblée Générale (ci-après nommée "AG").
+Pour cela, les décisions et propositions allant être soumises à une Assemblée Générale doivent être d'abord soumises par le Bureau au Comité de Contrôle minimum 2 semaines avant cette même AG. Si aucun membre du Comité de Contrôle ne pose son veto, les propositions peuvent être soumises à l'AG.
+Une fois proposée en AG, une proposition n’est plus soumise au veto des membres du Comité de Contrôle.
 
-Le Comité de Contrôle possède toujours 2 ou 3 membres. Les membres du CC sont tenus dans les registres faisant foi des membres du CC.
-Si le CC se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Alumnis.
+Le Comité de Contrôle possède toujours 2 ou 3 membres. Les membres du Comité de Contrôle sont tenus dans les registres faisant foi des membres du Comité de Contrôle.
+Si le Comité de Contrôle se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Alumnis.
 
 Le Comité de Contrôle peut décider à l'unanimité de se dissoudre. Auquel cas il revient au Comité de Direction de recruter 2 ou 3 membres parmi les Membres d'Honneur et Membres Alumnis.
 
@@ -255,7 +255,7 @@ L'Assemblée Générale Extraordinaire est seule compétente de :
 La dissolution ou fusion de l’Association est votée à la majorité qualifiée de deux tiers et à l'unanimité des membres du Comité de Contrôle.
 
 Une Assemblée Générale Extraordinaire proposant la modification des statuts ne peut aussi proposer l'élection entière ou partielle du Bureau.
-En cas de changement des statuts, ils sont signés par la Présidence, un membre du CoDir et un membre du CC.
+En cas de changement des statuts, ils sont signés par la Présidence, un membre du CoDir et un membre du Comité de Contrôle.
 
 ---
 
