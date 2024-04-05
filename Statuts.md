@@ -138,38 +138,6 @@ Le Comité de Contrôle peut décider à l'unanimité de se dissoudre. Auquel ca
 
 ### Section 3.2 : Comité de Direction
 
-### Section 3.3 : Comité de Gestion
-
-### Section 3.4 : Comité de Soutien
-
-## Article 4 : Bureau
-
-### Section 4.1 : Définition
-
-Le Bureau dirige l’Association. L’Assemblée Générale élit pour une période d’un an le nouveau Bureau. Ce dernier comprend au moins 5 membres dont le/la président(e) ou les possibles co-président(es), le/la vice-président(e) ou les vice-président(e)s, le/la secrétaire général ou les secrétaires généraux, le/la ou les responsable(s) projet, le/la ou les responsable(s) formation, le/la ou les responsable(s) communication.
-
-En cas d’absence prolongée ou de démission, le Bureau pourvoit au remplacement de ses membres vacants par cooptation. Les nominations par cooptation doivent être ratifiées par la prochaine Assemblée Générale afin de devenir définitives. Tout administrateur ainsi nommé voit son mandat s’achever à l’échéance du mandat de l’administrateur qu’il remplace.
-En cas d’absence prolongée ou démission de la totalité des administrateurs, une Assemblée Générale est convoquée avec pour seul ordre du jour, soit l’élection du nouveau Bureau soit la dissolution de l’Association.
-
-Les postes du Bureau sont très prenants. Chaque membre du Bureau doit être le plus disponible possible et à l’écoute de tous les membres.
-Le responsable d’un pôle est un leader permettant l’épanouissement de son équipe au sein du Fablab.
-
-### Section 4.2 : Pouvoirs du Bureau
-
-Le Bureau administre l’Association conformément aux objectifs définis et à son objet.
-
-Parmi les pouvoirs du Bureau figurent notamment :
-
-- la convocation des Assemblées Générales et la fixation de l’ordre du jour,
-- l’agrément ou la radiation des membres de l’Association,
-- la détermination de la stratégie en matière d’investissement matériel et immatériel,
-- la fixation du montant de la cotisation annuelle pour les membres actifs et du droit d’entrée pour les membres bienfaiteurs,
-- la proposition de dissolution de l’Association.
-
-En outre, le Bureau est chargé de porter à la connaissance de la préfecture, dans les délais réglementaires, tout changement survenu dans l’administration ou la direction de l’Association et de présenter les registres et pièces de comptabilité sur réquisition des autorités compétentes.
-
-### Section 4.3 : Compostion
-
 Le Comité de Direction, aussi appelé CoDir, est constitué de la Présidence, de la Vice-Présidences, du Secrétariat et de la Trésorerie de l’Association.
 
 #### Sous-Section 4.3.1 : Présidence
@@ -201,12 +169,44 @@ Cela comprend essentiellement les correspondances par courrier et par courriel d
 
 Les actes du Secrétariat font foi jusqu’à preuve du contraire.
 
+### Section 3.3 : Comité de Gestion
+
 #### Sous-Section 4.3.5 : Responsables
 
 Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction à chaque Assemblées Générales.
 
 Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en AG.
 La mission d'un ou d'une Responsable est de mener à bien la gestion du pôle qui lui a été confié.
+
+### Section 3.4 : Comité de Soutien
+
+### Section 3.5 : Bureau
+
+### Sous-section 4.1 : Définition
+
+Le Bureau dirige l’Association. L’Assemblée Générale élit pour une période d’un an le nouveau Bureau. Ce dernier comprend au moins 5 membres dont le/la président(e) ou les possibles co-président(es), le/la vice-président(e) ou les vice-président(e)s, le/la secrétaire général ou les secrétaires généraux, le/la ou les responsable(s) projet, le/la ou les responsable(s) formation, le/la ou les responsable(s) communication.
+
+En cas d’absence prolongée ou de démission, le Bureau pourvoit au remplacement de ses membres vacants par cooptation. Les nominations par cooptation doivent être ratifiées par la prochaine Assemblée Générale afin de devenir définitives. Tout administrateur ainsi nommé voit son mandat s’achever à l’échéance du mandat de l’administrateur qu’il remplace.
+En cas d’absence prolongée ou démission de la totalité des administrateurs, une Assemblée Générale est convoquée avec pour seul ordre du jour, soit l’élection du nouveau Bureau soit la dissolution de l’Association.
+
+Les postes du Bureau sont très prenants. Chaque membre du Bureau doit être le plus disponible possible et à l’écoute de tous les membres.
+Le responsable d’un pôle est un leader permettant l’épanouissement de son équipe au sein du Fablab.
+
+### Sous-section 4.2 : Pouvoirs du Bureau
+
+Le Bureau administre l’Association conformément aux objectifs définis et à son objet.
+
+Parmi les pouvoirs du Bureau figurent notamment :
+
+- la convocation des Assemblées Générales et la fixation de l’ordre du jour,
+- l’agrément ou la radiation des membres de l’Association,
+- la détermination de la stratégie en matière d’investissement matériel et immatériel,
+- la fixation du montant de la cotisation annuelle pour les membres actifs et du droit d’entrée pour les membres bienfaiteurs,
+- la proposition de dissolution de l’Association.
+
+En outre, le Bureau est chargé de porter à la connaissance de la préfecture, dans les délais réglementaires, tout changement survenu dans l’administration ou la direction de l’Association et de présenter les registres et pièces de comptabilité sur réquisition des autorités compétentes.
+
+Le Bureau désigne les comités de direction et de gestion de l'Association.
 
 ## Article 5 : Assemblée Générale
 
