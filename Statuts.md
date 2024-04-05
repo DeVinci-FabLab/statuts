@@ -78,8 +78,6 @@ Cette qualité ne peut être attribué qu'à un Membre Annuel ayant validé au m
 
 Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cummulable avec le statut de membre annuel et de Membre d'Honneur.
 
-Le nombre d’attribution au statut de Membres Émérites est limité à 10 étudiants par année scolaire (de septembre à mai).
-
 ### Section 2.4 : Membres Annuels
 
 #### Sous-Section 2.4.1 : Définition
