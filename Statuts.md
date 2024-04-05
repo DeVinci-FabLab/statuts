@@ -89,7 +89,7 @@ Elle est décernée aux personnes physiques qui ont rendu des services éminents
 
 Cette qualité ne peut être attribué qu'à un Membre Annuel ayant validé au moins une année scolaire dans l'une des trois écoles du Pôle Léonard de Vinci (EMLV, ESILV et IIM).
 
-Les Membres Émérites sont Membres à Vie de l’association et ne prennent pleinement leur statut qu'à partir du moment où ils ne sont plus Membre Annuel.
+Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cummulable avec le statut de membre annuel et de Membre d'Honneur.
 
 Le nombre d’attribution au statut de Membres Émérites est limité à 10 étudiants par année scolaire (de septembre à mai).
 
