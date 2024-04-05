@@ -89,7 +89,7 @@ Elle est décernée aux personnes physiques qui ont rendu des services éminents
 
 Cette qualité ne peut être attribué qu'à un Membre Annuel ayant validé au moins une année scolaire dans l'une des trois écoles du Pôle Léonard de Vinci (EMLV, ESILV et IIM).
 
-Les Membres-Alumni sont Membres à Vie de l’association et sont exemptés de la cotisation annuelle à partir du moment où ils ne sont plus étudiant dans une des écoles du Pôle Léonard de Vinci.
+Les Membres-Alumni sont Membres à Vie de l’association et ne prennent pleinement leur statut qu'à partir du moment où ils ne sont plus Membre Annuel.
 
 Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire (de septembre à mai).
 
