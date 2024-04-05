@@ -131,6 +131,8 @@ Le Comité de Contrôle a le pouvoir unanime de décider de sa dissolution. En c
 
 Les membres du Comité de Contrôle possèdent le droit de veto sur les décisions relatives à la dissolution de l'Association, à la modification de ses statuts et à toute résolution soumise lors des Assemblées Générales. Ainsi, toute proposition devant être soumise à une Assemblée Générale doit être préalablement présentée au Comité de Contrôle par le Bureau, au moins 2 semaines avant ladite Assemblée Générale. En l'absence de veto de la part des membres du Comité de Contrôle, les propositions peuvent être soumises à l'Assemblée Générale. Une fois présentée en Assemblée Générale, une proposition échappe au pouvoir de veto du Comité de Contrôle.
 
+Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, conformément aux dispositions statutaires. Ce délai assure une rotation régulière des membres et garantit une stabilité dans la supervision des activités de l'Association.
+
 ### Section 3.2 : Comité de Direction
 
 Le Comité de Direction, aussi appelé CoDir, est constitué de la Présidence, de la Vice-Présidences, du Secrétariat et de la Trésorerie de l’Association.
