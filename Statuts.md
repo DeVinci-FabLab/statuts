@@ -138,7 +138,7 @@ La qualité de membre peut être perdue suite :
 - au non-respect du Règlement Intérieur de l'Association ;
 - à une atteinte négative à l’Association ou à son image ;
 - au décès physique de la personne ;
-- à tout autre motif grave (ie. le non respect de la charte de l’Association LDV).
+- à tout autre motif grave.
 
 La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
 
