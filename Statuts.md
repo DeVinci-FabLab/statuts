@@ -153,7 +153,7 @@ Le Comité de Direction, aussi appelé CoDir, est constitué de la Présidence, 
 
 #### Sous-Section 4.3.1 : Présidence
 
-Le président ou la présidente, ci-après dénommé "la présidence" représente l'Association du DeVinci Fablab.
+Le président représente l'Association du DeVinci Fablab.
 Elle préside toutes les assemblées et exerce tous les pouvoirs de direction et de gestion de l’Association.
 La présidence décide de l’engagement des actions en justice et représente l’Association en justice, tant en demande qu’en défense. Elle a le pouvoir de décider et d’exercer toute voie de recours ordinaire et extraordinaire et elle peut former tous appels et pouvoir.
 La présidence a le pouvoir de transiger.
@@ -176,9 +176,7 @@ La Trésorerie vérifie la tenue de la comptabilité de toute opération de l’
 
 Le, la ou les Secrétaire(s) Général de l'Association, ci-après dénommés "le Secrétariat", assurent les tâches juridiques et administratives de l'Association.
 
-Cela comprend essentiellement les correspondances par courrier et par courriel de l’Association, l'établissement les convocations et les comptes-rendus des réunions, ainsi que la tenue les différents registres et les archives. Le Secrétariat est responsable de l’inventaire général et assure ainsi la continuité des activités qui dépendent de celui-ci.
-
-Les actes du Secrétariat font foi jusqu’à preuve du contraire.
+Cela comprend essentiellement les correspondances par courrier et par courriel de l’Association. Mais aussi l'établissement des convocations et des comptes-rendus de réunions. Ainsi que la tenue des différents registres et archives.
 
 ### Section 3.3 : Comité de Gestion
 
