@@ -40,10 +40,10 @@ Si un membre fondateur s’oppose, l’Association n’est pas dissolue.
 
 Les ressources de l’Association comprennent :
 
-- le montant des cotisations annuelles,
-- les subventions de l’état et des collectivités territoriales des établissements publics, des entreprises et de toute autre organisation publique ou privée,
-- des participations, dons et legs recueillis en conformité avec la réglementation en vigueur,
-- des produits et ressources exceptionnels,
+- le montant des cotisations annuelles ;
+- les subventions de l’état et des collectivités territoriales des établissements publics, des entreprises et de toute autre organisation publique ou privée ;
+- des participations, dons et legs recueillis en conformité avec la réglementation en vigueur ;
+- des produits et ressources exceptionnels ;
 - des produits des rétributions perçues pour les services et les prestations rendues dans l’accomplissement de ses buts,
 - de toutes autres ressources autorisées par la loi.
 
