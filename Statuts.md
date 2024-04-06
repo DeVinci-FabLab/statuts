@@ -81,7 +81,8 @@ La qualité de Membre d'Honneur est décernée en Assemblée Générale. Le stat
 
 Les conditions s'appliquant à l'attribution du statut de Membre Alumni s'appliquent aussi à l'attribution du statut de Membre d'Honneur.
 
-L'attribution du statut de Membre d'Honneur se fait en plusieurs temps : 
+L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
+
 - le Bureau propose des Membres Annuels auquels attribuer le statut et le soumet aux Membres d'Honneur.
 - Les Membres d'Honneur votent à la majorité relative la proposition de chaque nouveau Membre d'Honneur, avec un minimum de 3 votants. Un vote négatif suffit à répudier la proposition dudit nouveau Membre d'Honneur.
 - Les propositions ainsi validées sont ensuite votées en Assemblée Générale où la majorité relative décide de l'attribution du statut.
