@@ -219,15 +219,13 @@ Le Bureau administre l’Association conformément à son objet.
 
 Parmi les pouvoirs du Bureau figurent notamment :
 
-- la convocation des Assemblées Générales et la fixation de l’ordre du jour,
-- l’agrément ou la radiation des membres de l’Association,
-- la détermination de la stratégie en matière d’investissement matériel et immatériel,
-- la fixation du montant de la cotisation annuelle pour les membres actifs et du droit d’entrée pour les membres bienfaiteurs,
+- la convocation des Assemblées Générales et la fixation de l’ordre du jour ;
+- l’agrément ou la radiation des membres de l’Association ;
+- la détermination de la stratégie en matière d’investissement matériel et immatériel ;
+- la fixation du montant de la cotisation annuelle pour les membres actifs et du droit d’entrée pour les membres bienfaiteurs ;
 - la proposition de dissolution de l’Association.
 
 En outre, le Bureau est chargé de porter à la connaissance de la préfecture, dans les délais réglementaires, tout changement survenu dans l’administration ou la direction de l’Association et de présenter les registres et pièces de comptabilité sur réquisition des autorités compétentes.
-
-Le Bureau désigne les comités de direction et de gestion de l'Association.
 
 ## Article 5 : Assemblée Générale
 
