@@ -265,7 +265,7 @@ Une Assemblée Générale est compétente de :
 
 ### Section 5.1 : Assemblée Générale Ordinaire
 
-L'Assemblé Générale Ordinaire doit se réunir régulièrement avec l'un de ses deux objectifs :
+L'Assemblée Générale Ordinaire doit se réunir régulièrement avec l'un de ses deux objectifs :
 
 - informer les membres ;
 - passation du Bureau, partielle ou complète.
