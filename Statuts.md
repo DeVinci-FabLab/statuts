@@ -63,7 +63,7 @@ L’Association comprend les qualités de membres suivantes:
 
 - Membres fondateurs ;
 - Membres d’Honneur ;
-- Membres Alumnis ;
+- Membres Émérites ;
 - Membres annuels ;
 - Persona Non Grata.
 
@@ -72,7 +72,7 @@ L’Association comprend les qualités de membres suivantes:
 Les membres fondateurs sont les personnes ayant constitué l’Association en 2015, à savoir : Angéline BESLAND (Présidente), Gaël NAIME (Trésorier) et Dany NARCISSE (Secrétaire Général).
 
 Leurs noms figurent ci-dessus sur ce statut et doivent figurer, dans l’éventualité que cela se produise, sur tous les prochains statuts de l’Association sous le même format.
-Les droits des membres fondateurs incluent tous les droits des Membres d’Honneur et d’Alumni au minima.
+Les droits des membres fondateurs incluent tous les droits des Membres d’Honneur et des Membres Émérites au minima.
 Les membres fondateurs sont des membres à vie de l’Association.
 
 ### Section 2.2 : Membres d'honneur
@@ -81,11 +81,15 @@ La qualité de Membre d’Honneur est décernée par l’Assemblée Générale. 
 Le nombre d'attributions au statut de Membre d’Honneur de l’Association est limité à 3 étudiants par année scolaire.
 Les Membres d’Honneur sont des membres à vie de l’Association.
 
-### Section 2.3 : Membres alumnis
+### Section 2.3 : Membres Émérites
 
-La qualité de Membres Alumni est décernée par l’Assemblée Générale sur proposition du Bureau, aux personnes physiques ayant rendu des services éminents à l’Association. Les membres deviennent pleinement Membres Alumni à la fin de leur études, c’est à dire une fois la dernière année universitaire d’un cursus de l’ESILV, l’EMLV et l’IIM est terminé ou s’il part à l’étranger à partir de la 5e année. Un étudiant ayant quitté l’ESILV, l’EMLV ou l’IIM, et ayant validé au moins une année scolaire dans l’une de ces 3 écoles peut devenir Membre Alumni. Mais un membre étudiant d’une des 3 écoles (ESILV, EMLV, IIM) n’ayant jamais validé d’année scolaire ne peut pas être Membre Alumni.
-De plus, l’étudiant doit faire partie de l’Association pour une durée minimum de 2 ans scolaires (de septembre à mai) pour devenir alumni. Le nombre d’attribution au statut de Membre Alumni est limité à 10 étudiants par année scolaire.
-Les Membres Alumni sont donc des membres à vie de l’Association.
+La qualité de Membre Émérite est décernée en Assemblée Générale, sans vote et sur proposition du Bureau.
+
+Elle est décernée aux personnes physiques qui ont rendu des services éminents à l’association.
+
+Cette qualité ne peut être attribué qu'à un Membre Annuel faisant partie de l'association depuis plus d'un an révolu.
+
+Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cummulable avec le statut de membre annuel et de Membre d'Honneur.
 
 ### Section 2.4 : Membres Annuels
 
@@ -135,16 +139,13 @@ Un membre se voyant attribué le statut de Persona Non Grata est immédiatement 
 
 ### Section 3.1 : Comité de Contrôle
 
-Le Comité de Contrôle (ci-après nommé "CC") est un groupe de 2 ou 3 Membres d'Honneur assurant une tâche de contrôle sur les changements opérés dans l'Association.
+Le Comité de Contrôle a pour mission de surveiller et d'approuver les modifications apportées à la structure et au fonctionnement de l'Association. Ce comité est composé de 3 à 5 membres et est officiellement enregistré dans les registres de l'Association. En cas de réduction de ses effectifs sous le seuil de 3 membres, celui-ci est tenu de procéder au recrutement de nouveaux membres parmi les Membres d'Honneur et les Membres Émérites pour retrouver le nombre de membres requis.
 
-Les membres du CC possèdent le droit de veto sur la dissolution de l'Association, la modification des statuts et toute décision prise en Assemblée Générale (ci-après nommée "AG").
-Pour cela, les décisions et propositions allant être soumises à une Assemblée Générale doivent être d'abord soumises par le Bureau au CC minimum 2 semaines avant cette même AG. Si aucun membre du CC ne pose son veto, les propositions peuvent être soumises à l'AG.
-Une fois proposée en AG, une proposition n’est plus soumise au veto des membres du CC.
+Le Comité de Contrôle a le pouvoir unanime de décider de sa dissolution. En cas de dissolution, il revient au Comité de Direction d'entreprendre le recrutement de 3 à 5 nouveaux membres parmi les Membres d'Honneur et les Membres Émérites.
 
-Le Comité de Contrôle possède toujours 2 ou 3 membres. Les membres du CC sont tenus dans les registres faisant foi des membres du CC.
-Si le CC se trouve à 1 membre, il doit recruter 1 ou 2 nouveaux membres parmi les Membres d'Honneur et Membres Alumnis.
+Les membres du Comité de Contrôle possèdent le droit de veto sur les décisions relatives à la dissolution de l'Association, à la modification de ses statuts et à toute résolution soumise lors des Assemblées Générales. Ainsi, toute proposition devant être soumise à une Assemblée Générale doit être préalablement présentée au Comité de Contrôle par le Bureau, au moins 2 semaines avant ladite Assemblée Générale. En l'absence de veto de la part des membres du Comité de Contrôle, les propositions peuvent être soumises à l'Assemblée Générale. Une fois présentée en Assemblée Générale, une proposition échappe au pouvoir de veto du Comité de Contrôle.
 
-Le Comité de Contrôle peut décider à l'unanimité de se dissoudre. Auquel cas il revient au Comité de Direction de recruter 2 ou 3 membres parmi les Membres d'Honneur et Membres Alumnis.
+Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, avec la possibilité d'effectuer deux mandats consécutifs. Ce délai assure une rotation régulière des membres et garantit une stabilité dans la supervision des activités de l'Association.
 
 ### Section 3.2 : Comité de Direction
 
@@ -185,10 +186,18 @@ Les actes du Secrétariat font foi jusqu’à preuve du contraire.
 
 Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction à chaque Assemblées Générales.
 
-Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en AG.
+Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en Assemblée Générale.
 La mission d'un ou d'une Responsable est de mener à bien la gestion du pôle qui lui a été confié.
 
 ### Section 3.4 : Comité de Soutien
+
+Le Comité de Soutien, constitué de membres de l'Association, qu'ils soient ou non membres du Bureau, vise à apporter un soutien à la gestion de l'Association. Cette structure complémentaire au Bureau est chargée de soutenir ses activités et de répondre à des besoins spécifiques. Les membres du Comité de Soutien peuvent être sollicités par le Bureau pour des missions ponctuelles ou régulières.
+
+Les membres du Comité de Soutien sont désignés initialement par le Bureau lors d'une Assemblée Générale, sans nécessiter de vote. Par la suite, tout changement de membre au sein du Comité de Soutien n'exige pas de validation lors d'une Assemblée Générale.
+
+Les membres du Comité de Soutien n'ont pas de pouvoir de décision formel au sein de l'Association par rapport au Bureau.
+
+Les rôles spécifiques au sein du Comité de Soutien ne sont pas énumérés dans les statuts, étant susceptibles d'évoluer d'une année à l'autre.
 
 ### Section 3.5 : Bureau
 
@@ -230,7 +239,7 @@ Ils sont convoqués par au moins deux de ces moyens de communication :
 - bulletin d’information.
 
 Le délai de convocation à l’Assemblée Générale Ordinaire est fixé à une semaine avant celle-ci.
-La convocation doit informer du lieu et de la date de l'AG ainsi que de son ordre du jour, définit préalablement par le CoDir.
+La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le CoDir.
 Le quorum de présence est défini par le Règlement Intérieur.
 
 Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents ou représentés.
@@ -241,20 +250,20 @@ Les procès-verbaux des délibérations de l'Assemblée Générale sont tenus pa
 Une Assemblée Générale est compétente de :
 
 - l'élection entière ou partielle du Bureau,
-- l'attribution du statut de Membre d'Honneur ou Membre Alumni,
+- l'attribution du statut de Membre d'Honneur ou Membre Émérites,
 - la modification du Règlement Intérieur.
 
 ### Section 5.1 : Assemblée Générale Ordinaire
 
 L'Assemblé Générale Ordinaire doit se réunir une fois par an pour le renouvellement des mandats du Bureau, c'est à dire l'élection nécessairement entière d'un Bureau.
 
-Le Comité de Direction ouvre l'AG Ordinaire en exposant la situation morale de l’Association ainsi qu'un bilan fiancier et humain.
+Le Comité de Direction ouvre l'Assemblée Générale Ordinaire en exposant la situation morale de l’Association ainsi qu'un bilan fiancier et humain.
 
 L'Assemblée procède ensuite à l'élection du Bureau, présidée par la Présidence sortante.
 
 ### Section 5.2 : Assemblée Générale Extraordinaire
 
-L'Assemblée Générale Extraordinaire est une AG convoquées par le Comité de Direction selon les modalités ordinaires.
+L'Assemblée Générale Extraordinaire est une Assemblée Générale convoquées par le Comité de Direction selon les modalités ordinaires.
 
 L'Assemblée Générale Extraordinaire est seule compétente de :
 
@@ -266,7 +275,7 @@ L'Assemblée Générale Extraordinaire est seule compétente de :
 La dissolution ou fusion de l’Association est votée à la majorité qualifiée de deux tiers et à l'unanimité des membres du Comité de Contrôle.
 
 Une Assemblée Générale Extraordinaire proposant la modification des statuts ne peut aussi proposer l'élection entière ou partielle du Bureau.
-En cas de changement des statuts, ils sont signés par la Présidence, un membre du CoDir et un membre du CC.
+En cas de changement des statuts, ils sont signés par la Présidence, un membre du CoDir et un membre du Comité de Contrôle.
 
 ---
 
