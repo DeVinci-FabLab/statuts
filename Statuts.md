@@ -105,14 +105,15 @@ Cette qualité ne peut être attribué qu'à un membre annuel faisant partie de 
 
 Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cummulable avec la qualité de membre annuel et de Membre d'Honneur.
 
-### Section 2.4 : Membres Annuels
+### Section 2.4 : Membres annuels
 
 #### Sous-Section 2.4.1 : Définition
 
-Les Membres Annuels sont les personnes physiques dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien, qui se sont acquittés de la cotisation annuelle et ayant signé le Règlement Intérieur. Seuls les Membres Annuels ont le droit de vote sur l’année en cours.
+Les membres annuels sont les personnes physiques dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien, qui se sont acquittés de la cotisation annuelle et ayant signé le Règlement Intérieur.
 
-La qualité de Membre Annuel est valable pour une période d’une année scolaire, débutant le 1er septembre et finissant le 31 août. Passé cette période, pour continuer de jouir de cette qualité, la personne physique doit se réinscrire.
-Il convient que les Membres Annuels voulant se réinscrire se manifestent auprès du Bureau durant les 2 derniers mois de l'année scolaire. Dans le cas contraire, ces derniers perdent leur qualité de Membre Annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
+La qualité de Membre Annuel est valable pour une période d’une année scolaire, débutant le 1er septembre et finissant le 31 août. Passé cette période, pour continuer de jouir de cette qualité, la personne physique doit se réinscrire, en faisant part de sa volonté de réinscription auprès du Bureau, durant les 2 derniers mois de l'année scolaire.
+
+Dans le cas contraire, ces derniers perdent leur qualité de Membre Annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
 
 Le Bureau se réserve le droit de conditionner la réinscription d'un Membre Annuel au processus d'admission classique avec l'entretien d'admission remplacé par un entretien de motivation.
 
