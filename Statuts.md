@@ -238,33 +238,37 @@ En outre, le Bureau est chargé de porter à la connaissance de la préfecture, 
 
 ## Article 4 : Assemblée Générale
 
-L’Assemblée Générale (ou AG) convoque tous les Membres Annuels à jour de leur cotisation.
+L’Assemblée Générale convoque tous les membres.
+
 Ils sont convoqués par au moins deux de ces moyens de communication :
 
-- courriel,
-- annonce sur les canaux internes de l'Association,
-- convocation individuelle,
-- affichage dans les locaux de l’Association,
+- courriel ;
+- annonce sur les canaux internes de l'Association ;
+- convocation individuelle ;
+- affichage dans les locaux de l’Association ;
 - bulletin d’information.
 
-Le délai de convocation à l’Assemblée Générale Ordinaire est fixé à une semaine avant celle-ci.
-La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le Comité de Direction.
+Le délai de convocation à l’Assemblée Générale est fixé à une semaine avant celle-ci.
+La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le Bureau.
 Le quorum de présence est défini par le Règlement Intérieur.
 
 Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents ou représentés.
-Chaque membre présent ne peut détenir plus d’un pouvoir et ne peut pas posséder plus de 2 procuration de vote.
+Chaque membre présent détient un vote et peut posséder au plus deux procurations de vote.
 
 Les procès-verbaux des délibérations de l'Assemblée Générale sont tenus par le Secrétariat et signés par la Présidence.
 
 Une Assemblée Générale est compétente de :
 
-- l'élection entière ou partielle du Bureau,
-- l'attribution du statut de Membre d'Honneur ou Membre Émérites,
+- l'élection entière ou partielle du Bureau ;
+- l'attribution du statut de Membre d'Honneur ou Membre Émérites ;
 - la modification du Règlement Intérieur.
 
 ### Section 5.1 : Assemblée Générale Ordinaire
 
-L'Assemblé Générale Ordinaire doit se réunir régulièrement soit pour informer les membres de l'association soit pour le renouvellement des mandats du Bureau, c'est à dire l'élection nécessairement entière d'un Bureau.
+L'Assemblé Générale Ordinaire doit se réunir régulièrement avec l'un de ses deux objectifs :
+
+- informer les membres ;
+- passation du Bureau, partielle ou complète.
 
 Le Comité de Direction ouvre l'Assemblée Générale Ordinaire en exposant la situation morale de l’Association avec les bilans financier, d'activité et humain.
 
@@ -272,19 +276,20 @@ Dans le cas d'une Assemblée Générale Ordinaire dont l'objectif est la passati
 
 ### Section 5.2 : Assemblée Générale Extraordinaire
 
-L'Assemblée Générale Extraordinaire est une Assemblée Générale convoquées par le Comité de Direction selon les modalités ordinaires.
+L'Assemblée Générale Extraordinaire est une Assemblée Générale convoquées par le Comité de Direction.
 
 L'Assemblée Générale Extraordinaire est seule compétente de :
 
-- la dissolution de l'Association,
-- la fusion de l'Association,
-- la ratification,
+- la dissolution de l'Association ;
+- la fusion de l'Association ;
+- la ratification ;
 - la modification des statuts.
 
 La dissolution ou fusion de l’Association est votée à la majorité qualifiée de deux tiers et à l'unanimité des membres du Comité de Contrôle.
 
 Une Assemblée Générale Extraordinaire proposant la modification des statuts ne peut aussi proposer l'élection entière ou partielle du Bureau.
-En cas de changement des statuts, ils sont signés par la Présidence, un membre du CoDir et un membre du Comité de Contrôle.
+
+En cas de changement des statuts, ils sont signés par la Présidence et un membre du Comité de Contrôle.
 
 ---
 
