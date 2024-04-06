@@ -149,23 +149,21 @@ Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, a
 
 ### Section 3.2 : Comité de Direction
 
-Le Comité de Direction, aussi appelé CoDir, est constitué de la Présidence, de la Vice-Présidences, du Secrétariat et de la Trésorerie de l’Association.
+Le Comité de Direction est constitué de la Présidence, du Secrétariat et de la Trésorerie de l’Association.
 
 #### Sous-Section 4.3.1 : Présidence
 
-Le président représente l'Association du DeVinci Fablab.
-Elle préside toutes les assemblées et exerce tous les pouvoirs de direction et de gestion de l’Association.
-La présidence décide de l’engagement des actions en justice et représente l’Association en justice, tant en demande qu’en défense. Elle a le pouvoir de décider et d’exercer toute voie de recours ordinaire et extraordinaire et elle peut former tous appels et pouvoir.
-La présidence a le pouvoir de transiger.
+La Présidence de l'Association du DeVinci Fablab est constituée d'un président et éventuellement de plusieurs vice-présidents.
 
-La présidence peut procurer à un ou une membre du CoDir ses droits pour une durée finie ou dans un cadre précis.
-Cette procuration doit se faire par écrit ou, pour permettre de présider une Assemblée Générale uniquement, à l'oral au début de celle-ci.
+Le président agit en qualité de représentant de l'Association et préside toutes les Assemblées Générales. Il détient l'ensemble des pouvoirs de direction et de gestion de l’Association.
 
-#### Sous-Section 4.3.2 : Vice-Présidence
+Les vice-présidents assistent le président dans l'exercice de ses fonctions.
 
-Le Vice-Président, la Vice-Présidente, les Vice-Présidents ou les Vice-Présidentes, ci-après dénommés "la Vice-Présidence" joue un rôle de soutient à la Présidence.
-La Vice-Présidence exerce une mission de contrôle sur l’administration et la gestion courante de l’Association.
-Elle est chargée du bon fonctionnement du Bureau et de s'assurer de la pérennité des outils et solutions mises en place durant son mandat.
+La Présidence est habilitée à prendre des décisions concernant l'engagement des actions en justice et à représenter l’Association dans toutes procédures judiciaires, tant en qualité de demandeur que de défendeur. Elle dispose du pouvoir de recourir à toutes voies de recours ordinaires et extraordinaires, y compris la possibilité de former des appels. De plus, elle a le droit de conclure des transactions.
+
+La Présidence peut accorder à un membre du CoDir ses pouvoirs pour une durée déterminée ou dans un cadre spécifique. Cette délégation doit être formalisée par écrit, sauf dans le cas où elle est accordée verbalement au début d'une Assemblée Générale.
+
+La Présidence exerce une fonction de supervision sur l'administration et la gestion courante de l’Association. Elle assume la responsabilité du bon fonctionnement du Bureau et veille à la pérennité des outils et solutions mises en place pendant son mandat.
 
 #### Sous-Section 4.3.3 : Trésorerie
 
