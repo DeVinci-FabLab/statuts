@@ -215,7 +215,7 @@ Le responsable d’un pôle est un leader permettant l’épanouissement de son 
 
 ### Sous-section 4.2 : Pouvoirs du Bureau
 
-Le Bureau administre l’Association conformément aux objectifs définis et à son objet.
+Le Bureau administre l’Association conformément à son objet.
 
 Parmi les pouvoirs du Bureau figurent notamment :
 
