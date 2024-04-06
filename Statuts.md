@@ -203,7 +203,7 @@ Les rôles spécifiques au sein du Comité de Soutien ne sont pas énumérés da
 
 ### Sous-section 3.5.1 : Définition
 
-Le Bureau assume la direction de l'Association. Chaque année, l'Assemblée Générale élit un nouveau Bureau pour un mandat d'un an, composé exclusivement du Comité de Direction et du Comité de Gestion.
+Le Bureau assume la direction de l'Association. Chaque année, l'Assemblée Générale Ordinaire élit un nouveau Bureau pour un mandat d'un an, composé exclusivement du Comité de Direction et du Comité de Gestion.
 
 En cas d'absence prolongée (d'une durée d'un mois) ou de démission d'un membre du Bureau, celui-ci est remplacé par cooptation. Les nominations par cooptation doivent être validées par la prochaine Assemblée Générale pour devenir effectives. Tout nouveau membre ainsi désigné termine son mandat à la fin du mandat de son prédécesseur.
 
