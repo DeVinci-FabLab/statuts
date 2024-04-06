@@ -49,7 +49,7 @@ Les ressources de l’Association comprennent :
 
 ### Section 1.7 : Règlement Intérieur
 
-L'Association se dote d'un Règlement Intérieur qui fixe les règles de fonctionnement de l'association. Le Règlement Intérieur est annexé aux présents statuts et en fait partie intégrante.
+L'Association se dote d'un Règlement Intérieur qui fixe les règles de fonctionnement de l'association. Ce règlement est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association.
 
 Le Règlement Intérieur peut être modifié par l'Assemblée Générale Ordinaire sur proposition du Comité de Direction comme définit dans l'[Article 4](#article-4--assemblée-générale).
 
