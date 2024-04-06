@@ -151,7 +151,7 @@ Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, a
 
 Le Comité de Direction est constitué de la Présidence, du Secrétariat et de la Trésorerie de l’Association.
 
-#### Sous-Section 4.3.1 : Présidence
+#### Sous-Section 3.2.1 : Présidence
 
 La Présidence de l'Association du DeVinci Fablab est constituée d'un président et d'un ou de plusieurs vice-présidents.
 
@@ -165,13 +165,13 @@ La Présidence peut accorder à un membre du Comité de Direction ses pouvoirs p
 
 La Présidence exerce une fonction de supervision sur l'administration et la gestion courante de l’Association. Elle assume la responsabilité du bon fonctionnement du Bureau et veille à la pérennité des outils et solutions mises en place pendant son mandat.
 
-#### Sous-Section 4.3.2 : Trésorerie
+#### Sous-Section 3.2.2 : Trésorerie
 
 Le Trésorier est responsable de la gestion financière de l'Association.
 
 Il est chargé de vérifier l'exactitude de la comptabilité de toutes les opérations de l’Association et doit rendre compte de son activité au Bureau. Il exerce une surveillance continue des ressources financières de l'Association et est autorisé à engager des dépenses.
 
-#### Sous-Section 4.3.3 : Secrétariat
+#### Sous-Section 3.2.3 : Secrétariat
 
 Le Secrétaire Général de l'Association assistent la Présidence dans les tâches juridiques et administratives de l'Association.
 
@@ -199,7 +199,7 @@ Les rôles spécifiques au sein du Comité de Soutien ne sont pas énumérés da
 
 ### Section 3.5 : Bureau
 
-### Sous-section 4.1 : Définition
+### Sous-section 3.5.1 : Définition
 
 Le Bureau assume la direction de l'Association. Chaque année, l'Assemblée Générale élit un nouveau Bureau pour un mandat d'un an, composé exclusivement du Comité de Direction et du Comité de Gestion.
 
@@ -210,7 +210,7 @@ En cas d'absence prolongée (d'une durée d'un mois) ou de démission de tous le
 Les postes du Bureau sont très prenants. Chaque membre du Bureau doit être le plus disponible possible et à l’écoute de tous les membres.
 Le responsable d’un pôle est un leader permettant l’épanouissement de son équipe au sein du Fablab.
 
-### Sous-section 4.2 : Pouvoirs du Bureau
+### Sous-section 3.5.2 : Pouvoirs du Bureau
 
 Le Bureau administre l’Association conformément à son objet.
 
@@ -224,7 +224,7 @@ Parmi les pouvoirs du Bureau figurent notamment :
 
 En outre, le Bureau est chargé de porter à la connaissance de la préfecture, dans les délais réglementaires, tout changement survenu dans l’administration ou la direction de l’Association et de présenter les registres et pièces de comptabilité sur réquisition des autorités compétentes.
 
-## Article 5 : Assemblée Générale
+## Article 4 : Assemblée Générale
 
 L’Assemblée Générale (ou AG) convoque tous les Membres Annuels à jour de leur cotisation.
 Ils sont convoqués par au moins deux de ces moyens de communication :
@@ -252,11 +252,11 @@ Une Assemblée Générale est compétente de :
 
 ### Section 5.1 : Assemblée Générale Ordinaire
 
-L'Assemblé Générale Ordinaire doit se réunir une fois par an pour le renouvellement des mandats du Bureau, c'est à dire l'élection nécessairement entière d'un Bureau.
+L'Assemblé Générale Ordinaire doit se réunir régulièrement soit pour informer les membres de l'association soit pour le renouvellement des mandats du Bureau, c'est à dire l'élection nécessairement entière d'un Bureau.
 
-Le Comité de Direction ouvre l'Assemblée Générale Ordinaire en exposant la situation morale de l’Association ainsi qu'un bilan fiancier et humain.
+Le Comité de Direction ouvre l'Assemblée Générale Ordinaire en exposant la situation morale de l’Association avec les bilans financier, d'activité et humain.
 
-L'Assemblée procède ensuite à l'élection du Bureau, présidée par la Présidence sortante.
+Dans le cas d'une Assemblée Générale Ordinaire dont l'objectif est la passation du Bureau, elle doit ensuite procéder à l'élection du Bureau, présidée par la Présidence sortante.
 
 ### Section 5.2 : Assemblée Générale Extraordinaire
 
