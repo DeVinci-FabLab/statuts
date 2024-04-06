@@ -89,7 +89,8 @@ L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
 
 Le nombre d'attributions du statut de Membre d’Honneur de l’association est limité à 4 étudiants par année scolaire (de septembre à août).
 
-Les Membres d’Honneur sont Membres à Vie de l’association et sont exemptés de la cotisation annuelle dès l'obtention du statut.
+Les Membres d’Honneur sont Membres à Vie de l’association.
+Le statut de Membre d'Honneur n'est pas cummulable avec celui de Membre Annuel, de ce fait un membre se voiyant décerné le statut de Membre d'Honneur perd son statut de Membre Annuel.
 
 ### Section 2.3 : Membres alumnis
 
