@@ -26,7 +26,7 @@ La durée de l’Association est illimitée.
 
 ### Section 1.5 : Dissolution
 
-La dissolution est prononcée par l’Assemblée Générale extraordinaire qui nomme un liquidateur. L’actif sera dévolu conformément à l’article 9 de la loi 1er juillet 1901 à une association poursuivant un but identique.
+La dissolution est prononcée par l’Assemblée Générale Extraordinaire qui nomme un liquidateur. L’actif sera dévolu conformément à l’article 9 de la loi 1er juillet 1901 à une association poursuivant un but identique.
 
 Pour la dissolution de l’Association, les membres fondateurs définis dans l’[article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préavis. À défaut, par courriel ou tout autre moyen de contact. La dissolution de l’Association doit être présentée et justifiée aux membres fondateurs.
 
@@ -48,7 +48,7 @@ Les ressources de l’Association comprennent :
 
 L'Association se dote d'un Règlement Intérieur qui fixe les règles de fonctionnement de l'association. Le Règlement Intérieur est annexé aux présents statuts et en fait partie intégrante.
 
-Le Règlement Intérieur peut être modifié par l'Assemblée Générale sur proposition du Comité de Direction comme définit dans l'[Article 5](#article-5--assemblée-générale).
+Le Règlement Intérieur peut être modifié par l'Assemblée Générale Ordinaire sur proposition du Comité de Direction comme définit dans l'[Article 4](#article-4--assemblée-générale).
 
 Il doit figurer dans le Règlement Intérieur :
 
@@ -107,13 +107,13 @@ Le Bureau se réserve le droit de conditionner la réinscription d'un Membre Ann
 Le processus d'admission dans l'Association en tant que Membre Annuel est le suivant :
 
 1. Entretien face à deux Membres Annuels minimum, dont un membre du Bureau minimum.
-2. Délibération du CoDir avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
+2. Délibération du Comité de Direction avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
 3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans les délais impartits.
 4. Le candidat ou la candidate est admis ou admise en tant que Membre Annuel de l'Association.
 
 La notice d'admission ou de refus doit se faire à minima via un courriel.
 
-Le CoDir se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander un remboursement de sa cotisation s'il a déjà payé celle-ci.
+Le Comité de Direction se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander un remboursement de sa cotisation s'il a déjà payé celle-ci.
 
 ### Section 2.5 : Perte de la qualité de membre
 
@@ -149,45 +149,45 @@ Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, a
 
 ### Section 3.2 : Comité de Direction
 
-Le Comité de Direction, aussi appelé CoDir, est constitué de la Présidence, de la Vice-Présidences, du Secrétariat et de la Trésorerie de l’Association.
+Le Comité de Direction est constitué de la Présidence, du Secrétariat et de la Trésorerie de l’Association.
 
-#### Sous-Section 4.3.1 : Présidence
+À l'exception du Président, tout poste du Comité de Direction peut être occupé par un ou plusieurs Co-Responsables, élus en Assemblée Générale.
 
-Le président ou la présidente, ci-après dénommé "la présidence" représente l'Association du DeVinci Fablab.
-Elle préside toutes les assemblées et exerce tous les pouvoirs de direction et de gestion de l’Association.
-La présidence décide de l’engagement des actions en justice et représente l’Association en justice, tant en demande qu’en défense. Elle a le pouvoir de décider et d’exercer toute voie de recours ordinaire et extraordinaire et elle peut former tous appels et pouvoir.
-La présidence a le pouvoir de transiger.
+#### Sous-Section 3.2.1 : Présidence
 
-La présidence peut procurer à un ou une membre du CoDir ses droits pour une durée finie ou dans un cadre précis.
-Cette procuration doit se faire par écrit ou, pour permettre de présider une Assemblée Générale uniquement, à l'oral au début de celle-ci.
+La Présidence de l'Association du DeVinci Fablab est constituée du Président et éventuellement de Vice-Présidents.
 
-#### Sous-Section 4.3.2 : Vice-Présidence
+Le Président agit en qualité de représentant de l'Association et préside toutes les Assemblées Générales. Il détient l'ensemble des pouvoirs de direction et de gestion de l’Association.
 
-Le Vice-Président, la Vice-Présidente, les Vice-Présidents ou les Vice-Présidentes, ci-après dénommés "la Vice-Présidence" joue un rôle de soutient à la Présidence.
-La Vice-Présidence exerce une mission de contrôle sur l’administration et la gestion courante de l’Association.
-Elle est chargée du bon fonctionnement du Bureau et de s'assurer de la pérennité des outils et solutions mises en place durant son mandat.
+Les Vice-Présidents assistent le président dans l'exercice de ses fonctions.
 
-#### Sous-Section 4.3.3 : Trésorerie
+La Présidence est habilitée à prendre des décisions concernant l'engagement des actions en justice et à représenter l’Association dans toutes procédures judiciaires, tant en qualité de demandeur que de défendeur. Elle dispose du pouvoir de recourir à toutes voies de recours ordinaires et extraordinaires, y compris la possibilité de former des appels. De plus, elle a le droit de conclure des transactions.
 
-Le, la ou les Trésoriers ou Trésorières de l'Association, ci-après dénommés "la Trésorerie", assurent la trésorerie de l'Association.
-La Trésorerie vérifie la tenue de la comptabilité de toute opération de l’Association et rend compte de sa mission au Bureau. Elle assure une mission permanente de contrôle des ressources de l'Association et s'engage sur ses dépenses.
+La Présidence peut accorder à un membre du Comité de Direction ses pouvoirs pour une durée déterminée ou dans un cadre spécifique. Cette délégation doit être formalisée par écrit, sauf dans le cas où elle est accordée verbalement au début d'une Assemblée Générale.
 
-#### Sous-Section 4.3.4 : Secrétariat
+La Présidence exerce une fonction de supervision sur l'administration et la gestion courante de l’Association. Elle assume la responsabilité du bon fonctionnement du Bureau et veille à la pérennité des outils et solutions mises en place pendant son mandat.
 
-Le, la ou les Secrétaire(s) Général de l'Association, ci-après dénommés "le Secrétariat", assurent les tâches juridiques et administratives de l'Association.
+#### Sous-Section 3.2.2 : Trésorerie
 
-Cela comprend essentiellement les correspondances par courrier et par courriel de l’Association, l'établissement les convocations et les comptes-rendus des réunions, ainsi que la tenue les différents registres et les archives. Le Secrétariat est responsable de l’inventaire général et assure ainsi la continuité des activités qui dépendent de celui-ci.
+Le Trésorier est responsable de la gestion financière de l'Association.
 
-Les actes du Secrétariat font foi jusqu’à preuve du contraire.
+Il est chargé de vérifier l'exactitude de la comptabilité de toutes les opérations de l’Association et doit rendre compte de son activité au Bureau. Il exerce une surveillance continue des ressources financières de l'Association et est autorisé à engager des dépenses.
+
+#### Sous-Section 3.2.3 : Secrétariat
+
+Le Secrétaire Général de l'Association assistent la Présidence dans les tâches juridiques et administratives de l'Association.
+
+Ces responsabilités englobent principalement la gestion des correspondances par courrier et par courriel de l’Association. Le Secrétaire Général est également chargé de la préparation des convocations et des comptes-rendus de réunions, ainsi que de la tenue à jour des divers registres et archives de l'Association.
 
 ### Section 3.3 : Comité de Gestion
 
-#### Sous-Section 4.3.5 : Responsables
-
-Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction à chaque Assemblées Générales.
+Le Comité de Gestion est constitué de Responsables de pôles. Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction lors d'une Assemblée Générale.
 
 Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en Assemblée Générale.
+
 La mission d'un ou d'une Responsable est de mener à bien la gestion du pôle qui lui a été confié.
+
+Les rôles spécifiques au sein du Comité de Gestion ne sont pas énumérés dans les statuts, étant susceptibles d'évoluer d'une année à l'autre.
 
 ### Section 3.4 : Comité de Soutien
 
@@ -201,31 +201,27 @@ Les rôles spécifiques au sein du Comité de Soutien ne sont pas énumérés da
 
 ### Section 3.5 : Bureau
 
-### Sous-section 4.1 : Définition
+### Sous-section 3.5.1 : Définition
 
-Le Bureau dirige l’Association. L’Assemblée Générale élit pour une période d’un an le nouveau Bureau. Ce dernier comprend au moins 5 membres dont le/la président(e) ou les possibles co-président(es), le/la vice-président(e) ou les vice-président(e)s, le/la secrétaire général ou les secrétaires généraux, le/la ou les responsable(s) projet, le/la ou les responsable(s) formation, le/la ou les responsable(s) communication.
+Le Bureau assume la direction de l'Association. Chaque année, l'Assemblée Générale Ordinaire élit un nouveau Bureau pour un mandat d'un an, composé exclusivement du Comité de Direction et du Comité de Gestion.
 
-En cas d’absence prolongée ou de démission, le Bureau pourvoit au remplacement de ses membres vacants par cooptation. Les nominations par cooptation doivent être ratifiées par la prochaine Assemblée Générale afin de devenir définitives. Tout administrateur ainsi nommé voit son mandat s’achever à l’échéance du mandat de l’administrateur qu’il remplace.
-En cas d’absence prolongée ou démission de la totalité des administrateurs, une Assemblée Générale est convoquée avec pour seul ordre du jour, soit l’élection du nouveau Bureau soit la dissolution de l’Association.
+En cas d'absence prolongée (d'une durée d'un mois) ou de démission d'un membre du Bureau, celui-ci est remplacé par cooptation. Les nominations par cooptation doivent être validées par la prochaine Assemblée Générale pour devenir effectives. Tout nouveau membre ainsi désigné termine son mandat à la fin du mandat de son prédécesseur.
 
-Les postes du Bureau sont très prenants. Chaque membre du Bureau doit être le plus disponible possible et à l’écoute de tous les membres.
-Le responsable d’un pôle est un leader permettant l’épanouissement de son équipe au sein du Fablab.
+En cas d'absence prolongée (d'une durée d'un mois) ou de démission de tous les membres du Bureau, une Assemblée Générale Extraordinaire est convoquée avec comme seul point à l'ordre du jour l'élection d'un nouveau Bureau ou la dissolution de l'Association.
 
-### Sous-section 4.2 : Pouvoirs du Bureau
+### Sous-section 3.5.2 : Pouvoirs du Bureau
 
-Le Bureau administre l’Association conformément aux objectifs définis et à son objet.
+Le Bureau administre l’Association conformément à son objet.
 
 Parmi les pouvoirs du Bureau figurent notamment :
 
-- la convocation des Assemblées Générales et la fixation de l’ordre du jour,
-- l’agrément ou la radiation des membres de l’Association,
-- la détermination de la stratégie en matière d’investissement matériel et immatériel,
-- la fixation du montant de la cotisation annuelle pour les membres actifs et du droit d’entrée pour les membres bienfaiteurs,
+- la convocation des Assemblées Générales et la fixation de l’ordre du jour ;
+- l’agrément ou la radiation des membres de l’Association ;
+- la détermination de la stratégie en matière d’investissement matériel et immatériel ;
+- la fixation du montant de la cotisation annuelle pour les membres actifs et du droit d’entrée pour les membres bienfaiteurs ;
 - la proposition de dissolution de l’Association.
 
 En outre, le Bureau est chargé de porter à la connaissance de la préfecture, dans les délais réglementaires, tout changement survenu dans l’administration ou la direction de l’Association et de présenter les registres et pièces de comptabilité sur réquisition des autorités compétentes.
-
-Le Bureau désigne les comités de direction et de gestion de l'Association.
 
 ## Article 4 : Assemblée Générale
 
@@ -239,7 +235,7 @@ Ils sont convoqués par au moins deux de ces moyens de communication :
 - bulletin d’information.
 
 Le délai de convocation à l’Assemblée Générale Ordinaire est fixé à une semaine avant celle-ci.
-La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le CoDir.
+La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le Comité de Direction.
 Le quorum de présence est défini par le Règlement Intérieur.
 
 Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents ou représentés.
