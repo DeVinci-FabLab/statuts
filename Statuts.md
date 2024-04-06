@@ -172,9 +172,9 @@ La Présidence de l'Association du DeVinci Fablab est constituée du Président 
 
 Le Président agit en qualité de représentant de l'Association et préside toutes les Assemblées Générales. Il détient l'ensemble des pouvoirs de direction et de gestion de l’Association.
 
-Les Vice-Présidents assistent le président dans l'exercice de ses fonctions.
+Les Vice-Présidents assistent le Président dans l'exercice de ses fonctions.
 
-La Présidence est habilitée à prendre des décisions concernant l'engagement des actions en justice et à représenter l’Association dans toutes procédures judiciaires, tant en qualité de demandeur que de défendeur. Elle dispose du pouvoir de recourir à toutes voies de recours ordinaires et extraordinaires, y compris la possibilité de former des appels. De plus, elle a le droit de conclure des transactions.
+La Présidence est habilitée à prendre des décisions concernant l'engagement des actions en justice et à représenter l’Association dans toute procédure judiciaire, tant en qualité de demandeur que de défendeur. Elle dispose du pouvoir de recourir à toute voie de recours ordinaire et extraordinaire, y compris la possibilité de former des appels.
 
 La Présidence peut accorder à un membre du Comité de Direction ses pouvoirs pour une durée déterminée ou dans un cadre spécifique. Cette délégation doit être formalisée par écrit, sauf dans le cas où elle est accordée verbalement au début d'une Assemblée Générale.
 
@@ -194,11 +194,11 @@ Ces responsabilités englobent principalement la gestion des correspondances par
 
 ### Section 3.3 : Comité de Gestion
 
-Le Comité de Gestion est constitué de Responsables de pôles. Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction lors d'une Assemblée Générale.
+Le Comité de Gestion est constitué de Responsables de pôles. Les Reponsables sont des postes de gestion, définit par le Comité de Direction, à pourvoir lors d'une Assemblée Générale.
 
 Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en Assemblée Générale.
 
-La mission d'un ou d'une Responsable est de mener à bien la gestion du pôle qui lui a été confié.
+La mission d'un Responsable est de mener à bien la gestion du pôle lui ayant été confié.
 
 Les rôles spécifiques au sein du Comité de Gestion ne sont pas énumérés dans les statuts, étant susceptibles d'évoluer d'une année à l'autre.
 
