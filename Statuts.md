@@ -48,6 +48,8 @@ Les ressources de l’Association comprennent :
 
 L'Association se dote d'un Règlement Intérieur qui fixe les règles de fonctionnement de l'association. Le Règlement Intérieur est annexé aux présents statuts et en fait partie intégrante.
 
+Le Règlement Intérieur peut être modifié par l'Assemblée Générale sur proposition du Comité de Direction comme définit dans l'[Article 5](#article-5--assemblée-générale).
+
 ## Article 2 : Membres
 
 L’Association comprend les qualités de membres suivantes:
@@ -114,7 +116,6 @@ La qualité de membre peut être perdue suite :
 - à une atteinte négative à l’Association ou son image,
 - à tout autre motif grave (ie. le non respect de la charte de l’Association LDV ou le non respect du Règlement Intérieur).
 
-Le Règlement Intérieur est établit par le Bureau qui le soumet pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du CC pour toutes modifications.
 Le Règlement Intérieur s’impose à tous les membres de qualité de Membre Annuel de l’Association.
 
 La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
@@ -235,7 +236,8 @@ Les procès-verbaux des délibérations de l'Assemblée Générale sont tenus pa
 Une Assemblée Générale est compétente de :
 
 - l'élection entière ou partielle du Bureau,
-- l'attribution du statut de Membre d'Honneur ou Membre Alumni.
+- l'attribution du statut de Membre d'Honneur ou Membre Alumni,
+- la modification du Règlement Intérieur.
 
 ### Section 5.1 : Assemblée Générale Ordinaire
 
