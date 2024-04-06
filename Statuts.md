@@ -107,13 +107,13 @@ Le Bureau se réserve le droit de conditionner la réinscription d'un Membre Ann
 Le processus d'admission dans l'Association en tant que Membre Annuel est le suivant :
 
 1. Entretien face à deux Membres Annuels minimum, dont un membre du Bureau minimum.
-2. Délibération du CoDir avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
+2. Délibération du Comité de Direction avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
 3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans les délais impartits.
 4. Le candidat ou la candidate est admis ou admise en tant que Membre Annuel de l'Association.
 
 La notice d'admission ou de refus doit se faire à minima via un courriel.
 
-Le CoDir se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander un remboursement de sa cotisation s'il a déjà payé celle-ci.
+Le Comité de Direction se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander un remboursement de sa cotisation s'il a déjà payé celle-ci.
 
 ### Section 2.5 : Perte de la qualité de membre
 
@@ -161,7 +161,7 @@ Les vice-présidents assistent le président dans l'exercice de ses fonctions.
 
 La Présidence est habilitée à prendre des décisions concernant l'engagement des actions en justice et à représenter l’Association dans toutes procédures judiciaires, tant en qualité de demandeur que de défendeur. Elle dispose du pouvoir de recourir à toutes voies de recours ordinaires et extraordinaires, y compris la possibilité de former des appels. De plus, elle a le droit de conclure des transactions.
 
-La Présidence peut accorder à un membre du CoDir ses pouvoirs pour une durée déterminée ou dans un cadre spécifique. Cette délégation doit être formalisée par écrit, sauf dans le cas où elle est accordée verbalement au début d'une Assemblée Générale.
+La Présidence peut accorder à un membre du Comité de Direction ses pouvoirs pour une durée déterminée ou dans un cadre spécifique. Cette délégation doit être formalisée par écrit, sauf dans le cas où elle est accordée verbalement au début d'une Assemblée Générale.
 
 La Présidence exerce une fonction de supervision sur l'administration et la gestion courante de l’Association. Elle assume la responsabilité du bon fonctionnement du Bureau et veille à la pérennité des outils et solutions mises en place pendant son mandat.
 
@@ -236,7 +236,7 @@ Ils sont convoqués par au moins deux de ces moyens de communication :
 - bulletin d’information.
 
 Le délai de convocation à l’Assemblée Générale Ordinaire est fixé à une semaine avant celle-ci.
-La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le CoDir.
+La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le Comité de Direction.
 Le quorum de présence est défini par le Règlement Intérieur.
 
 Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents ou représentés.
