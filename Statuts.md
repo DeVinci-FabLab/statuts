@@ -55,10 +55,10 @@ Le Règlement Intérieur peut être modifié par l'Assemblée Générale Ordinai
 
 Il doit figurer dans le Règlement Intérieur :
 
-- le montant de la cotisation annuelle,
-- le délai de payement de la cotisation annuelle,
-- le délai de signature du Règlement Intérieur,
-- le quorum de présence aux Assemblées Générales.
+- Le montant de la cotisation annuelle ;
+- Le délai de payement de la cotisation annuelle ;
+- Le délai de signature du Règlement Intérieur ;
+- Le quorum de présence aux Assemblées Générales.
 
 ## Article 2 : Membres
 
@@ -67,15 +67,14 @@ L’Association comprend les qualités de membres suivantes:
 - Membres fondateurs ;
 - Membres d’Honneur ;
 - Membres Émérites ;
-- Membres annuels ;
-- Persona Non Grata.
+- Membres annuels.
 
 ### Section 2.1 : Membres fondateurs
 
 Les membres fondateurs sont les personnes ayant constitué l’Association en 2015, à savoir : Angéline BESLAND (Présidente), Gaël NAIME (Trésorier) et Dany NARCISSE (Secrétaire Général).
 
-Leurs noms figurent ci-dessus sur ce statut et doivent figurer, dans l’éventualité que cela se produise, sur tous les prochains statuts de l’Association sous le même format.
-Les droits des membres fondateurs incluent tous les droits des Membres d’Honneur et des Membres Émérites au minima.
+Leurs noms figurent ci-dessus dans ces statuts et doivent figurer, dans l’éventualité que cela se produise, sur tous les prochains statuts de l’Association sous le même format.
+Les droits des membres fondateurs incluent tous les droits des Membres d’Honneur et des Membres Émérites a minima.
 Les membres fondateurs sont des membres à vie de l’Association.
 
 ### Section 2.2 : Membres d'Honneur
@@ -89,12 +88,12 @@ L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
 - le Bureau propose des Membres Annuels auquels attribuer le statut et le soumet aux Membres d'Honneur.
 - Les Membres d'Honneur votent à la majorité relative la proposition de chaque nouveau Membre d'Honneur, avec un minimum de 3 votants.
 - Les propositions ainsi validées sont ensuite votées en Assemblée Générale où la majorité relative décide de l'attribution du statut.
-- Les membres se voyant décerné le statut de Membre d'Honneur disposent d'un délai d'une semaine pour l'accepter ou le refuser individuellement. Passé ce délai, le statut de Membre d'Honneur sera considéré comme accepté. En cas de refus, la remise du statut pourra être remise à un prochain vote.
+- Les membres se voyant décerné le statut de Membre d'Honneur disposent d'un délai d'une semaine pour l'accepter ou le refuser individuellement. Passé ce délai, le statut de Membre d'Honneur sera considéré comme accepté. En cas de refus, la remise du statut pourra être faite à un prochain vote.
 
 Le nombre d'attributions du statut de Membre d’Honneur de l’association est limité à 4 étudiants par année scolaire (de septembre à août).
 
 Les Membres d’Honneur sont Membres à Vie de l’association.
-Le statut de Membre d'Honneur n'est pas cummulable avec celui de Membre Annuel, de ce fait un membre se voiyant décerné le statut de Membre d'Honneur perd son statut de Membre Annuel.
+La qualité de Membre d'Honneur n'est pas cummulable avec celle de membre annuel, de ce fait un membre se voyant décerné la qualité de Membre d'Honneur perd celle de membre annuel.
 
 ### Section 2.3 : Membres Émérites
 
@@ -102,9 +101,9 @@ La qualité de Membre Émérite est décernée en Assemblée Générale, sans vo
 
 Elle est décernée aux personnes physiques qui ont rendu des services éminents à l’association.
 
-Cette qualité ne peut être attribué qu'à un Membre Annuel faisant partie de l'association depuis plus d'un an révolu.
+Cette qualité ne peut être attribué qu'à un membre annuel faisant partie de l'association depuis plus d'un an révolu.
 
-Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cummulable avec le statut de membre annuel et de Membre d'Honneur.
+Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cummulable avec la qualité de membre annuel et de Membre d'Honneur.
 
 ### Section 2.4 : Membres Annuels
 
