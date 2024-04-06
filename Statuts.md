@@ -44,6 +44,19 @@ Les ressources de l’Association comprennent :
 - des produits des rétributions perçues pour les services et les prestations rendues dans l’accomplissement de ses buts,
 - de toutes autres ressources autorisées par la loi.
 
+### Section 1.7 : Règlement Intérieur
+
+L'Association se dote d'un Règlement Intérieur qui fixe les règles de fonctionnement de l'association. Le Règlement Intérieur est annexé aux présents statuts et en fait partie intégrante.
+
+Le Règlement Intérieur peut être modifié par l'Assemblée Générale sur proposition du Comité de Direction comme définit dans l'[Article 5](#article-5--assemblée-générale).
+
+Il doit figurer dans le Règlement Intérieur :
+
+- le montant de la cotisation annuelle,
+- le délai de payement de la cotisation annuelle,
+- le délai de signature du Règlement Intérieur,
+- le quorum de présence aux Assemblées Générales.
+
 ## Article 2 : Membres
 
 L’Association comprend les qualités de membres suivantes:
@@ -95,7 +108,7 @@ Le processus d'admission dans l'Association en tant que Membre Annuel est le sui
 
 1. Entretien face à deux Membres Annuels minimum, dont un membre du Bureau minimum.
 2. Délibération du CoDir avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
-3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans le délai précisé dans le Règlement Intérieur.
+3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans les délais impartits.
 4. Le candidat ou la candidate est admis ou admise en tant que Membre Annuel de l'Association.
 
 La notice d'admission ou de refus doit se faire à minima via un courriel.
@@ -112,10 +125,7 @@ La qualité de membre peut être perdue suite :
 - au non-paiement de la cotisation,
 - au non respect du Règlement Intérieur de l'Association,
 - à une atteinte négative à l’Association ou son image,
-- à tout autre motif grave (ie. le non respect de la charte de l’Association LDV ou le non respect du Règlement Intérieur).
-
-Le Règlement Intérieur est établit par le Bureau qui le soumet pour approbation à l’Assemblée Générale. Le Règlement Intérieur ne nécessite pas l’approbation du Comité de Contrôle pour toutes modifications.
-Le Règlement Intérieur s’impose à tous les membres de qualité de Membre Annuel de l’Association.
+- à tout autre motif grave (ie. le non respect de la charte de l’Association LDV).
 
 La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
 
@@ -240,7 +250,8 @@ Les procès-verbaux des délibérations de l'Assemblée Générale sont tenus pa
 Une Assemblée Générale est compétente de :
 
 - l'élection entière ou partielle du Bureau,
-- l'attribution du statut de Membre d'Honneur ou Membre Émérites.
+- l'attribution du statut de Membre d'Honneur ou Membre Émérites,
+- la modification du Règlement Intérieur.
 
 ### Section 5.1 : Assemblée Générale Ordinaire
 
