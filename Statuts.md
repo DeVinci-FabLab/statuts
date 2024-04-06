@@ -153,7 +153,7 @@ Le Comité de Direction est constitué de la Présidence, du Secrétariat et de 
 
 #### Sous-Section 4.3.1 : Présidence
 
-La Présidence de l'Association du DeVinci Fablab est constituée d'un président et éventuellement de plusieurs vice-présidents.
+La Présidence de l'Association du DeVinci Fablab est constituée d'un président et d'un ou de plusieurs vice-présidents.
 
 Le président agit en qualité de représentant de l'Association et préside toutes les Assemblées Générales. Il détient l'ensemble des pouvoirs de direction et de gestion de l’Association.
 
@@ -165,16 +165,17 @@ La Présidence peut accorder à un membre du CoDir ses pouvoirs pour une durée 
 
 La Présidence exerce une fonction de supervision sur l'administration et la gestion courante de l’Association. Elle assume la responsabilité du bon fonctionnement du Bureau et veille à la pérennité des outils et solutions mises en place pendant son mandat.
 
-#### Sous-Section 4.3.3 : Trésorerie
+#### Sous-Section 4.3.2 : Trésorerie
 
-Le, la ou les Trésoriers ou Trésorières de l'Association, ci-après dénommés "la Trésorerie", assurent la trésorerie de l'Association.
-La Trésorerie vérifie la tenue de la comptabilité de toute opération de l’Association et rend compte de sa mission au Bureau. Elle assure une mission permanente de contrôle des ressources de l'Association et s'engage sur ses dépenses.
+Le Trésorier est responsable de la gestion financière de l'Association.
 
-#### Sous-Section 4.3.4 : Secrétariat
+Il est chargé de vérifier l'exactitude de la comptabilité de toutes les opérations de l’Association et doit rendre compte de son activité au Bureau. Il exerce une surveillance continue des ressources financières de l'Association et est autorisé à engager des dépenses.
 
-Le, la ou les Secrétaire(s) Général de l'Association, ci-après dénommés "le Secrétariat", assurent les tâches juridiques et administratives de l'Association.
+#### Sous-Section 4.3.3 : Secrétariat
 
-Cela comprend essentiellement les correspondances par courrier et par courriel de l’Association. Mais aussi l'établissement des convocations et des comptes-rendus de réunions. Ainsi que la tenue des différents registres et archives.
+Le Secrétaire Général de l'Association assistent la Présidence dans les tâches juridiques et administratives de l'Association.
+
+Ces responsabilités englobent principalement la gestion des correspondances par courrier et par courriel de l’Association. Le Secrétaire Général est également chargé de la préparation des convocations et des comptes-rendus de réunions, ainsi que de la tenue à jour des divers registres et archives de l'Association.
 
 ### Section 3.3 : Comité de Gestion
 
