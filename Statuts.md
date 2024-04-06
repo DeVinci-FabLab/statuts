@@ -205,9 +205,9 @@ Les rôles spécifiques au sein du Comité de Soutien ne sont pas énumérés da
 
 Le Bureau assume la direction de l'Association. Chaque année, l'Assemblée Générale élit un nouveau Bureau pour un mandat d'un an, composé exclusivement du Comité de Direction et du Comité de Gestion.
 
-En cas d'absence prolongée (d'une durée d'un mois) ou de démission d'un membre du Bureau, celui-ci est remplacé par cooptation. Les nominations par cooptation doivent être validées par la prochaine Assemblée Générale pour devenir effectives. Tout administrateur ainsi désigné termine son mandat à la fin du mandat de l'administrateur qu'il remplace.
+En cas d'absence prolongée (d'une durée d'un mois) ou de démission d'un membre du Bureau, celui-ci est remplacé par cooptation. Les nominations par cooptation doivent être validées par la prochaine Assemblée Générale pour devenir effectives. Tout nouveau membre ainsi désigné termine son mandat à la fin du mandat de son prédécesseur.
 
-En cas d'absence prolongée (d'une durée d'un mois) ou de démission de tous les administrateurs, une Assemblée Générale est convoquée avec comme seul point à l'ordre du jour l'élection d'un nouveau Bureau ou la dissolution de l'Association.
+En cas d'absence prolongée (d'une durée d'un mois) ou de démission de tous les membres du Bureau, une Assemblée Générale Extraordinaire est convoquée avec comme seul point à l'ordre du jour l'élection d'un nouveau Bureau ou la dissolution de l'Association.
 
 Les postes du Bureau sont très prenants. Chaque membre du Bureau doit être le plus disponible possible et à l’écoute de tous les membres.
 Le responsable d’un pôle est un leader permettant l’épanouissement de son équipe au sein du Fablab.
