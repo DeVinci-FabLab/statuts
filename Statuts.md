@@ -182,12 +182,13 @@ Les actes du Secrétariat font foi jusqu’à preuve du contraire.
 
 ### Section 3.3 : Comité de Gestion
 
-#### Sous-Section 4.3.5 : Responsables
-
-Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction à chaque Assemblées Générales.
+Le Comité de Gestion est constitué de Responsables de pôles. Les Reponsables sont des postes de gestion à pourvoir définits par le Comité de Direction lors d'une Assemblée Générale.
 
 Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en Assemblée Générale.
+
 La mission d'un ou d'une Responsable est de mener à bien la gestion du pôle qui lui a été confié.
+
+Les rôles spécifiques au sein du Comité de Gestion ne sont pas énumérés dans les statuts, étant susceptibles d'évoluer d'une année à l'autre.
 
 ### Section 3.4 : Comité de Soutien
 
