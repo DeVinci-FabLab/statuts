@@ -50,6 +50,13 @@ L'Association se dote d'un Règlement Intérieur qui fixe les règles de fonctio
 
 Le Règlement Intérieur peut être modifié par l'Assemblée Générale sur proposition du Comité de Direction comme définit dans l'[Article 5](#article-5--assemblée-générale).
 
+Il doit figurer dans le Règlement Intérieur :
+
+- le montant de la cotisation annuelle,
+- le délai de payement de la cotisation annuelle,
+- le délai de signature du Règlement Intérieur,
+- le quorum de présence aux Assemblées Générales.
+
 ## Article 2 : Membres
 
 L’Association comprend les qualités de membres suivantes:
@@ -97,7 +104,7 @@ Le processus d'admission dans l'Association en tant que Membre Annuel est le sui
 
 1. Entretien face à deux Membres Annuels minimum, dont un membre du Bureau minimum.
 2. Délibération du CoDir avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
-3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans le délai précisé dans le Règlement Intérieur.
+3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans les délais impartits.
 4. Le candidat ou la candidate est admis ou admise en tant que Membre Annuel de l'Association.
 
 La notice d'admission ou de refus doit se faire à minima via un courriel.
