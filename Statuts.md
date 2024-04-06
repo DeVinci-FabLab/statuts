@@ -142,9 +142,9 @@ La qualité de membre peut être perdue suite :
 
 La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
 
-### Section 2.6 : Persona Non Grata
+### Section 2.6 : Persona non grata
 
-La présidence se réserve le droit d’attribuer le statut de Persona Non Grata à un membre sans explication ni justification et sans préavis.
+La présidence se réserve le droit d’attribuer le statut de Persona non grata à un membre sans explication ni justification et sans préavis.
 
 Un membre se voyant attribué le statut de Persona Non Grata est immédiatement exclu de l'Association, perd sa qualité de membre et ne peut plus participer à aucunes des activités de l'Association.
 
@@ -152,7 +152,7 @@ Un membre se voyant attribué le statut de Persona Non Grata est immédiatement 
 
 ### Section 3.1 : Comité de Contrôle
 
-Le Comité de Contrôle a pour mission de surveiller et d'approuver les modifications apportées à la structure et au fonctionnement de l'Association. Ce comité est composé de 3 à 5 membres et est officiellement enregistré dans les registres de l'Association. En cas de réduction de ses effectifs sous le seuil de 3 membres, celui-ci est tenu de procéder au recrutement de nouveaux membres parmi les Membres d'Honneur et les Membres Émérites pour retrouver le nombre de membres requis.
+Le Comité de Contrôle a pour mission de surveiller et d'approuver les modifications apportées à la structure et au fonctionnement de l'Association. Ce comité est composé de 3 à 5 membres et est officiellement indiqué comme tel dans les registres de l'Association. En cas de réduction de ses effectifs sous le seuil de 3 membres, celui-ci est tenu de procéder au recrutement de nouveaux membres parmi les Membres d'Honneur et les Membres Émérites pour retrouver le nombre de membres requis.
 
 Le Comité de Contrôle a le pouvoir unanime de décider de sa dissolution. En cas de dissolution, il revient au Comité de Direction d'entreprendre le recrutement de 3 à 5 nouveaux membres parmi les Membres d'Honneur et les Membres Émérites.
 
