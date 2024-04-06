@@ -204,10 +204,11 @@ Les rôles spécifiques au sein du Comité de Soutien ne sont pas énumérés da
 
 ### Sous-section 4.1 : Définition
 
-Le Bureau dirige l’Association. L’Assemblée Générale élit pour une période d’un an le nouveau Bureau. Ce dernier comprend au moins 5 membres dont le/la président(e) ou les possibles co-président(es), le/la vice-président(e) ou les vice-président(e)s, le/la secrétaire général ou les secrétaires généraux, le/la ou les responsable(s) projet, le/la ou les responsable(s) formation, le/la ou les responsable(s) communication.
+Le Bureau assume la direction de l'Association. Chaque année, l'Assemblée Générale élit un nouveau Bureau pour un mandat d'un an, composé exclusivement du Comité de Direction et du Comité de Gestion.
 
-En cas d’absence prolongée ou de démission, le Bureau pourvoit au remplacement de ses membres vacants par cooptation. Les nominations par cooptation doivent être ratifiées par la prochaine Assemblée Générale afin de devenir définitives. Tout administrateur ainsi nommé voit son mandat s’achever à l’échéance du mandat de l’administrateur qu’il remplace.
-En cas d’absence prolongée ou démission de la totalité des administrateurs, une Assemblée Générale est convoquée avec pour seul ordre du jour, soit l’élection du nouveau Bureau soit la dissolution de l’Association.
+En cas d'absence prolongée (d'une durée d'un mois) ou de démission d'un membre du Bureau, celui-ci est remplacé par cooptation. Les nominations par cooptation doivent être validées par la prochaine Assemblée Générale pour devenir effectives. Tout administrateur ainsi désigné termine son mandat à la fin du mandat de l'administrateur qu'il remplace.
+
+En cas d'absence prolongée (d'une durée d'un mois) ou de démission de tous les administrateurs, une Assemblée Générale est convoquée avec comme seul point à l'ordre du jour l'élection d'un nouveau Bureau ou la dissolution de l'Association.
 
 Les postes du Bureau sont très prenants. Chaque membre du Bureau doit être le plus disponible possible et à l’écoute de tous les membres.
 Le responsable d’un pôle est un leader permettant l’épanouissement de son équipe au sein du Fablab.
