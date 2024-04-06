@@ -86,6 +86,7 @@ L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
 - le Bureau propose des Membres Annuels auquels attribuer le statut et le soumet aux Membres d'Honneur.
 - Les Membres d'Honneur votent à la majorité relative la proposition de chaque nouveau Membre d'Honneur, avec un minimum de 3 votants.
 - Les propositions ainsi validées sont ensuite votées en Assemblée Générale où la majorité relative décide de l'attribution du statut.
+- Les membres se voyant décerné le statut de Membre d'Honneur disposent d'un délai d'une semaine pour l'accepter ou le refuser individuellement. Passé ce délai, le statut de Membre d'Honneur sera considéré comme accepté. En cas de refus, la remise du statut pourra être remise à un prochain vote.
 
 Le nombre d'attributions du statut de Membre d’Honneur de l’association est limité à 4 étudiants par année scolaire (de septembre à août).
 
