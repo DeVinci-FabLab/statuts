@@ -46,6 +46,8 @@ Les ressources de l’Association comprennent :
 
 ### Section 1.7 : Règlement Intérieur
 
+L'Association se dote d'un Règlement Intérieur qui fixe les règles de fonctionnement de l'association. Le Règlement Intérieur est annexé aux présents statuts et en fait partie intégrante.
+
 ## Article 2 : Membres
 
 L’Association comprend les qualités de membres suivantes:
