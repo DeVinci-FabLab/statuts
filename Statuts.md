@@ -257,7 +257,7 @@ Une Assemblée Générale est compétente de :
 
 L'Assemblé Générale Ordinaire doit se réunir une fois par an pour le renouvellement des mandats du Bureau, c'est à dire l'élection nécessairement entière d'un Bureau.
 
-Le Comité de Direction ouvre l'Assemblée Générale Ordinaire en exposant la situation morale de l’Association ainsi qu'un bilan fiancier et humain.
+Le Comité de Direction ouvre l'Assemblée Générale Ordinaire en exposant la situation morale de l’Association avec les bilans financier, d'activité et humain.
 
 L'Assemblée procède ensuite à l'élection du Bureau, présidée par la Présidence sortante.
 
