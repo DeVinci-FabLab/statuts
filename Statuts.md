@@ -227,7 +227,7 @@ En outre, le Bureau est chargé de porter à la connaissance de la préfecture, 
 
 Le Bureau désigne les comités de direction et de gestion de l'Association.
 
-## Article 5 : Assemblée Générale
+## Article 4 : Assemblée Générale
 
 L’Assemblée Générale (ou AG) convoque tous les Membres Annuels à jour de leur cotisation.
 Ils sont convoqués par au moins deux de ces moyens de communication :
@@ -255,11 +255,11 @@ Une Assemblée Générale est compétente de :
 
 ### Section 5.1 : Assemblée Générale Ordinaire
 
-L'Assemblé Générale Ordinaire doit se réunir une fois par an pour le renouvellement des mandats du Bureau, c'est à dire l'élection nécessairement entière d'un Bureau.
+L'Assemblé Générale Ordinaire doit se réunir régulièrement soit pour informer les membres de l'association soit pour le renouvellement des mandats du Bureau, c'est à dire l'élection nécessairement entière d'un Bureau.
 
-Le Comité de Direction ouvre l'Assemblée Générale Ordinaire en exposant la situation morale de l’Association ainsi qu'un bilan fiancier et humain.
+Le Comité de Direction ouvre l'Assemblée Générale Ordinaire en exposant la situation morale de l’Association avec les bilans financier, d'activité et humain.
 
-L'Assemblée procède ensuite à l'élection du Bureau, présidée par la Présidence sortante.
+Dans le cas d'une Assemblée Générale Ordinaire dont l'objectif est la passation du Bureau, elle doit ensuite procéder à l'élection du Bureau, présidée par la Présidence sortante.
 
 ### Section 5.2 : Assemblée Générale Extraordinaire
 
