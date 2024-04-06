@@ -113,33 +113,31 @@ Les membres annuels sont les personnes physiques dont l’acte de candidature a 
 
 La qualité de Membre Annuel est valable pour une période d’une année scolaire, débutant le 1er septembre et finissant le 31 août. Passé cette période, pour continuer de jouir de cette qualité, la personne physique doit se réinscrire, en faisant part de sa volonté de réinscription auprès du Bureau, durant les 2 derniers mois de l'année scolaire.
 
-Dans le cas contraire, ces derniers perdent leur qualité de Membre Annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
+Dans le cas contraire, ces derniers perdent leur qualité de membre annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
 
-Le Bureau se réserve le droit de conditionner la réinscription d'un Membre Annuel au processus d'admission classique avec l'entretien d'admission remplacé par un entretien de motivation.
+Le Bureau se réserve le droit de conditionner la réinscription d'un membre annuel au processus d'admission classique avec l'entretien d'admission remplacé par un entretien de motivation.
 
 #### Sous-Section 2.4.2 : Admission
 
-Le processus d'admission dans l'Association en tant que Membre Annuel est le suivant :
+Le processus d'admission dans l'Association en tant que membre annuel est le suivant :
 
-1. Entretien face à deux Membres Annuels minimum, dont un membre du Bureau minimum.
-2. Délibération du Comité de Direction avec l'aide du Bureau, à la suite de laquelle le candidat ou la candidate reçois une notice d'admission ou de refus.
-3. En cas d'admission, le candidat ou la candidate signe le Règlement Intérieur et paye sa cotisation dans les délais impartits.
-4. Le candidat ou la candidate est admis ou admise en tant que Membre Annuel de l'Association.
+1. Entretien face à deux membres minimum, dont un membre du Bureau.
+2. Délibération du Bureau, à la suite duquel le candidat reçoit une notice d'admission ou de refus.
+3. En cas d'admission, le candidat signe le Règlement Intérieur et s'acquitte de la cotisation dans les délais définis par ce dernier.
+4. Le candidat est admis en tant que membre annuel de l'Association.
 
-La notice d'admission ou de refus doit se faire à minima via un courriel.
-
-Le Comité de Direction se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander un remboursement de sa cotisation s'il a déjà payé celle-ci.
+Le Comité de Direction se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander par courriel un remboursement de sa cotisation s'il s'en ai déjà acquitté.
 
 ### Section 2.5 : Perte de la qualité de membre
 
 La qualité de membre peut être perdue suite :
 
-- à une démission notifiée par écrit,
-- au décès physique de la personne,
-- à une radiation prononcée par le Bureau,
-- au non-paiement de la cotisation,
-- au non respect du Règlement Intérieur de l'Association,
-- à une atteinte négative à l’Association ou son image,
+- à une démission notifiée par écrit ;
+- à une radiation prononcée par le Bureau ;
+- au non-paiement de la cotisation ;
+- au non-respect du Règlement Intérieur de l'Association ;
+- à une atteinte négative à l’Association ou à son image ;
+- au décès physique de la personne ;
 - à tout autre motif grave (ie. le non respect de la charte de l’Association LDV).
 
 La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
