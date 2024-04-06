@@ -227,7 +227,7 @@ En outre, le Bureau est chargé de porter à la connaissance de la préfecture, 
 
 Le Bureau désigne les comités de direction et de gestion de l'Association.
 
-## Article 5 : Assemblée Générale
+## Article 4 : Assemblée Générale
 
 L’Assemblée Générale (ou AG) convoque tous les Membres Annuels à jour de leur cotisation.
 Ils sont convoqués par au moins deux de ces moyens de communication :
