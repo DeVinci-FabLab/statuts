@@ -48,7 +48,7 @@ Les ressources de l’Association comprennent :
 
 L'Association se dote d'un Règlement Intérieur qui fixe les règles de fonctionnement de l'association. Le Règlement Intérieur est annexé aux présents statuts et en fait partie intégrante.
 
-Le Règlement Intérieur peut être modifié par l'Assemblée Générale sur proposition du Comité de Direction comme définit dans l'[Article 5](#article-5--assemblée-générale).
+Le Règlement Intérieur peut être modifié par l'Assemblée Générale sur proposition du Comité de Direction comme définit dans l'[Article 4](#article-4--assemblée-générale).
 
 Il doit figurer dans le Règlement Intérieur :
 
@@ -151,13 +151,15 @@ Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, a
 
 Le Comité de Direction est constitué de la Présidence, du Secrétariat et de la Trésorerie de l’Association.
 
+À l'exception du Président, tout poste du Comité de Direction peut être occupé par un ou plusieurs Co-Responsables, élus en Assemblée Générale.
+
 #### Sous-Section 3.2.1 : Présidence
 
-La Présidence de l'Association du DeVinci Fablab est constituée d'un président et d'un ou de plusieurs vice-présidents.
+La Présidence de l'Association du DeVinci Fablab est constituée du Président et éventuellement de Vice-Présidents.
 
-Le président agit en qualité de représentant de l'Association et préside toutes les Assemblées Générales. Il détient l'ensemble des pouvoirs de direction et de gestion de l’Association.
+Le Président agit en qualité de représentant de l'Association et préside toutes les Assemblées Générales. Il détient l'ensemble des pouvoirs de direction et de gestion de l’Association.
 
-Les vice-présidents assistent le président dans l'exercice de ses fonctions.
+Les Vice-Présidents assistent le président dans l'exercice de ses fonctions.
 
 La Présidence est habilitée à prendre des décisions concernant l'engagement des actions en justice et à représenter l’Association dans toutes procédures judiciaires, tant en qualité de demandeur que de défendeur. Elle dispose du pouvoir de recourir à toutes voies de recours ordinaires et extraordinaires, y compris la possibilité de former des appels. De plus, elle a le droit de conclure des transactions.
 
