@@ -204,7 +204,7 @@ Les rôles spécifiques au sein du Comité de Gestion ne sont pas énumérés da
 
 ### Section 3.4 : Comité de Soutien
 
-Le Comité de Soutien, constitué de membres de l'Association, qu'ils soient ou non membres du Bureau, vise à apporter un soutien à la gestion de l'Association. Cette structure complémentaire au Bureau est chargée de soutenir ses activités et de répondre à des besoins spécifiques. Les membres du Comité de Soutien peuvent être sollicités par le Bureau pour des missions ponctuelles ou régulières.
+Le Comité de Soutien, constitué de membres de l'Association, vise à apporter un soutien à la gestion de l'Association. Cette structure complémentaire au Bureau est chargée de soutenir ses activités et de répondre à des besoins spécifiques. Les membres du Comité de Soutien peuvent être sollicités par le Bureau pour des missions ponctuelles ou régulières.
 
 Les membres du Comité de Soutien sont désignés initialement par le Bureau lors d'une Assemblée Générale, sans nécessiter de vote. Par la suite, tout changement de membre au sein du Comité de Soutien n'exige pas de validation lors d'une Assemblée Générale.
 
@@ -228,10 +228,10 @@ Le Bureau administre l’Association conformément à son objet.
 
 Parmi les pouvoirs du Bureau figurent notamment :
 
-- la convocation des Assemblées Générales et la fixation de l’ordre du jour ;
+- la convocation d'Assemblée Générale et la fixation de l’ordre du jour ;
 - l’agrément ou la radiation des membres de l’Association ;
 - la détermination de la stratégie en matière d’investissement matériel et immatériel ;
-- la fixation du montant de la cotisation annuelle pour les membres actifs et du droit d’entrée pour les membres bienfaiteurs ;
+- la fixation du montant de la cotisation annuelle pour les membres annuels ;
 - la proposition de dissolution de l’Association.
 
 En outre, le Bureau est chargé de porter à la connaissance de la préfecture, dans les délais réglementaires, tout changement survenu dans l’administration ou la direction de l’Association et de présenter les registres et pièces de comptabilité sur réquisition des autorités compétentes.
