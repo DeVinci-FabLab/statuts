@@ -85,7 +85,7 @@ Les conditions s'appliquant à l'attribution du statut de Membre Émérite s'app
 
 L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
 
-- le Bureau propose des Membres Annuels auquels attribuer le statut et le soumet aux Membres d'Honneur.
+- le Bureau propose des membres annuels auquels attribuer le statut et le soumet aux Membres d'Honneur.
 - Les Membres d'Honneur votent à la majorité relative la proposition de chaque nouveau Membre d'Honneur, avec un minimum de 3 votants.
 - Les propositions ainsi validées sont ensuite votées en Assemblée Générale où la majorité relative décide de l'attribution du statut.
 - Les membres se voyant décerné le statut de Membre d'Honneur disposent d'un délai d'une semaine pour l'accepter ou le refuser individuellement. Passé ce délai, le statut de Membre d'Honneur sera considéré comme accepté. En cas de refus, la remise du statut pourra être faite à un prochain vote.
@@ -111,7 +111,7 @@ Les Membres Émérites sont Membres à Vie de l’association. Le statut de Memb
 
 Les membres annuels sont les personnes physiques dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien, qui se sont acquittés de la cotisation annuelle et ayant signé le Règlement Intérieur.
 
-La qualité de Membre Annuel est valable pour une période d’une année scolaire, débutant le 1er septembre et finissant le 31 août. Passé cette période, pour continuer de jouir de cette qualité, la personne physique doit se réinscrire, en faisant part de sa volonté de réinscription auprès du Bureau, durant les 2 derniers mois de l'année scolaire.
+La qualité de membre annuel est valable pour une période d’une année scolaire, débutant le 1er septembre et finissant le 31 août. Passé cette période, pour continuer de jouir de cette qualité, la personne physique doit se réinscrire, en faisant part de sa volonté de réinscription auprès du Bureau, durant les 2 derniers mois de l'année scolaire.
 
 Dans le cas contraire, ces derniers perdent leur qualité de membre annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
 
