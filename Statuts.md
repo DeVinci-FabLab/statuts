@@ -85,7 +85,7 @@ Les conditions s'appliquant à l'attribution du statut de Membre Émérite s'app
 
 L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
 
-- le Bureau propose des membres annuels auquels attribuer le statut et le soumet aux Membres d'Honneur.
+- le Bureau propose des membres annuels auxquels attribuer le statut et le soumet aux Membres d'Honneur.
 - Les Membres d'Honneur votent à la majorité relative la proposition de chaque nouveau Membre d'Honneur, avec un minimum de 3 votants.
 - Les propositions ainsi validées sont ensuite votées en Assemblée Générale où la majorité relative décide de l'attribution du statut.
 - Les membres se voyant décerné le statut de Membre d'Honneur disposent d'un délai d'une semaine pour l'accepter ou le refuser individuellement. Passé ce délai, le statut de Membre d'Honneur sera considéré comme accepté. En cas de refus, la remise du statut pourra être faite à un prochain vote.
@@ -93,7 +93,7 @@ L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
 Le nombre d'attributions du statut de Membre d’Honneur de l’association est limité à 4 étudiants par année scolaire (de septembre à août).
 
 Les Membres d’Honneur sont Membres à Vie de l’association.
-La qualité de Membre d'Honneur n'est pas cummulable avec celle de membre annuel, de ce fait un membre se voyant décerné la qualité de Membre d'Honneur perd celle de membre annuel.
+La qualité de Membre d'Honneur n'est pas cumulable avec celle de membre annuel, de ce fait un membre se voyant décerné la qualité de Membre d'Honneur perd celle de membre annuel.
 
 ### Section 2.3 : Membres Émérites
 
@@ -103,7 +103,7 @@ Elle est décernée aux personnes physiques qui ont rendu des services éminents
 
 Cette qualité ne peut être attribué qu'à un membre annuel faisant partie de l'association depuis plus d'un an révolu.
 
-Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cummulable avec la qualité de membre annuel et de Membre d'Honneur.
+Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cumulable avec la qualité de membre annuel et de Membre d'Honneur.
 
 ### Section 2.4 : Membres annuels
 
@@ -194,7 +194,7 @@ Ces responsabilités englobent principalement la gestion des correspondances par
 
 ### Section 3.3 : Comité de Gestion
 
-Le Comité de Gestion est constitué de Responsables de pôles. Les Reponsables sont des postes de gestion, définit par le Comité de Direction, à pourvoir lors d'une Assemblée Générale.
+Le Comité de Gestion est constitué de Responsables de pôles. Les Responsables sont des postes de gestion, définit par le Comité de Direction, à pourvoir lors d'une Assemblée Générale.
 
 Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en Assemblée Générale.
 
