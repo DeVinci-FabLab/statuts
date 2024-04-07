@@ -29,9 +29,9 @@ La durée de l’Association est illimitée.
 
 ### Section 1.5 : Dissolution
 
-La dissolution est prononcée par l’Assemblée Générale Extraordinaire, définit dans l'[article 5.2](#section-52--assemblée-générale-extraordinaire), qui nomme un liquidateur. L’actif sera dévolu conformément à l’article 9 de la loi 1er juillet 1901 à une association poursuivant un but identique.
+La dissolution est prononcée par l’Assemblée Générale Extraordinaire, définit dans l'[Article 5.2](#section-52--assemblée-générale-extraordinaire), qui nomme un liquidateur. L’actif sera dévolu conformément à l’article 9 de la loi 1er juillet 1901 à une association poursuivant un but identique.
 
-Pour la dissolution de l’Association, les membres fondateurs définis dans l’[article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préavis. À défaut, par courriel ou tout autre moyen de contact. La dissolution de l’Association doit être présentée et justifiée aux membres fondateurs.
+Pour la dissolution de l’Association, les membres fondateurs définis dans l’[Article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préavis. À défaut, par courriel ou tout autre moyen de contact. La dissolution de l’Association doit être présentée et justifiée aux membres fondateurs.
 
 Si l’unanimité des membres fondateurs juge la dissolution de l’Association irresponsable, ils se réservent le droit d’intervenir pour assurer la passation de l’Association à un nouveau Bureau.
 Si un membre fondateur s’oppose, l’Association n’est pas dissolue.
@@ -113,7 +113,7 @@ Les membres annuels sont les personnes physiques dont l’acte de candidature a 
 
 La qualité de membre annuel est valable pour une période d’une année scolaire, débutant le 1er septembre et finissant le 31 août. Passé cette période, pour continuer de jouir de cette qualité, la personne physique doit se réinscrire, en faisant part de sa volonté de réinscription auprès du Bureau, durant les 2 derniers mois de l'année scolaire.
 
-Dans le cas contraire, ces derniers perdent leur qualité de membre annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
+Dans le cas contraire, ces derniers perdent leur qualité de membre annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [Article 2.4.2](#sous-section-242--admission).
 
 Le Bureau se réserve le droit de conditionner la réinscription d'un membre annuel au processus d'admission classique avec l'entretien d'admission remplacé par un entretien de motivation.
 
