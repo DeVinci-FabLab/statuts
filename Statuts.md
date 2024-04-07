@@ -276,7 +276,7 @@ Dans le cas d'une Assemblée Générale Ordinaire dont l'objectif est la passati
 
 ### Section 5.2 : Assemblée Générale Extraordinaire
 
-L'Assemblée Générale Extraordinaire est une Assemblée Générale convoquées par le Comité de Direction.
+L'Assemblée Générale Extraordinaire est une Assemblée Générale convoquée par le Comité de Direction.
 
 L'Assemblée Générale Extraordinaire est seule compétente de :
 
