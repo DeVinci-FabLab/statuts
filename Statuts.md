@@ -29,9 +29,9 @@ La durée de l’Association est illimitée.
 
 ### Section 1.5 : Dissolution
 
-La dissolution est prononcée par l’Assemblée Générale Extraordinaire, définit dans l'[article 5.2](#section-52--assemblée-générale-extraordinaire), qui nomme un liquidateur. L’actif sera dévolu conformément à l’article 9 de la loi 1er juillet 1901 à une association poursuivant un but identique.
+La dissolution est prononcée par l’Assemblée Générale Extraordinaire, définit dans l'[Article 5.2](#section-52--assemblée-générale-extraordinaire), qui nomme un liquidateur. L’actif sera dévolu conformément à l’article 9 de la loi 1er juillet 1901 à une association poursuivant un but identique.
 
-Pour la dissolution de l’Association, les membres fondateurs définis dans l’[article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préavis. À défaut, par courriel ou tout autre moyen de contact. La dissolution de l’Association doit être présentée et justifiée aux membres fondateurs.
+Pour la dissolution de l’Association, les membres fondateurs définis dans l’[Article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préavis. À défaut, par courriel ou tout autre moyen de contact. La dissolution de l’Association doit être présentée et justifiée aux membres fondateurs.
 
 Si l’unanimité des membres fondateurs juge la dissolution de l’Association irresponsable, ils se réservent le droit d’intervenir pour assurer la passation de l’Association à un nouveau Bureau.
 Si un membre fondateur s’oppose, l’Association n’est pas dissolue.
@@ -85,7 +85,7 @@ Les conditions s'appliquant à l'attribution du statut de Membre Émérite s'app
 
 L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
 
-- le Bureau propose des Membres Annuels auquels attribuer le statut et le soumet aux Membres d'Honneur.
+- le Bureau propose des membres annuels auxquels attribuer le statut et le soumet aux Membres d'Honneur.
 - Les Membres d'Honneur votent à la majorité relative la proposition de chaque nouveau Membre d'Honneur, avec un minimum de 3 votants.
 - Les propositions ainsi validées sont ensuite votées en Assemblée Générale où la majorité relative décide de l'attribution du statut.
 - Les membres se voyant décerné le statut de Membre d'Honneur disposent d'un délai d'une semaine pour l'accepter ou le refuser individuellement. Passé ce délai, le statut de Membre d'Honneur sera considéré comme accepté. En cas de refus, la remise du statut pourra être faite à un prochain vote.
@@ -93,7 +93,7 @@ L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
 Le nombre d'attributions du statut de Membre d’Honneur de l’association est limité à 4 étudiants par année scolaire (de septembre à août).
 
 Les Membres d’Honneur sont Membres à Vie de l’association.
-La qualité de Membre d'Honneur n'est pas cummulable avec celle de membre annuel, de ce fait un membre se voyant décerné la qualité de Membre d'Honneur perd celle de membre annuel.
+La qualité de Membre d'Honneur n'est pas cumulable avec celle de membre annuel, de ce fait un membre se voyant décerné la qualité de Membre d'Honneur perd celle de membre annuel.
 
 ### Section 2.3 : Membres Émérites
 
@@ -103,7 +103,7 @@ Elle est décernée aux personnes physiques qui ont rendu des services éminents
 
 Cette qualité ne peut être attribué qu'à un membre annuel faisant partie de l'association depuis plus d'un an révolu.
 
-Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cummulable avec la qualité de membre annuel et de Membre d'Honneur.
+Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cumulable avec la qualité de membre annuel et de Membre d'Honneur.
 
 ### Section 2.4 : Membres annuels
 
@@ -111,9 +111,9 @@ Les Membres Émérites sont Membres à Vie de l’association. Le statut de Memb
 
 Les membres annuels sont les personnes physiques dont l’acte de candidature a été agréé par le Bureau à la suite d’un entretien, qui se sont acquittés de la cotisation annuelle et ayant signé le Règlement Intérieur.
 
-La qualité de Membre Annuel est valable pour une période d’une année scolaire, débutant le 1er septembre et finissant le 31 août. Passé cette période, pour continuer de jouir de cette qualité, la personne physique doit se réinscrire, en faisant part de sa volonté de réinscription auprès du Bureau, durant les 2 derniers mois de l'année scolaire.
+La qualité de membre annuel est valable pour une période d’une année scolaire, débutant le 1er septembre et finissant le 31 août. Passé cette période, pour continuer de jouir de cette qualité, la personne physique doit se réinscrire, en faisant part de sa volonté de réinscription auprès du Bureau, durant les 2 derniers mois de l'année scolaire.
 
-Dans le cas contraire, ces derniers perdent leur qualité de membre annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [sous-section 2.4.2](#sous-section-242--admission).
+Dans le cas contraire, ces derniers perdent leur qualité de membre annuel et ne peuvent la regagner qu'en passant par le processus d'admission classique décrit en [Article 2.4.2](#sous-section-242--admission).
 
 Le Bureau se réserve le droit de conditionner la réinscription d'un membre annuel au processus d'admission classique avec l'entretien d'admission remplacé par un entretien de motivation.
 
@@ -144,9 +144,9 @@ La perte de la qualité de membre n’entraîne aucun droit au remboursement des
 
 ### Section 2.6 : Persona non grata
 
-La présidence se réserve le droit d’attribuer le statut de Persona non grata à un membre sans explication ni justification et sans préavis.
+La présidence se réserve le droit d’attribuer le statut de persona non grata à un membre sans explication ni justification et sans préavis.
 
-Un membre se voyant attribué le statut de Persona Non Grata est immédiatement exclu de l'Association, perd sa qualité de membre et ne peut plus participer à aucunes des activités de l'Association.
+Un membre se voyant attribué le statut de persona non grata est immédiatement exclu de l'Association, perd sa qualité de membre et ne peut plus participer à aucunes des activités de l'Association.
 
 ## Article 3 : Comités
 
@@ -188,13 +188,13 @@ Il est chargé de vérifier l'exactitude de la comptabilité de toutes les opér
 
 #### Sous-Section 3.2.3 : Secrétariat
 
-Le Secrétaire Général de l'Association assistent la Présidence dans les tâches juridiques et administratives de l'Association.
+Le Secrétaire Général de l'Association assiste la Présidence dans les tâches juridiques et administratives de l'Association.
 
 Ces responsabilités englobent principalement la gestion des correspondances par courrier et par courriel de l’Association. Le Secrétaire Général est également chargé de la préparation des convocations et des comptes-rendus de réunions, ainsi que de la tenue à jour des divers registres et archives de l'Association.
 
 ### Section 3.3 : Comité de Gestion
 
-Le Comité de Gestion est constitué de Responsables de pôles. Les Reponsables sont des postes de gestion, définit par le Comité de Direction, à pourvoir lors d'une Assemblée Générale.
+Le Comité de Gestion est constitué de Responsables de pôles. Les Responsables sont des postes de gestion, définit par le Comité de Direction, à pourvoir lors d'une Assemblée Générale.
 
 Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en Assemblée Générale.
 
@@ -276,7 +276,7 @@ Dans le cas d'une Assemblée Générale Ordinaire dont l'objectif est la passati
 
 ### Section 5.2 : Assemblée Générale Extraordinaire
 
-L'Assemblée Générale Extraordinaire est une Assemblée Générale convoquées par le Comité de Direction.
+L'Assemblée Générale Extraordinaire est une Assemblée Générale convoquée par le Comité de Direction.
 
 L'Assemblée Générale Extraordinaire est seule compétente de :
 
