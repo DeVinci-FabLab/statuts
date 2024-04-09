@@ -123,7 +123,7 @@ Le Bureau se réserve le droit de conditionner la réinscription d'un membre ann
 
 Le processus d'admission dans l'Association en tant que membre annuel est le suivant :
 
-1. Entretien face à minimum deux membres, dont un membre du Bureau.
+1. Entretien face à minimum deux membres, de préférence du Bureau.
 2. Délibération du Bureau, à la suite duquel le candidat reçoit une notice d'admission ou de refus.
 3. En cas d'admission, le candidat signe le Règlement Intérieur et s'acquitte de la cotisation dans les délais définis par ce dernier.
 4. Le candidat est admis en tant que membre annuel de l'Association.
