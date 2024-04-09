@@ -70,6 +70,8 @@ L’Association comprend les qualités de membres suivantes:
 - Membres Émérites ;
 - Membres annuels.
 
+Tous les membres ont pour devoir de venir en Assemblée Générale où ils peuvent exercer leur droit de vote.
+
 ### Section 2.1 : Membres fondateurs
 
 Les membres fondateurs sont les personnes ayant constitué l’Association en 2015, à savoir : Angéline BESLAND (Présidente), Gaël NAIME (Trésorier) et Dany NARCISSE (Secrétaire Général).
