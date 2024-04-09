@@ -194,7 +194,7 @@ Il est chargé de vérifier l'exactitude de la comptabilité de toutes les opér
 
 Le Secrétaire Général de l'Association assiste la Présidence dans les tâches juridiques et administratives de l'Association.
 
-Ces responsabilités englobent principalement la gestion des correspondances par courrier et par courriel de l’Association. Le Secrétaire Général est également chargé de la préparation des convocations et des comptes-rendus de réunions, ainsi que de la tenue à jour des divers registres et archives de l'Association.
+Ses responsabilités englobent principalement la gestion des correspondances par courrier et par courriel de l’Association. Le Secrétaire Général est également chargé de la préparation des convocations et des comptes-rendus de réunions, ainsi que de la tenue à jour des divers registres et archives de l'Association.
 
 ### Section 3.3 : Comité de Gestion
 
