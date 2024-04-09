@@ -9,9 +9,9 @@ Il est donné, entre les adhérents aux présents statuts, une association régi
 ### Section 1.2 : Objet
 
 Le but premier de l'Association est la gestion des ressources humaines et matérielles du fablab du Pôle Universitaire Léonard de Vinci (ci-après nommé "PULV").
-L’Association met à disposition l'infrastructure et le matériel nécessaires aux étudiants, personnel du PULV ou personnes autorisées par l’Association afin de réaliser leurs projets académiques, personnels ou bien professionnels.
-L’Association offre des formations à l’utilisation de ces ressources à ses membres, sans distinction.
-L’Association organise des événements, tel que des séminaires, workshops ou hackathons. L'Association est également amenée à collaborer avec des entreprises, des associations, des écoles et des universités pour des projets communs et des prestations de service.
+L'Association met à disposition l'infrastructure et le matériel nécessaires aux étudiants, au personnel du PULV ou aux personnes autorisées par l'Association afin de réaliser leurs projets académiques, personnels ou professionnels.
+L'Association offre des formations à l'utilisation de ces ressources à ses membres, sans distinction.
+L'Association organise des événements, tels que des séminaires, workshops ou hackathons. L'Association est également amenée à collaborer avec des entreprises, des associations, des écoles et des universités pour des projets communs et des prestations de service.
 
 ### Section 1.3 : Siège Social
 
