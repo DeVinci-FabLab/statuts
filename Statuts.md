@@ -228,7 +228,7 @@ En cas d'absence prolongée (d'une durée d'un mois) ou de démission de tous le
 
 ### Sous-section 3.5.2 : Pouvoirs du Bureau
 
-Le Bureau administre l’Association conformément à son objet.
+Le Bureau administre l'Association conformément à son objet.
 
 Parmi les pouvoirs du Bureau figurent notamment :
 
@@ -253,7 +253,7 @@ Ils sont convoqués par au moins deux de ces moyens de communication :
 - bulletin d’information.
 
 Le délai de convocation à l’Assemblée Générale est fixé à une semaine avant celle-ci.
-La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le Bureau.
+La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, défini préalablement par le Bureau.
 Le quorum de l'Assemblée Générale est fixé à 30% des membres ayant le droit de vote. Les membres présents physiquement ainsi que les membres représentés par procuration sont pris en compte pour le calcul du quorum.
 
 Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents physiquement ou représentés.
