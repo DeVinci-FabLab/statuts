@@ -103,6 +103,8 @@ Cette qualité ne peut être attribué qu'à un membre annuel faisant partie de 
 
 Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cumulable avec la qualité de membre annuel et de Membre d'Honneur.
 
+Le statut de Membre Alumni qui était mentionné dans les précédents statuts est renommé Membre Émérite. Cette modification n'affecte en aucun cas les droits et obligations attachés à ce statut, qui demeurent inchangés.
+
 ### Section 2.4 : Membres annuels
 
 #### Sous-Section 2.4.1 : Définition
