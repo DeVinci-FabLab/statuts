@@ -103,9 +103,9 @@ La qualité de Membre Émérite est décernée en Assemblée Générale, sans vo
 
 Les Membres Émérites sont nommés en reconnaissance de leur contribution remarquable et investissement régulier dans la vie de l'Association. Du fait de leur implication dans l'Association, ils pourront être invités à participer à divers événements de la vie de l'Association même après le terme de leurs études.
 
-Cette qualité ne peut être attribué qu'à un membre annuel faisant partie de l'association depuis plus d'un an révolu.
+Cette qualité ne peut être attribuée qu'à un membre annuel faisant partie de l'Association depuis plus d'un an révolu.
 
-Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cumulable avec la qualité de membre annuel et de Membre d'Honneur.
+Les Membres Émérites sont Membres à Vie de l’Association. Le statut de Membre Émérite est cumulable avec la qualité de membre annuel et de Membre d'Honneur.
 
 Le statut de Membre Alumni qui était mentionné dans les précédents statuts est renommé Membre Émérite.
 
