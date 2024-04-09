@@ -83,18 +83,18 @@ Les membres fondateurs sont des membres à vie de l'Association.
 
 La qualité de Membre d'Honneur est décernée en Assemblée Générale.
 
-Les Membres d'Honneur sont des personnes qui ont rendu des services exceptionnels à l'association en raison de leur engagement, de leur dévouement et de leur contribution significative à la réalisation de ses objectifs. Du fait de leur importante implication dans l'Association, ils pourront être invités à participer à divers événements de la vie de l'Association même après le terme de leurs études.
+Les Membres d'Honneur sont des personnes qui ont rendu des services exceptionnels à l'Association en raison de leur engagement, de leur dévouement et de leur contribution significative à la réalisation de ses objectifs. Du fait de leur importante implication dans l'Association, ils pourront être invités à participer à divers événements de la vie de l'Association même après le terme de leurs études.
 
 Les conditions s'appliquant à l'attribution du statut de Membre Émérite s'appliquent aussi à l'attribution du statut de Membre d'Honneur.
 
 L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
 
-- le Bureau propose des membres annuels auxquels attribuer le statut et les soumets en Assemblée Générale où la majorité relative décide de l'attribution du statut.
+- Le Bureau propose des membres annuels auxquels attribuer le statut et les soumet en Assemblée Générale où la majorité relative décide de l'attribution du statut.
 - Les membres se voyant décerné le statut de Membre d'Honneur disposent d'un délai d'une semaine pour l'accepter ou le refuser individuellement. Passé ce délai, le statut de Membre d'Honneur sera considéré comme accepté. En cas de refus, la remise du statut pourra être faite à un prochain vote.
 
-Le nombre d'attributions du statut de Membre d’Honneur de l’association est limité à 4 étudiants par année scolaire. L'année scolaire est définie dans l'[Article 2.4.1](#sous-section-241--définition).
+Le nombre d'attributions du statut de Membre d’Honneur de l’Association est limité à 4 étudiants par année scolaire. L'année scolaire est définie dans l'[Article 2.4.1](#sous-section-241--définition).
 
-Les Membres d’Honneur sont Membres à Vie de l’association.
+Les Membres d’Honneur sont Membres à Vie de l’Association.
 La qualité de Membre d'Honneur n'est pas cumulable avec celle de membre annuel, de ce fait un membre se voyant décerné la qualité de Membre d'Honneur perd celle de membre annuel.
 
 ### Section 2.3 : Membres Émérites
@@ -162,7 +162,7 @@ Le Comité de Contrôle a le pouvoir unanime de décider de sa dissolution. En c
 
 Les membres du Comité de Contrôle possèdent le droit de veto sur les décisions relatives à la dissolution de l'Association, à la modification de ses statuts et à toute résolution soumise lors des Assemblées Générales. Ainsi, toute proposition devant être soumise à une Assemblée Générale doit être préalablement présentée au Comité de Contrôle par le Bureau, au moins 2 semaines avant ladite Assemblée Générale. En l'absence de veto de la part des membres du Comité de Contrôle, les propositions peuvent être soumises à l'Assemblée Générale. Une fois présentée en Assemblée Générale, une proposition échappe au pouvoir de veto du Comité de Contrôle.
 
-Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, avec la possibilité d'effectuer deux mandats. La décision de reconduction d'un mandat est prise par le Comité de Contrôle selon les modalités définies dans ses règles internes. Cette règle est rétroactive et s'applique aux mandats en cours. Un membre ayant déjà effectué deux mandats, consécutifs ou non, ne peut pas se représenter. Ce délai assure une rotation régulière des membres et garantit une stabilité dans la supervision des activités de l'Association.j
+Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, avec la possibilité d'effectuer deux mandats. La décision de reconduction d'un mandat est prise par le Comité de Contrôle selon les modalités définies dans ses règles internes. Cette règle est rétroactive et s'applique aux mandats en cours. Un membre ayant déjà effectué deux mandats, consécutifs ou non, ne peut pas se représenter. Ce délai assure une rotation régulière des membres et garantit une stabilité dans la supervision des activités de l'Association.
 
 ### Section 3.2 : Comité de Direction
 
