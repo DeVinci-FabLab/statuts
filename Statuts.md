@@ -198,11 +198,11 @@ Ses responsabilités englobent principalement la gestion des correspondances par
 
 ### Section 3.3 : Comité de Gestion
 
-Le Comité de Gestion est constitué de Responsables de pôles. Les Responsables sont des postes de gestion, définit par le Comité de Direction, à pourvoir lors d'une Assemblée Générale.
+Le Comité de Gestion est constitué de Responsables de pôles. Les Responsables sont des postes de gestion, définis par le Comité de Direction, à pourvoir lors d'une Assemblée Générale.
 
 Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en Assemblée Générale.
 
-La mission d'un Responsable est de mener à bien la gestion du pôle lui ayant été confié.
+La mission d'un Responsable est de mener à bien la gestion du pôle qui lui a été confié.
 
 Les rôles spécifiques au sein du Comité de Gestion ne sont pas énumérés dans les statuts, étant susceptibles d'évoluer d'une année à l'autre.
 
