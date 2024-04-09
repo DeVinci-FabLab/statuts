@@ -255,7 +255,7 @@ La convocation doit informer du lieu et de la date de l'Assemblée Générale ai
 Le quorum de l'Assemblée Générale est fixé à 30% des membres ayant le droit de vote. Les membres présents physiquement ainsi que les membres représentés par procuration sont pris en compte pour le calcul du quorum.
 
 Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents physiquement ou représentés.
-Chaque membre présent détient un vote et peut posséder aux plus deux procurations de vote.
+Chaque membre présent détient un vote et peut posséder au plus deux procurations de vote.
 
 Les procès-verbaux des délibérations de l'Assemblée Générale sont tenus par le Secrétariat et signés par la Présidence.
 
