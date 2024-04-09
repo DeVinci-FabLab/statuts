@@ -101,7 +101,7 @@ La qualité de Membre d'Honneur n'est pas cumulable avec celle de membre annuel,
 
 La qualité de Membre Émérite est décernée en Assemblée Générale, sans vote et sur proposition du Bureau.
 
-Elle est décernée aux personnes physiques qui ont rendu des services éminents à l’association.
+Les Membres Émérites sont nommés en reconnaissance de leur contribution remarquable et investissement régulier dans la vie de l'Association. Du fait de leur implication dans l'Association, ils pourront être invités à participer à divers événements de la vie de l'Association même après le terme de leurs études.
 
 Cette qualité ne peut être attribué qu'à un membre annuel faisant partie de l'association depuis plus d'un an révolu.
 
