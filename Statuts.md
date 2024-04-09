@@ -29,12 +29,12 @@ La durée de l’Association est illimitée.
 
 ### Section 1.5 : Dissolution
 
-La dissolution est prononcée par l’Assemblée Générale Extraordinaire, définit dans l'[Article 5.2](#section-52--assemblée-générale-extraordinaire), qui nomme un liquidateur. L’actif sera dévolu conformément à l’article 9 de la loi 1er juillet 1901 à une association poursuivant un but identique.
+La dissolution est prononcée par l'Assemblée Générale Extraordinaire, définie dans l'[Article 5.2](#section-52--assemblée-générale-extraordinaire), qui nomme un liquidateur. L'actif sera dévolu conformément à l'article 9 de la loi du 1er juillet 1901 à une association poursuivant un but identique.
 
-Pour la dissolution de l’Association, les membres fondateurs définis dans l’[Article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préavis. À défaut, par courriel ou tout autre moyen de contact. La dissolution de l’Association doit être présentée et justifiée aux membres fondateurs.
+Pour la dissolution de l'Association, les membres fondateurs définis dans l’[Article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préalable par courriel ou tout autre moyen de contact. La dissolution de l'Association doit être présentée et justifiée aux membres fondateurs.
 
-Si l’unanimité des membres fondateurs juge la dissolution de l’Association irresponsable, ils se réservent le droit d’intervenir pour assurer la passation de l’Association à un nouveau Bureau.
-Si un membre fondateur s’oppose, l’Association n’est pas dissolue.
+Si l'unanimité des membres fondateurs juge la dissolution de l'Association irresponsable, ils se réservent le droit d'intervenir pour assurer la passation de l'Association à un nouveau Bureau.
+Si un membre fondateur s'oppose à la dissolution, celle-ci n'est pas prononcée.
 
 ### Section 1.6 : Ressources
 
