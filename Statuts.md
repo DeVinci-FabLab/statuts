@@ -123,12 +123,12 @@ Le Bureau se réserve le droit de conditionner la réinscription d'un membre ann
 
 Le processus d'admission dans l'Association en tant que membre annuel est le suivant :
 
-1. Entretien face à deux membres minimum, dont un membre du Bureau.
+1. Entretien face à minimum deux membres, dont un membre du Bureau.
 2. Délibération du Bureau, à la suite duquel le candidat reçoit une notice d'admission ou de refus.
 3. En cas d'admission, le candidat signe le Règlement Intérieur et s'acquitte de la cotisation dans les délais définis par ce dernier.
 4. Le candidat est admis en tant que membre annuel de l'Association.
 
-Le Comité de Direction se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander par courriel un remboursement de sa cotisation s'il s'en ai déjà acquitté.
+Le Comité de Direction se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander par courriel un remboursement de sa cotisation s'il s'en est déjà acquitté.
 
 ### Section 2.5 : Perte de la qualité de membre
 
@@ -142,7 +142,7 @@ La qualité de membre peut être perdue suite :
 - au décès physique de la personne ;
 - à tout autre motif grave.
 
-La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
+La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er juillet 1901.
 
 ### Section 2.6 : Persona non grata
 
@@ -245,7 +245,7 @@ L’Assemblée Générale convoque tous les membres.
 Ils sont convoqués par au moins deux de ces moyens de communication :
 
 - courriel ;
-- annonce sur les canaux internes de l'Association définits dans le Règlement Intérieur ;
+- annonce sur les canaux internes de l'Association définis dans le Règlement Intérieur ;
 - convocation individuelle ;
 - affichage dans les locaux de l’Association ;
 - bulletin d’information.
@@ -255,7 +255,7 @@ La convocation doit informer du lieu et de la date de l'Assemblée Générale ai
 Le quorum de l'Assemblée Générale est fixé à 30% des membres ayant le droit de vote. Les membres présents physiquement ainsi que les membres représentés par procuration sont pris en compte pour le calcul du quorum.
 
 Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents physiquement ou représentés.
-Chaque membre présent détient un vote et peut posséder au plus deux procurations de vote.
+Chaque membre présent détient un vote et peut posséder aux plus deux procurations de vote.
 
 Les procès-verbaux des délibérations de l'Assemblée Générale sont tenus par le Secrétariat et signés par la Présidence.
 
