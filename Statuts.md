@@ -51,14 +51,14 @@ Les ressources de l'Association comprennent :
 
 L'Association se dote d'un Règlement Intérieur qui fixe les règles de fonctionnement de l'association. Ce règlement est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association.
 
-Le Règlement Intérieur peut être modifié par l'Assemblée Générale Ordinaire sur proposition du Comité de Direction comme définit dans l'[Article 4](#article-4--assemblée-générale).
+Le Règlement Intérieur peut être modifié par l'Assemblée Générale Ordinaire sur proposition du Comité de Direction comme défini dans l'[Article 4](#article-4--assemblée-générale).
 
 Il doit figurer dans le Règlement Intérieur :
 
-- Le montant de la cotisation annuelle ;
-- Le délai de payement de la cotisation annuelle ;
-- Le délai de signature du Règlement Intérieur ;
-- Les canaux de communication internes utilisés par l'Association.
+- le montant de la cotisation annuelle ;
+- le délai de paiement de la cotisation annuelle ;
+- le délai de signature du Règlement Intérieur ;
+- les canaux de communication internes utilisés par l'Association.
 
 ## Article 2 : Membres
 
