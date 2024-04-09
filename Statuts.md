@@ -132,7 +132,7 @@ La qualité de membre peut être perdue suite :
 
 - à une démission notifiée par écrit ;
 - à une radiation prononcée par le Bureau ;
-- au non-paiement de la cotisation ;
+- au non-paiement de la cotisation si applicable ;
 - au non-respect du Règlement Intérieur de l'Association ;
 - à une atteinte négative à l’Association ou à son image ;
 - au décès physique de la personne ;
