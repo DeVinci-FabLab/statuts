@@ -58,6 +58,7 @@ Il doit figurer dans le Règlement Intérieur :
 - Le montant de la cotisation annuelle ;
 - Le délai de payement de la cotisation annuelle ;
 - Le délai de signature du Règlement Intérieur ;
+- Les canaux de communication internes utilisés par l'Association ;
 - Le quorum de présence aux Assemblées Générales.
 
 ## Article 2 : Membres
@@ -243,7 +244,7 @@ L’Assemblée Générale convoque tous les membres.
 Ils sont convoqués par au moins deux de ces moyens de communication :
 
 - courriel ;
-- annonce sur les canaux internes de l'Association ;
+- annonce sur les canaux internes de l'Association définits dans le Règlement Intérieur ;
 - convocation individuelle ;
 - affichage dans les locaux de l’Association ;
 - bulletin d’information.
