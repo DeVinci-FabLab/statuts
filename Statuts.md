@@ -250,7 +250,7 @@ Le délai de convocation à l’Assemblée Générale est fixé à une semaine a
 La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le Bureau.
 Le quorum de présence est défini par le Règlement Intérieur.
 
-Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents ou représentés.
+Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents physiquement ou représentés.
 Chaque membre présent détient un vote et peut posséder au plus deux procurations de vote.
 
 Les procès-verbaux des délibérations de l'Assemblée Générale sont tenus par le Secrétariat et signés par la Présidence.
