@@ -150,7 +150,7 @@ La perte de la qualité de membre n’entraîne aucun droit au remboursement des
 
 La présidence se réserve le droit d’attribuer le statut de persona non grata à un membre sans explication ni justification et sans préavis.
 
-Un membre se voyant attribué le statut de persona non grata est immédiatement exclu de l'Association, perd sa qualité de membre et ne peut plus participer à aucunes des activités de l'Association.
+Un membre se voyant attribuer le statut de persona non grata est immédiatement exclu de l'Association, perd sa qualité de membre et ne peut plus participer à aucune des activités de l'Association.
 
 ## Article 3 : Comités
 
