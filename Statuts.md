@@ -58,8 +58,7 @@ Il doit figurer dans le Règlement Intérieur :
 - Le montant de la cotisation annuelle ;
 - Le délai de payement de la cotisation annuelle ;
 - Le délai de signature du Règlement Intérieur ;
-- Les canaux de communication internes utilisés par l'Association ;
-- Le quorum de présence aux Assemblées Générales.
+- Les canaux de communication internes utilisés par l'Association.
 
 ## Article 2 : Membres
 
@@ -253,7 +252,7 @@ Ils sont convoqués par au moins deux de ces moyens de communication :
 
 Le délai de convocation à l’Assemblée Générale est fixé à une semaine avant celle-ci.
 La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le Bureau.
-Le quorum de présence est défini par le Règlement Intérieur.
+Le quorum de l'Assemblée Générale est fixé à 30% des membres ayant le droit de vote. Les membres présents physiquement ainsi que les membres représentés par procuration sont pris en compte pour le calcul du quorum.
 
 Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents physiquement ou représentés.
 Chaque membre présent détient un vote et peut posséder au plus deux procurations de vote.
