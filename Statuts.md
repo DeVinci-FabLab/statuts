@@ -73,11 +73,11 @@ Tous les membres ont pour devoir de venir en Assemblée Générale où ils peuve
 
 ### Section 2.1 : Membres fondateurs
 
-Les membres fondateurs sont les personnes ayant constitué l’Association en 2015, à savoir : Angéline BESLAND (Présidente), Gaël NAIME (Trésorier) et Dany NARCISSE (Secrétaire Général).
+Les membres fondateurs sont les personnes ayant constitué l'Association en 2015, à savoir : Angéline BESLAND (Présidente), Gaël NAIME (Trésorier) et Dany NARCISSE (Secrétaire Général).
 
-Leurs noms figurent ci-dessus dans ces statuts et doivent figurer, dans l’éventualité que cela se produise, sur tous les prochains statuts de l’Association sous le même format.
-Les droits des membres fondateurs incluent tous les droits des Membres d’Honneur et des Membres Émérites a minima.
-Les membres fondateurs sont des membres à vie de l’Association.
+Leurs noms figurent ci-dessus dans ces statuts et doivent figurer, dans l'éventualité où cela se produirait, sur tous les prochains statuts de l'Association sous le même format.
+Les droits des membres fondateurs incluent tous les droits des Membres d'Honneur et des Membres Émérites au minimum.
+Les membres fondateurs sont des membres à vie de l'Association.
 
 ### Section 2.2 : Membres d'Honneur
 
