@@ -212,7 +212,7 @@ Le Comité de Soutien, constitué de membres de l'Association, vise à apporter 
 
 Les membres du Comité de Soutien sont désignés initialement par le Bureau lors d'une Assemblée Générale, sans nécessiter de vote. Par la suite, tout changement de membre au sein du Comité de Soutien n'exige pas de validation lors d'une Assemblée Générale.
 
-Les membres du Comité de Soutien n'ont pas de pouvoir de décision formel au sein de l'Association par rapport au Bureau.
+Les membres du Comité de Soutien n'ont pas de pouvoir de décision formel au sein de l'Association, contrairement au Bureau.
 
 Les rôles spécifiques au sein du Comité de Soutien ne sont pas énumérés dans les statuts, étant susceptibles d'évoluer d'une année à l'autre.
 
