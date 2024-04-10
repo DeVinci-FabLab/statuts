@@ -9,9 +9,9 @@ Il est donné, entre les adhérents aux présents statuts, une association régi
 ### Section 1.2 : Objet
 
 Le but premier de l'Association est la gestion des ressources humaines et matérielles du fablab du Pôle Universitaire Léonard de Vinci (ci-après nommé "PULV").
-L’Association met à disposition l'infrastructure et le matériel nécessaires aux étudiants, personnel du PULV ou personnes autorisées par l’Association afin de réaliser leurs projets académiques, personnels ou bien professionnels.
-L’Association offre des formations à l’utilisation de ces ressources à ses membres, sans distinction.
-L’Association organise des événements, tel que des séminaires, workshops ou hackathons. L'Association est également amenée à collaborer avec des entreprises, des associations, des écoles et des universités pour des projets communs et des prestations de service.
+L'Association met à disposition l'infrastructure et le matériel nécessaires aux étudiants, au personnel du PULV ou aux personnes autorisées par l'Association afin de réaliser leurs projets académiques, personnels ou professionnels.
+L'Association offre des formations à l'utilisation de ces ressources à ses membres, sans distinction.
+L'Association organise des événements, tels que des séminaires, workshops ou hackathons. L'Association est également amenée à collaborer avec des entreprises, des associations, des écoles et des universités pour des projets communs et des prestations de service.
 
 ### Section 1.3 : Siège Social
 
@@ -29,36 +29,36 @@ La durée de l’Association est illimitée.
 
 ### Section 1.5 : Dissolution
 
-La dissolution est prononcée par l’Assemblée Générale Extraordinaire, définit dans l'[Article 5.2](#section-52--assemblée-générale-extraordinaire), qui nomme un liquidateur. L’actif sera dévolu conformément à l’article 9 de la loi 1er juillet 1901 à une association poursuivant un but identique.
+La dissolution est prononcée par l'Assemblée Générale Extraordinaire, définie dans l'[Article 5.2](#section-52--assemblée-générale-extraordinaire), qui nomme un liquidateur. L'actif sera dévolu conformément à l'article 9 de la loi du 1er juillet 1901 à une association poursuivant un but identique.
 
-Pour la dissolution de l’Association, les membres fondateurs définis dans l’[Article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préavis. À défaut, par courriel ou tout autre moyen de contact. La dissolution de l’Association doit être présentée et justifiée aux membres fondateurs.
+Pour la dissolution de l'Association, les membres fondateurs définis dans l’[Article 2.2](#section-21--membres-fondateurs), doivent être prévenus au préalable par courriel ou tout autre moyen de contact. La dissolution de l'Association doit être présentée et justifiée aux membres fondateurs.
 
-Si l’unanimité des membres fondateurs juge la dissolution de l’Association irresponsable, ils se réservent le droit d’intervenir pour assurer la passation de l’Association à un nouveau Bureau.
-Si un membre fondateur s’oppose, l’Association n’est pas dissolue.
+Si l'unanimité des membres fondateurs juge la dissolution de l'Association irresponsable, ils se réservent le droit d'intervenir pour assurer la passation de l'Association à un nouveau Bureau.
+Si un membre fondateur s'oppose à la dissolution, celle-ci n'est pas prononcée.
 
 ### Section 1.6 : Ressources
 
-Les ressources de l’Association comprennent :
+Les ressources de l'Association comprennent :
 
 - le montant des cotisations annuelles ;
-- les subventions de l’état et des collectivités territoriales des établissements publics, des entreprises et de toute autre organisation publique ou privée ;
-- des participations, dons et legs recueillis en conformité avec la réglementation en vigueur ;
-- des produits et ressources exceptionnels ;
-- des produits des rétributions perçues pour les services et les prestations rendues dans l’accomplissement de ses buts,
-- de toutes autres ressources autorisées par la loi.
+- les subventions de l'État et des collectivités territoriales, des établissements publics, des entreprises et de toute autre organisation publique ou privée ;
+- les participations, dons et legs recueillis en conformité avec la réglementation en vigueur ;
+- les produits et ressources exceptionnels ;
+- les produits des rétributions perçues pour les services et les prestations rendues dans l'accomplissement de ses buts ;
+- toutes autres ressources autorisées par la loi.
 
 ### Section 1.7 : Règlement Intérieur
 
 L'Association se dote d'un Règlement Intérieur qui fixe les règles de fonctionnement de l'association. Ce règlement est destiné à fixer les divers points non prévus par les présents statuts, notamment ceux qui ont trait à l'administration interne de l'association.
 
-Le Règlement Intérieur peut être modifié par l'Assemblée Générale Ordinaire sur proposition du Comité de Direction comme définit dans l'[Article 4](#article-4--assemblée-générale).
+Le Règlement Intérieur peut être modifié par l'Assemblée Générale Ordinaire sur proposition du Comité de Direction comme défini dans l'[Article 4](#article-4--assemblée-générale).
 
 Il doit figurer dans le Règlement Intérieur :
 
-- Le montant de la cotisation annuelle ;
-- Le délai de payement de la cotisation annuelle ;
-- Le délai de signature du Règlement Intérieur ;
-- Le quorum de présence aux Assemblées Générales.
+- le montant de la cotisation annuelle ;
+- le délai de paiement de la cotisation annuelle ;
+- le délai de signature du Règlement Intérieur ;
+- les canaux de communication internes utilisés par l'Association.
 
 ## Article 2 : Membres
 
@@ -69,39 +69,45 @@ L’Association comprend les qualités de membres suivantes:
 - Membres Émérites ;
 - Membres annuels.
 
+Tous les membres ont pour devoir de venir en Assemblée Générale où ils peuvent exercer leur droit de vote.
+
 ### Section 2.1 : Membres fondateurs
 
-Les membres fondateurs sont les personnes ayant constitué l’Association en 2015, à savoir : Angéline BESLAND (Présidente), Gaël NAIME (Trésorier) et Dany NARCISSE (Secrétaire Général).
+Les membres fondateurs sont les personnes ayant constitué l'Association en 2015, à savoir : Angéline BESLAND (Présidente), Gaël NAIME (Trésorier) et Dany NARCISSE (Secrétaire Général).
 
-Leurs noms figurent ci-dessus dans ces statuts et doivent figurer, dans l’éventualité que cela se produise, sur tous les prochains statuts de l’Association sous le même format.
-Les droits des membres fondateurs incluent tous les droits des Membres d’Honneur et des Membres Émérites a minima.
-Les membres fondateurs sont des membres à vie de l’Association.
+Leurs noms figurent ci-dessus dans ces statuts et doivent figurer, dans l'éventualité où cela se produirait, sur tous les prochains statuts de l'Association sous le même format.
+Les droits des membres fondateurs incluent tous les droits des Membres d'Honneur et des Membres Émérites au minimum.
+Les membres fondateurs sont des membres à vie de l'Association.
 
 ### Section 2.2 : Membres d'Honneur
 
-La qualité de Membre d'Honneur est décernée en Assemblée Générale. Le statut de Membre d'Honneur est proposé aux personnes physiques qui ont activement contribué à l'amélioration de l’association et qui ont présenté un travail d’excellence, se démarquant par le sérieux et la rigueur de leur travail.
+La qualité de Membre d'Honneur est décernée en Assemblée Générale.
+
+Les Membres d'Honneur sont des personnes qui ont rendu des services exceptionnels à l'Association en raison de leur engagement, de leur dévouement et de leur contribution significative à la réalisation de ses objectifs. Du fait de leur importante implication dans l'Association, ils pourront être invités à participer à divers événements de la vie de l'Association même après le terme de leurs études.
 
 Les conditions s'appliquant à l'attribution du statut de Membre Émérite s'appliquent aussi à l'attribution du statut de Membre d'Honneur.
 
 L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
 
-- le Bureau propose des membres annuels auxquels attribuer le statut et les soumets en Assemblée Générale où la majorité relative décide de l'attribution du statut.
+- Le Bureau propose des membres annuels auxquels attribuer le statut et les soumet en Assemblée Générale où la majorité relative décide de l'attribution du statut.
 - Les membres se voyant décerné le statut de Membre d'Honneur disposent d'un délai d'une semaine pour l'accepter ou le refuser individuellement. Passé ce délai, le statut de Membre d'Honneur sera considéré comme accepté. En cas de refus, la remise du statut pourra être faite à un prochain vote.
 
-Le nombre d'attributions du statut de Membre d’Honneur de l’association est limité à 4 étudiants par année scolaire. L'année scolaire est définie dans l'[Article 2.4.1](#sous-section-241--définition).
+Le nombre d'attributions du statut de Membre d’Honneur de l’Association est limité à 4 étudiants par année scolaire. L'année scolaire est définie dans l'[Article 2.4.1](#sous-section-241--définition).
 
-Les Membres d’Honneur sont Membres à Vie de l’association.
+Les Membres d’Honneur sont Membres à Vie de l’Association.
 La qualité de Membre d'Honneur n'est pas cumulable avec celle de membre annuel, de ce fait un membre se voyant décerné la qualité de Membre d'Honneur perd celle de membre annuel.
 
 ### Section 2.3 : Membres Émérites
 
 La qualité de Membre Émérite est décernée en Assemblée Générale, sans vote et sur proposition du Bureau.
 
-Elle est décernée aux personnes physiques qui ont rendu des services éminents à l’association.
+Les Membres Émérites sont nommés en reconnaissance de leur contribution remarquable et investissement régulier dans la vie de l'Association. Du fait de leur implication dans l'Association, ils pourront être invités à participer à divers événements de la vie de l'Association même après le terme de leurs études.
 
-Cette qualité ne peut être attribué qu'à un membre annuel faisant partie de l'association depuis plus d'un an révolu.
+Cette qualité ne peut être attribuée qu'à un membre annuel faisant partie de l'Association depuis plus d'un an révolu.
 
-Les Membres Émérites sont Membres à Vie de l’association. Le statut de Membre Émérite est cumulable avec la qualité de membre annuel et de Membre d'Honneur.
+Les Membres Émérites sont Membres à Vie de l’Association. Le statut de Membre Émérite est cumulable avec la qualité de membre annuel et de Membre d'Honneur.
+
+Le statut de Membre Alumni qui était mentionné dans les précédents statuts est renommé Membre Émérite.
 
 ### Section 2.4 : Membres annuels
 
@@ -119,12 +125,12 @@ Le Bureau se réserve le droit de conditionner la réinscription d'un membre ann
 
 Le processus d'admission dans l'Association en tant que membre annuel est le suivant :
 
-1. Entretien face à deux membres minimum, dont un membre du Bureau.
+1. Entretien face à minimum deux membres, de préférence du Bureau.
 2. Délibération du Bureau, à la suite duquel le candidat reçoit une notice d'admission ou de refus.
 3. En cas d'admission, le candidat signe le Règlement Intérieur et s'acquitte de la cotisation dans les délais définis par ce dernier.
 4. Le candidat est admis en tant que membre annuel de l'Association.
 
-Le Comité de Direction se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander par courriel un remboursement de sa cotisation s'il s'en ai déjà acquitté.
+Le Comité de Direction se réserve le droit d'annuler l'admission d'un candidat jusqu'à 30 jours après celle-ci, et ce sans justification. Le candidat peut alors demander par courriel un remboursement de sa cotisation s'il s'en est déjà acquitté.
 
 ### Section 2.5 : Perte de la qualité de membre
 
@@ -132,19 +138,19 @@ La qualité de membre peut être perdue suite :
 
 - à une démission notifiée par écrit ;
 - à une radiation prononcée par le Bureau ;
-- au non-paiement de la cotisation ;
+- au non-paiement de la cotisation si applicable ;
 - au non-respect du Règlement Intérieur de l'Association ;
 - à une atteinte négative à l’Association ou à son image ;
 - au décès physique de la personne ;
 - à tout autre motif grave.
 
-La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er Juillet 1901.
+La perte de la qualité de membre n’entraîne aucun droit au remboursement des sommes déjà versées par l’intéressé, ni aucun dédommagement d’aucune sorte, à quelque titre que ce soit, sous réserve de ce qui est prévu dans l’article 6 de la Loi du 1er juillet 1901.
 
 ### Section 2.6 : Persona non grata
 
 La présidence se réserve le droit d’attribuer le statut de persona non grata à un membre sans explication ni justification et sans préavis.
 
-Un membre se voyant attribué le statut de persona non grata est immédiatement exclu de l'Association, perd sa qualité de membre et ne peut plus participer à aucunes des activités de l'Association.
+Un membre se voyant attribuer le statut de persona non grata est immédiatement exclu de l'Association, perd sa qualité de membre et ne peut plus participer à aucune des activités de l'Association.
 
 ## Article 3 : Comités
 
@@ -156,7 +162,7 @@ Le Comité de Contrôle a le pouvoir unanime de décider de sa dissolution. En c
 
 Les membres du Comité de Contrôle possèdent le droit de veto sur les décisions relatives à la dissolution de l'Association, à la modification de ses statuts et à toute résolution soumise lors des Assemblées Générales. Ainsi, toute proposition devant être soumise à une Assemblée Générale doit être préalablement présentée au Comité de Contrôle par le Bureau, au moins 2 semaines avant ladite Assemblée Générale. En l'absence de veto de la part des membres du Comité de Contrôle, les propositions peuvent être soumises à l'Assemblée Générale. Une fois présentée en Assemblée Générale, une proposition échappe au pouvoir de veto du Comité de Contrôle.
 
-Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, avec la possibilité d'effectuer deux mandats consécutifs. Ce délai assure une rotation régulière des membres et garantit une stabilité dans la supervision des activités de l'Association.
+Le mandat au sein du Comité de Contrôle est exercé sur une durée de 4 ans, avec la possibilité d'effectuer deux mandats. La décision de reconduction d'un mandat est prise par le Comité de Contrôle selon les modalités définies dans ses règles internes. Cette règle est rétroactive et s'applique aux mandats en cours. Un membre ayant déjà effectué deux mandats, consécutifs ou non, ne peut pas se représenter. Ce délai assure une rotation régulière des membres et garantit une stabilité dans la supervision des activités de l'Association.
 
 ### Section 3.2 : Comité de Direction
 
@@ -188,15 +194,15 @@ Il est chargé de vérifier l'exactitude de la comptabilité de toutes les opér
 
 Le Secrétaire Général de l'Association assiste la Présidence dans les tâches juridiques et administratives de l'Association.
 
-Ces responsabilités englobent principalement la gestion des correspondances par courrier et par courriel de l’Association. Le Secrétaire Général est également chargé de la préparation des convocations et des comptes-rendus de réunions, ainsi que de la tenue à jour des divers registres et archives de l'Association.
+Ses responsabilités englobent principalement la gestion des correspondances par courrier et par courriel de l’Association. Le Secrétaire Général est également chargé de la préparation des convocations et des comptes-rendus de réunions, ainsi que de la tenue à jour des divers registres et archives de l'Association.
 
 ### Section 3.3 : Comité de Gestion
 
-Le Comité de Gestion est constitué de Responsables de pôles. Les Responsables sont des postes de gestion, définit par le Comité de Direction, à pourvoir lors d'une Assemblée Générale.
+Le Comité de Gestion est constitué de Responsables de pôles. Les Responsables sont des postes de gestion, définis par le Comité de Direction, à pourvoir lors d'une Assemblée Générale.
 
 Un même poste peut être occupé par un Responsable ou plusieurs Co-Responsables élus en Assemblée Générale.
 
-La mission d'un Responsable est de mener à bien la gestion du pôle lui ayant été confié.
+La mission d'un Responsable est de mener à bien la gestion du pôle qui lui a été confié.
 
 Les rôles spécifiques au sein du Comité de Gestion ne sont pas énumérés dans les statuts, étant susceptibles d'évoluer d'une année à l'autre.
 
@@ -206,7 +212,7 @@ Le Comité de Soutien, constitué de membres de l'Association, vise à apporter 
 
 Les membres du Comité de Soutien sont désignés initialement par le Bureau lors d'une Assemblée Générale, sans nécessiter de vote. Par la suite, tout changement de membre au sein du Comité de Soutien n'exige pas de validation lors d'une Assemblée Générale.
 
-Les membres du Comité de Soutien n'ont pas de pouvoir de décision formel au sein de l'Association par rapport au Bureau.
+Les membres du Comité de Soutien n'ont pas de pouvoir de décision formel au sein de l'Association, contrairement au Bureau.
 
 Les rôles spécifiques au sein du Comité de Soutien ne sont pas énumérés dans les statuts, étant susceptibles d'évoluer d'une année à l'autre.
 
@@ -222,7 +228,7 @@ En cas d'absence prolongée (d'une durée d'un mois) ou de démission de tous le
 
 ### Sous-section 3.5.2 : Pouvoirs du Bureau
 
-Le Bureau administre l’Association conformément à son objet.
+Le Bureau administre l'Association conformément à son objet.
 
 Parmi les pouvoirs du Bureau figurent notamment :
 
@@ -241,16 +247,16 @@ L’Assemblée Générale convoque tous les membres.
 Ils sont convoqués par au moins deux de ces moyens de communication :
 
 - courriel ;
-- annonce sur les canaux internes de l'Association ;
+- annonce sur les canaux internes de l'Association définis dans le Règlement Intérieur ;
 - convocation individuelle ;
 - affichage dans les locaux de l’Association ;
 - bulletin d’information.
 
 Le délai de convocation à l’Assemblée Générale est fixé à une semaine avant celle-ci.
-La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, définit préalablement par le Bureau.
-Le quorum de présence est défini par le Règlement Intérieur.
+La convocation doit informer du lieu et de la date de l'Assemblée Générale ainsi que de son ordre du jour, défini préalablement par le Bureau.
+Le quorum de l'Assemblée Générale est fixé à 30% des membres ayant le droit de vote. Les membres présents physiquement ainsi que les membres représentés par procuration sont pris en compte pour le calcul du quorum.
 
-Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents ou représentés.
+Sauf si précisé autrement, les décisions sont prises à la majorité simple des membres présents physiquement ou représentés.
 Chaque membre présent détient un vote et peut posséder au plus deux procurations de vote.
 
 Les procès-verbaux des délibérations de l'Assemblée Générale sont tenus par le Secrétariat et signés par la Présidence.
@@ -263,7 +269,7 @@ Une Assemblée Générale est compétente de :
 
 ### Section 5.1 : Assemblée Générale Ordinaire
 
-L'Assemblée Générale Ordinaire doit se réunir régulièrement avec l'un de ses deux objectifs :
+L'Assemblée Générale Ordinaire doit se réunir régulièrement avec l'un de ces deux objectifs :
 
 - informer les membres ;
 - passation du Bureau, partielle ou complète.
