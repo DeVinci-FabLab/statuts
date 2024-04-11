@@ -218,7 +218,7 @@ Les rôles spécifiques au sein du Comité de Soutien ne sont pas énumérés da
 
 ### Section 3.5 : Bureau
 
-### Sous-section 3.5.1 : Définition
+#### Sous-section 3.5.1 : Définition
 
 Le Bureau assume la direction de l'Association. Chaque année, l'Assemblée Générale Ordinaire élit un nouveau Bureau pour un mandat d'un an, composé exclusivement du Comité de Direction et du Comité de Gestion.
 
@@ -226,7 +226,7 @@ En cas d'absence prolongée (d'une durée d'un mois) ou de démission d'un membr
 
 En cas d'absence prolongée (d'une durée d'un mois) ou de démission de tous les membres du Bureau, une Assemblée Générale Extraordinaire est convoquée avec comme seul point à l'ordre du jour l'élection d'un nouveau Bureau ou la dissolution de l'Association.
 
-### Sous-section 3.5.2 : Pouvoirs du Bureau
+#### Sous-section 3.5.2 : Pouvoirs du Bureau
 
 Le Bureau administre l'Association conformément à son objet.
 
