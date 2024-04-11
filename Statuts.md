@@ -293,7 +293,7 @@ La dissolution ou fusion de l’Association est votée à la majorité qualifié
 
 Une Assemblée Générale Extraordinaire proposant la modification des statuts ne peut aussi proposer l'élection entière ou partielle du Bureau.
 
-En cas de changement des statuts, ils sont signés par la Présidence et un membre du Comité de Contrôle.
+En cas de changement des statuts, ils sont signés par un memebre de la Présidence et un membre du Comité de Contrôle.
 
 ---
 
