@@ -62,7 +62,7 @@ Il doit figurer dans le Règlement Intérieur :
 
 ## Article 2 : Membres
 
-L’Association comprend les qualités de membres suivantes:
+L’Association comprend les qualités de membres suivantes :
 
 - Membres fondateurs ;
 - Membres d’Honneur ;
@@ -77,7 +77,7 @@ Les membres fondateurs sont les personnes ayant constitué l'Association en 2015
 
 Leurs noms figurent ci-dessus dans ces statuts et doivent figurer, dans l'éventualité où cela se produirait, sur tous les prochains statuts de l'Association sous le même format.
 Les droits des membres fondateurs incluent tous les droits des Membres d'Honneur et des Membres Émérites au minimum.
-Les membres fondateurs sont des membres à vie de l'Association.
+Les membres fondateurs sont membres à vie de l'Association.
 
 ### Section 2.2 : Membres d'Honneur
 
@@ -85,17 +85,17 @@ La qualité de Membre d'Honneur est décernée en Assemblée Générale.
 
 Les Membres d'Honneur sont des personnes qui ont rendu des services exceptionnels à l'Association en raison de leur engagement, de leur dévouement et de leur contribution significative à la réalisation de ses objectifs. Du fait de leur importante implication dans l'Association, ils pourront être invités à participer à divers événements de la vie de l'Association même après le terme de leurs études.
 
-Les conditions s'appliquant à l'attribution du statut de Membre Émérite s'appliquent aussi à l'attribution du statut de Membre d'Honneur.
+Les conditions s'appliquant à l'attribution de la qualité de Membre Émérite s'appliquent aussi à l'attribution de la qualité de Membre d'Honneur.
 
-L'attribution du statut de Membre d'Honneur se fait en plusieurs temps :
+L'attribution de la qualité de Membre d'Honneur se fait en plusieurs temps :
 
-- Le Bureau propose des membres annuels auxquels attribuer le statut et les soumet en Assemblée Générale où la majorité relative décide de l'attribution du statut.
-- Les membres se voyant décerné le statut de Membre d'Honneur disposent d'un délai d'une semaine pour l'accepter ou le refuser individuellement. Passé ce délai, le statut de Membre d'Honneur sera considéré comme accepté. En cas de refus, la remise du statut pourra être faite à un prochain vote.
+- Le Bureau propose des membres annuels auxquels attribuer la qualité et les soumet en Assemblée Générale où la majorité relative décide de l'attribution de la qualité.
+- Les membres se voyant décerné la qualité de Membre d'Honneur disposent d'un délai d'une semaine pour l'accepter ou la refuser individuellement. Passé ce délai, la qualité de Membre d'Honneur sera considérée comme acceptée. En cas de refus, la remise de la qualité pourra être faite à un prochain vote.
 
-Le nombre d'attributions du statut de Membre d’Honneur de l’Association est limité à 4 étudiants par année scolaire. L'année scolaire est définie dans l'[Article 2.4.1](#sous-section-241--définition).
+Le nombre d'attributions de la qualité de Membre d’Honneur de l’Association est limité à 4 membres par année scolaire. L'année scolaire est définie dans l'[Article 2.4.1](#sous-section-241--définition).
 
-Les Membres d’Honneur sont Membres à Vie de l’Association.
-La qualité de Membre d'Honneur n'est pas cumulable avec celle de membre annuel, de ce fait un membre se voyant décerné la qualité de Membre d'Honneur perd celle de membre annuel.
+Les Membres d’Honneur sont membres à vie de l’Association.
+La qualité de Membre d'Honneur n'est pas cumulable avec celle de membre annuel, de ce fait un membre se voyant décerné la qualité de Membre d'Honneur perd celle de membre annuel. La qualité de Membre d'Honneur est cumulable avec la qualité de Membre Émérite.
 
 ### Section 2.3 : Membres Émérites
 
@@ -103,11 +103,11 @@ La qualité de Membre Émérite est décernée en Assemblée Générale, sans vo
 
 Les Membres Émérites sont nommés en reconnaissance de leur contribution remarquable et investissement régulier dans la vie de l'Association. Du fait de leur implication dans l'Association, ils pourront être invités à participer à divers événements de la vie de l'Association même après le terme de leurs études.
 
-Cette qualité ne peut être attribuée qu'à un membre annuel faisant partie de l'Association depuis plus d'un an révolu.
+Cette qualité ne peut être attribuée qu'à un membre faisant partie de l'Association depuis plus d'un an révolu.
 
-Les Membres Émérites sont Membres à Vie de l’Association. Le statut de Membre Émérite est cumulable avec la qualité de membre annuel et de Membre d'Honneur.
+Les Membres Émérites sont membres à vie de l’Association. La qualité de Membre Émérite est cumulable avec les qualités de membre annuel et de Membre d'Honneur.
 
-Le statut de Membre Alumni qui était mentionné dans les précédents statuts est renommé Membre Émérite.
+La qualité de Membre Alumni qui était mentionné dans les précédents statuts est renommé Membre Émérite.
 
 ### Section 2.4 : Membres annuels
 
@@ -148,9 +148,9 @@ La perte de la qualité de membre n’entraîne aucun droit au remboursement des
 
 ### Section 2.6 : Persona non grata
 
-La présidence se réserve le droit d’attribuer le statut de persona non grata à un membre sans explication ni justification et sans préavis.
+La Présidence se réserve le droit d’attribuer la qualité de persona non grata à un membre sans explication ni justification et sans préavis.
 
-Un membre se voyant attribuer le statut de persona non grata est immédiatement exclu de l'Association, perd sa qualité de membre et ne peut plus participer à aucune des activités de l'Association.
+Un membre se voyant attribuer la qualité de persona non grata est immédiatement exclu de l'Association, perd sa qualité de membre et ne peut plus participer à aucune des activités de l'Association.
 
 ## Article 3 : Comités
 
@@ -264,7 +264,7 @@ Les procès-verbaux des délibérations de l'Assemblée Générale sont tenus pa
 Une Assemblée Générale est compétente de :
 
 - l'élection entière ou partielle du Bureau ;
-- l'attribution du statut de Membre d'Honneur ou Membre Émérites ;
+- l'attribution de la qualité de Membre d'Honneur ou Membre Émérites ;
 - la modification du Règlement Intérieur.
 
 ### Section 5.1 : Assemblée Générale Ordinaire
@@ -272,7 +272,7 @@ Une Assemblée Générale est compétente de :
 L'Assemblée Générale Ordinaire doit se réunir régulièrement avec l'un de ces deux objectifs :
 
 - informer les membres ;
-- passation du Bureau, partielle ou complète.
+- faire la passation du Bureau, partielle ou complète.
 
 Le Comité de Direction ouvre l'Assemblée Générale Ordinaire en exposant la situation morale de l’Association avec les bilans financier, d'activité et humain.
 
@@ -293,7 +293,7 @@ La dissolution ou fusion de l’Association est votée à la majorité qualifié
 
 Une Assemblée Générale Extraordinaire proposant la modification des statuts ne peut aussi proposer l'élection entière ou partielle du Bureau.
 
-En cas de changement des statuts, ils sont signés par un memebre de la Présidence et un membre du Comité de Contrôle.
+En cas de changement des statuts, ils sont signés par un membre de la Présidence et un membre du Comité de Contrôle.
 
 ---
 
