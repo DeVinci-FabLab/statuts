@@ -196,6 +196,15 @@ Le Secrétaire Général de l'Association assiste la Présidence dans les tâche
 
 Ses responsabilités englobent principalement la gestion des correspondances par courrier et par courriel de l’Association. Le Secrétaire Général est également chargé de la préparation des convocations et des comptes-rendus de réunions, ainsi que de la tenue à jour des divers registres et archives de l'Association.
 
+Les registres devront commprendre :
+
+- la liste des membres fondateurs ;
+- la liste des Membres d'Honneurs ;
+- la liste des Membres Émérites ;
+- la liste des membres annuels ;
+- la liste des persona non grata ;
+- la constitution des Comités de Contrôle, de Direction, de Gestion et de Soutien.
+
 ### Section 3.3 : Comité de Gestion
 
 Le Comité de Gestion est constitué de Responsables de pôles. Les Responsables sont des postes de gestion, définis par le Comité de Direction, à pourvoir lors d'une Assemblée Générale.
